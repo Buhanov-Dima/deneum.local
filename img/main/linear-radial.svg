@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_63" data-name="Group 63" viewBox="0 0 406.8 215.794">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#52a3df;stroke-miterlimit:10;opacity:.3}.cls-2{opacity:.3;fill:#52a3df}
+        </style>
+    </defs>
+    <g id="Group_4" data-name="Group 4" transform="translate(87.284)">
+        <path id="Path_10" d="M416.087 1.9c-146.441 0-96.426 212.454-313.187 212.454" class="cls-1" data-name="Path 10" transform="translate(-99.736 -.23)"/>
+        <ellipse id="Ellipse_4" cx="1.758" cy="1.67" class="cls-2" data-name="Ellipse 4" rx="1.758" ry="1.67" transform="translate(0 212.454)"/>
+        <ellipse id="Ellipse_5" cx="1.758" cy="1.67" class="cls-2" data-name="Ellipse 5" rx="1.758" ry="1.67" transform="translate(316)"/>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(45.093)">
+        <path id="Path_11" d="M368.087 1.9C221.646 1.9 271.661 214.354 54.9 214.354" class="cls-1" data-name="Path 11" transform="translate(-51.736 -.23)"/>
+        <ellipse id="Ellipse_6" cx="1.758" cy="1.67" class="cls-2" data-name="Ellipse 6" rx="1.758" ry="1.67" transform="translate(0 212.454)"/>
+        <ellipse id="Ellipse_7" cx="1.758" cy="1.67" class="cls-2" data-name="Ellipse 7" rx="1.758" ry="1.67" transform="translate(316)"/>
+    </g>
+    <g id="Group_6" data-name="Group 6" transform="translate(32.347)">
+        <path id="Path_12" d="M353.687 1.9C207.246 1.9 257.261 214.354 40.5 214.354" class="cls-1" data-name="Path 12" transform="translate(-37.248 -.23)"/>
+        <ellipse id="Ellipse_8" cx="1.758" cy="1.67" class="cls-2" data-name="Ellipse 8" rx="1.758" ry="1.67" transform="translate(0 212.454)"/>
+        <ellipse id="Ellipse_9" cx="1.758" cy="1.67" class="cls-2" data-name="Ellipse 9" rx="1.758" ry="1.67" transform="translate(316.087)"/>
+    </g>
+    <g id="Group_7" data-name="Group 7">
+        <path id="Path_13" d="M316.787 1.9C170.434 1.9 220.361 214.354 3.6 214.354" class="cls-1" data-name="Path 13" transform="translate(-.436 -.23)"/>
+        <ellipse id="Ellipse_10" cx="1.758" cy="1.67" class="cls-2" data-name="Ellipse 10" rx="1.758" ry="1.67" transform="translate(0 212.454)"/>
+        <ellipse id="Ellipse_11" cx="1.758" cy="1.67" class="cls-2" data-name="Ellipse 11" rx="1.758" ry="1.67" transform="translate(316)"/>
+    </g>
+</svg>
