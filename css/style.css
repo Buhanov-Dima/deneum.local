@@ -358,6 +358,7 @@ button {outline: none; cursor: pointer;}
 	justify-content: flex-start;
 	align-items: center;
 	flex-wrap: wrap;
+	position: relative;
 	padding: 17px 15px 0;
 	background-image: -webkit-linear-gradient(right, rgba(82, 163, 223, 0.24), rgba(82, 163, 223, 0.24));
 	background-image: -o-linear-gradient(right, rgba(82, 163, 223, 0.24), rgba(82, 163, 223, 0.24));
@@ -387,5 +388,25 @@ button {outline: none; cursor: pointer;}
 	border-bottom: 2px solid #199ae0;
 	border-left: 2px solid #199ae0;
 	left: -6px;
+	bottom: -6px;
+}
+.wb3-txt::after {
+	content: '';
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	border-top: 2px solid #199ae0;
+	border-right: 2px solid #199ae0;
+	right: -6px;
+	top: -6px;
+}
+.wb3-txt::before {
+	content: '';
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	border-bottom: 2px solid #199ae0;
+	border-right: 2px solid #199ae0;
+	right: -6px;
 	bottom: -6px;
 }
