@@ -14,5 +14,25 @@ $(document).ready(function(){
         var tab = $(this).attr('href');
         $('.power-station').not(tab).css({'display':'none'});
         $(tab).fadeIn(400);
-    })
+    });
+
+	$(".slaider").owlCarousel({
+		loop:true,
+    	margin: 10,
+        responsive:{
+            320:{
+                items:1
+            },
+            576:{
+                items:2
+            },
+            993:{
+                items:2
+            },
+            1200:{
+                items:4
+            }
+        }  
+	});
+
 });
