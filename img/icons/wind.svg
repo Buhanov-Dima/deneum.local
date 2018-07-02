@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96.907 93.083">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#52a3df;stroke-miterlimit:10;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="Group_100" data-name="Group 100" transform="translate(.548 .622)">
+        <path id="Path_93" d="M36.428 46.537c-3.569 0-7.666-6.08-6.477-13.615 1.322-7.4 7.666-27.758 8.988-30.534s5.155-2.776 5.155.661v42.034c0 .925-1.322 1.322-1.322 1.322s-2.772.132-6.344.132z" class="cls-1" data-name="Path 93" transform="translate(9.396)"/>
+        <circle id="Ellipse_18" cx="5.948" cy="5.948" r="5.948" class="cls-1" data-name="Ellipse 18" transform="translate(42.387 51.692)"/>
+        <path id="Path_94" d="M45.661 46.6c1.851-2.908 9.253-3.172 14.936 1.983s19.166 21.548 20.753 24.06-.529 5.816-3.3 3.965c-1.718-.925-29.344-18.77-35.424-22.735-.793-.529-.4-1.851-.4-1.851s1.584-2.379 3.435-5.422z" class="cls-1" data-name="Path 94" transform="translate(13.381 14.209)"/>
+        <path id="Path_95" d="M41.726 52.6c1.983 2.908-.529 9.781-7.4 13.086C27.451 68.854 7.1 75.331 4.187 75.86s-5.155-2.644-2.379-4.626c1.454-1.057 28.419-19.959 34.367-24.189.661-.529 1.851.264 1.851.264s1.585 2.511 3.7 5.291z" class="cls-1" data-name="Path 95" transform="translate(0 14.957)"/>
+    </g>
+</svg>

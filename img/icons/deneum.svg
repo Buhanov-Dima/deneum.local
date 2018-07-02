@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_116" data-name="Group 116" viewBox="0 0 111.235 111.235">
+    <defs>
+        <style>
+            .cls-1{fill:#52a3df}.cls-2{fill:none;stroke:#52a3df;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="Group_108" data-name="Group 108">
+        <path id="Path_130" d="M46.083 2.119v43.964H2.119A54.064 54.064 0 0 1 46.083 2.119M47.849 0A56.183 56.183 0 0 0 0 47.849h47.849V0z" class="cls-1" data-name="Path 130"/>
+    </g>
+    <g id="Group_109" data-name="Group 109" transform="translate(0 63.386)">
+        <path id="Path_131" d="M46.083 37.666V81.63A54.064 54.064 0 0 1 2.119 37.666h43.964m1.766-1.766H0a56.183 56.183 0 0 0 47.849 47.849V35.9z" class="cls-1" data-name="Path 131" transform="translate(0 -35.9)"/>
+    </g>
+    <g id="Group_110" data-name="Group 110" transform="translate(63.386)">
+        <path id="Path_132" d="M37.666 2.119A54.276 54.276 0 0 1 81.63 46.083H37.666V2.119M35.9 0v47.849h47.849A56.183 56.183 0 0 0 35.9 0z" class="cls-1" data-name="Path 132" transform="translate(-35.9)"/>
+    </g>
+    <g id="Group_111" data-name="Group 111" transform="translate(63.386 63.386)">
+        <path id="Path_133" d="M81.63 37.666A54.276 54.276 0 0 1 37.666 81.63V37.666H81.63m2.119-1.766zm0 0H35.9v47.849A56.183 56.183 0 0 0 83.749 35.9z" class="cls-1" data-name="Path 133" transform="translate(-35.9 -35.9)"/>
+    </g>
+    <g id="Group_112" data-name="Group 112" transform="translate(73.098 21.894)">
+        <circle id="Ellipse_39" cx="7.945" cy="7.945" r="7.945" class="cls-2" data-name="Ellipse 39"/>
+    </g>
+    <g id="Group_113" data-name="Group 113" transform="translate(23.66 21.894)">
+        <circle id="Ellipse_40" cx="7.945" cy="7.945" r="7.945" class="cls-2" data-name="Ellipse 40"/>
+    </g>
+    <g id="Group_114" data-name="Group 114" transform="translate(73.098 71.332)">
+        <circle id="Ellipse_41" cx="7.945" cy="7.945" r="7.945" class="cls-2" data-name="Ellipse 41"/>
+    </g>
+    <g id="Group_115" data-name="Group 115" transform="translate(23.66 71.332)">
+        <circle id="Ellipse_42" cx="7.945" cy="7.945" r="7.945" class="cls-2" data-name="Ellipse 42"/>
+    </g>
+</svg>

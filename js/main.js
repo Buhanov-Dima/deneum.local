@@ -35,4 +35,13 @@ $(document).ready(function(){
         }  
 	});
 
+	$(window).scroll(function(){
+    if ($(window).scrollTop() > 1800) {
+        $('.line').addClass('active');
+    }
+    else {
+        $('.line').removeClass('active');
+    }
+});
+
 });

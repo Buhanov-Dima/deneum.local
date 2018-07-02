@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_99" data-name="Group 99" viewBox="0 0 129 129">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:#52a3df;font-family:Gridnik}.cls-1{font-size:34px}.cls-2{font-size:19px}.cls-3,.cls-4,.cls-6{fill:none;stroke-miterlimit:10}.cls-3,.cls-6{stroke:#52a3df}.cls-3{opacity:.3}.cls-4{stroke:#24d0b5}.cls-5{fill:#24d0b5}
+        </style>
+    </defs>
+    <g id="Group_97" data-name="Group 97" transform="translate(.5 .5)">
+        <text id="_85" class="cls-1" data-name="$85" transform="translate(31.003 64.267)">
+            <tspan x="0" y="0">$85</tspan>
+        </text>
+        <text id="MWh" class="cls-2" transform="translate(41.652 95.205)">
+            <tspan x="0" y="0">MWh</tspan>
+        </text>
+        <circle id="Ellipse_29" cx="64" cy="64" r="64" class="cls-3" data-name="Ellipse 29"/>
+        <g id="Group_96" data-name="Group 96" transform="translate(4.444 4.444)">
+            <circle id="Ellipse_30" cx="57.037" cy="57.037" r="57.037" class="cls-4" data-name="Ellipse 30" transform="translate(2.519 2.519)"/>
+            <g id="Group_92" data-name="Group 92" transform="translate(57.037)">
+                <circle id="Ellipse_31" cx="2.519" cy="2.519" r="2.519" class="cls-5" data-name="Ellipse 31"/>
+                <circle id="Ellipse_32" cx="2.519" cy="2.519" r="2.519" class="cls-5" data-name="Ellipse 32" transform="translate(0 114.222)"/>
+            </g>
+            <g id="Group_93" data-name="Group 93" transform="translate(0 57.037)">
+                <circle id="Ellipse_33" cx="2.519" cy="2.519" r="2.519" class="cls-5" data-name="Ellipse 33"/>
+                <circle id="Ellipse_34" cx="2.519" cy="2.519" r="2.519" class="cls-5" data-name="Ellipse 34" transform="translate(114.222 .148)"/>
+            </g>
+            <g id="Group_94" data-name="Group 94" transform="translate(16.741 16.741)">
+                <circle id="Ellipse_35" cx="2.519" cy="2.519" r="2.519" class="cls-5" data-name="Ellipse 35"/>
+                <circle id="Ellipse_36" cx="2.519" cy="2.519" r="2.519" class="cls-5" data-name="Ellipse 36" transform="translate(80.741 80.741)"/>
+            </g>
+            <g id="Group_95" data-name="Group 95" transform="translate(16.741 16.741)">
+                <circle id="Ellipse_37" cx="2.519" cy="2.519" r="2.519" class="cls-5" data-name="Ellipse 37" transform="translate(80.741)"/>
+                <circle id="Ellipse_38" cx="2.519" cy="2.519" r="2.519" class="cls-5" data-name="Ellipse 38" transform="translate(0 80.741)"/>
+            </g>
+        </g>
+        <path id="Line_16" d="M0 0h70.963" class="cls-6" data-name="Line 16" transform="translate(28.593 73.481)"/>
+    </g>
+</svg>

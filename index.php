@@ -179,6 +179,90 @@
 			</div>
 		</div>
 	</section>
+
+
+	<section id="b4">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="wrap-b4">
+						<h1 class="standart-h1">ULTRA-LOW-COST ELECTRICITY</h1>
+						<div class="wrap-progress">
+							<p class="b4-f1">WIND</p>
+							<div class="pro-img">
+								<img src="/img/icons/wind.svg" alt="">
+							</div>
+							<div class="line">
+								<p>0</p>
+								<p>50</p>
+								<p>100</p>
+							</div>
+							<div class="pro-img">
+								<img src="/img/icons/85.svg" alt="">
+							</div>
+						</div>
+						<div class="wrap-progress">
+							<p class="b4-f1">COAL</p>
+							<div class="pro-img">
+								<img src="/img/icons/coal.svg" alt="">
+							</div>
+							<div class="line line-2">
+								<p>0</p>
+								<p>50</p>
+								<p>100</p>
+							</div>
+							<div class="pro-img">
+								<img src="/img/icons/85.svg" alt="">
+							</div>
+						</div>
+						<div class="wrap-progress">
+							<p class="b4-f1">NATURAL GAS</p>
+							<div class="pro-img">
+								<img src="/img/icons/gas.svg" alt="">
+							</div>
+							<div class="line line-3">
+								<p>0</p>
+								<p>50</p>
+								<p>100</p>
+							</div>
+							<div class="pro-img">
+								<img src="/img/icons/85.svg" alt="">
+							</div>
+						</div>
+						<div class="wrap-progress">
+							<p class="b4-f1">NUCLEAR</p>
+							<div class="pro-img">
+								<img src="/img/icons/nuclear.svg" alt="">
+							</div>
+							<div class="line line-4">
+								<p>0</p>
+								<p>50</p>
+								<p>100</p>
+							</div>
+							<div class="pro-img">
+								<img src="/img/icons/85.svg" alt="">
+							</div>
+						</div>
+						<div class="wrap-progress">
+							<p class="b4-f1">DENEUM</p>
+							<div class="pro-img">
+								<img src="/img/icons/deneum.svg" alt="">
+							</div>
+							<div class="line line-5">
+								<p>0</p>
+								<p>50</p>
+								<p>100</p>
+							</div>
+							<div class="pro-img">
+								<img src="/img/icons/85.svg" alt="">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	
 	<footer></footer>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
