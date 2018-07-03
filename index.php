@@ -244,11 +244,12 @@
 							</div>
 						</div>
 						<div class="wrap-progress">
-							<p class="b4-f1">DENEUM</p>
+							<p class="b4-f1 den">DENEUM</p>
 							<div class="pro-img">
 								<img src="/img/icons/deneum.svg" alt="">
 							</div>
 							<div class="line line-5">
+								<div class="cheaper">95% <span>CHEAPER THAN GAS</span></div>
 								<p>0</p>
 								<p>50</p>
 								<p>100</p>
@@ -262,12 +263,54 @@
 			</div>
 		</div>
 	</section>
-	
+
+
+	<section id="b5">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-xl-12">
+					<div class="wrap-b5">
+						<h1 class="standart-h1">TWO-TRILLION DOLLAR MARKET</h1>
+						<div class="wrap-graphic">
+							<b></b>
+							<div class="gr-txt">
+								<p>15% <span>RENEWABLES</span></p>
+								<p>85% <span id="txt-red">DIRTY SOURCES</span></p>
+							</div>
+							<div class="graphic">
+								<div class="graph-1"></div>
+								<div class="graph-2"></div>
+								<div class="graph-3"><img src="/img/icons/neutron.svg" alt=""></div>
+								<i id="t-1">1%</i>
+								<i id="t-2">4%</i>
+								<i id="t-3">10%</i>
+								<i id="t-4">10%</i>
+								<i id="t-5">12%</i>
+								<i id="t-6">28%</i>
+								<i id="t-7">35%</i>
+							</div>
+							<div class="gr-txt-2">
+								<p>ATOMIC</p>
+								<p>10%</p>
+							</div>
+						</div>
+						<div class="wrap-box-b1">
+							<div class="box-b2">
+								<p>CO2 emissions rose by 50% since 1996</p>
+								<p>DENEUM will sustitute a significant share of polluting sources</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
 	<footer></footer>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 	<script src="/js/owl.carousel.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>
 	<script src="/js/main.js"></script>
 </body>
