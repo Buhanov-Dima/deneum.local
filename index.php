@@ -305,6 +305,171 @@
 			</div>
 		</div>
 	</section>
+
+	<section id="b6">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="wrapper-b6">
+						<div class="wrap-b6">
+							<i></i><i></i><i></i><i></i>
+							<h3>Global annual consumption<br> of electricity</h3>
+							<p id="b6-p-1">TWh</p>
+							<p id="b6-p-2">22,000 TWh</p>
+							<p id="b6-p-3">t</p>
+							<img src="/img/main/graphic-2.svg" alt="">
+							<div class="b6-down-line">
+								<p>1850</p>
+								<p>1875</p>
+								<p>1900</p>
+								<p>1925</p>
+								<p>1950</p>
+								<p>1975</p>
+								<p>2017</p>
+							</div>
+						</div>
+						<div class="wrap-b6-1">
+							<img src="/img/icons/skoba.svg" alt="">
+							<h1><span>$2 TRILLION</span><br>AT STAKE</h1>
+						</div>
+					</div>
+					<div class="btn-popup text-center mg-t-5">
+						<a href="#">BUSINESS MODEL</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section id="b7">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-xl-12">
+					<h1 class="standart-h1">USE OF TOKENS</h1>
+					<div class="wrap-b7">
+						<div class="b7-txt">
+							<p>One Deneum Token (DNM) represents 1 MWh of electricity</p>
+							<p>A Token Holder with 3,000+ DNM will have the option to exchange<br> them for an electricity supply</p>
+						</div>
+						<div class="energy">
+							<div class="energy-txt">
+								<h2>ENERGY PURCHASING</h2>
+								<p>Corporate customers will be using DNM to purchase low-cost electricity</p>
+							</div>
+							<div class="energy-txt">
+								<h2>PRICE JUSTIFYING</h2>
+								<p>Once launched, DNM cannot cost much lower than average market price due to arbitrage opportunities</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section id="b8">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-xl-12">
+					<h1 class="standart-h1">TOKEN SALES</h1>
+					<div class="wrap-b8">
+						<div class="box-b2">
+							<p>A box with a capsule, generating a large amount of energy</p>
+							<p>It is safe, distributed and radically cheap</p>
+						</div>
+						<div class="wrap-square">
+							<div class="square height-210">
+								<i></i><i></i>
+								<div class="square-img-txt">
+									<img src="/img/icons/2-95.png" alt="">
+									<div class="square-txt">
+										<p>PRIVATE<br> SALE</p>
+										<p>23 APR 2018<br>29 APR 2018</p>
+									</div>
+								</div>
+								<p class="square-txt-2">Raised <span>$1,372,500</span></p>
+							</div>
+
+							<div class="square height-290">
+								<i></i><i></i>
+								<div class="square-img-txt">
+									<img src="/img/icons/5-65.png" alt="">
+									<div class="square-txt">
+										<p>PRE<br> ICO</p>
+										<p>01 OCT 2018<br>31 OCT 2018</p>
+									</div>
+								</div>
+								<p class="square-txt-2">Hard Cup <span>$5,080,000</span></p>
+								<div class="reserve">
+									<p>RESERVE THE LOWEST PRICE</p>
+								</div>
+							</div>
+
+							<div class="square height-340">
+								<i></i><i></i>
+								<div class="square-img-txt">
+									<img src="/img/icons/8-90.png" alt="">
+									<div class="square-txt">
+										<p>ICO</p>
+										<p>15 NOV 2018<br>31 JAN 2019</p>
+									</div>
+								</div>
+								<p class="square-txt-2">Hard Cup <span>$89,000,000</span></p>
+							</div>
+
+							<div class="square height-630">
+								<i></i><i></i>
+								<div class="square-img-txt">
+									<img src="/img/icons/2-95.svg" alt="">
+									<div class="square-txt">
+										<p>PRIVATE<br> SALE</p>
+										<p>23 APR 2018<br>29 APR 2018</p>
+									</div>
+								</div>
+								<p class="square-txt-2">Raised <span>$1,372,500</span></p>
+								<div class="square-txt-3">
+									<p>15 TIMES</p>
+									<p>HIGHER THAN 1 DNM NOW!</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section id="b9">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col">
+					<div class="wrap-b9">
+						<div class="tab_box">
+							<ul>
+								<li class="active">MINING</li>
+								<li>FACTORY</li>
+								<li>DRONE</li>
+							</ul>
+						</div>
+						<div class="tab_block">
+							<div class="square">
+								<i></i><i></i>
+								<div class="tab_content">
+									<div class="tab-txt">
+										<h2>DENEUM POWER STATION</h2>
+										<p>POWER <span>5 MW</span></p>
+										<p>CONNECTION TO GRID <span>NO NEED</span></p>
+									</div>
+									<div class="square">
+										<i></i><i></i>
+										<h1>95%</h1>
+										<p>CHEAPER MINING</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
 	<footer></footer>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
