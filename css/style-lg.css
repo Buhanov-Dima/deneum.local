@@ -1,0 +1,7 @@
+.wrap-square {flex-wrap: wrap; margin-top: 100px; align-items: baseline;} .square.height-210, .square.height-290, .square.height-340, .square.height-630 {height: auto; justify-content: space-around;}
+.wrap-b8 .box-b2 {position: relative;} .wrap-b6-1 {display: none;} .wrap-b6 {margin: auto;} .box-b1 p:nth-child(2)::before {top: -65px;} .tab-box {margin: auto;}
+.wrap-b1-2 p {text-align: center;} .main-b1-ul ul {justify-content: center;} .wb3-img {width: 33%;} .wb3-txt {width: 67%;}
+.wrap-slaider .slaider {padding: 10px 50px;} .slaider.owl-carousel .owl-nav button.owl-prev::before, .slaider.owl-carousel .owl-nav button.owl-next::before {top: -55px;}
+.b4-f1 {width: 150px;} .line::before {width: 490px;} .line {width: 490px;} .graphic {height: 328px;} .graph-2::before {width: 188px;} .graph-1 {width: 215px; height: 215px;}
+#t-1::before {} #t-1 {left: 159px;} #t-2 {left: 123px;} #t-3 {left: 64px; top: 49px;} #t-4 {top: 99px;} #t-5 {top: 195px;} #t-6 {top: 262px; left: 142px;} #t-7 {top: 74px;}
+.wrap-b11, .wrap-b12 {justify-content: center;} .road .square {width: 407px;} .road .square h2 {font-size: 34px; font-size: 21px;}

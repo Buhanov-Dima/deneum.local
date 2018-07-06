@@ -1,0 +1,80 @@
+#b1 {
+	max-width: 1556px;
+	width: 100%;
+	padding: 0;
+	margin: 60px auto 0;
+}
+.wrap-slaider {
+	background-color: #0f161c;
+	margin-top: 60px;
+}
+.wrap-slaider .slaider {    
+	max-width: 1513px;
+    margin: auto;
+    padding: 28px 40px;
+}
+
+.square-img-txt img {
+	max-width: 90px;
+	height: 90px;
+}
+.reserve {
+	width: 250px;
+	margin: auto;
+	height: 45px;
+	margin-top: 30px;
+}
+.reserve p{
+	font-size: 16px;
+	padding: 10px 0;
+}
+.square-txt p {
+	margin-left: 5px;
+}
+.square-txt p:nth-child(2) {
+	margin-left: 20px;
+	font-size: 22px;
+}
+.square-txt-2 {
+	margin-right: 0;
+	font-size: 22px;
+}
+.square-txt-2 span {
+	margin-left: 5px;
+	padding: 0 6px;
+}
+.square.height-210, .square.height-290, .square.height-340,.square.height-630 {max-width: 360px; margin: 10px;}
+.square-txt-3 p:first-child {font-size: 46px;}
+header {padding: 0 15px;}
+.power-station img {
+	max-width: 450px;
+}
+.box-b1 p:nth-child(2)::before {
+	top: -103px;
+}
+.main-b1-ul ul li {font-size: 22px;}
+.b1-ul li::before {right: -28px;}
+.wrap-slaider .slaider {padding: }
+.slaider {height: 120px;}
+.slaider.owl-carousel .owl-nav button.owl-prev::before, .slaider.owl-carousel .owl-nav button.owl-next::before {top: -39px;}
+
+.b3-1-txt p:nth-child(2) {font-size: 24px;}
+.b3-1-txt2 p:nth-child(1) {font-size: 24px;}
+.wrap-txt-f1 p:nth-child(1), .wrap-txt-f1 p:nth-child(2), .wrap-txt-f1 p:nth-child(3){font-size: 19px;}
+.b3-1-txt3 p {font-size: 20px;}
+.b3-1-txt3 p::after {height: 73px;}
+.wrap-progress {padding: 15px;}
+.b4-f1 {width: 18%; font-size: 27px;}
+.gr-txt-2 {padding-right: 0;}
+.gr-txt p {font-size: 94px;}
+.wrap-b6-1 h1 {font-size: 48px;}
+.wrap-b6::after {right: 40px; top: 96px;}
+.wrap-b6 {max-width: 910px;}
+.b6-down-line {max-width: 827px;}
+.energy-txt {max-width: 342px;}
+.energy-txt h2::before {width: 330px;}
+.team_txt {max-width: 420px;}
+.b12-team-txt h4 {font-size: 22px;}
+.team_txt .square p {font-size: 22px;}
+.road .square {max-width: 510px;}
+.rmap-left-cr::before {width: 84px; left: -71px;}
