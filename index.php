@@ -443,15 +443,41 @@
 					<div class="wrap-b9">
 						<div class="tab_box">
 							<ul>
-								<li class="active">MINING</li>
-								<li>FACTORY</li>
-								<li>DRONE</li>
+								<li class="active"><a href="#tb1">MINING</a></li>
+								<li><a href="#tb2">FACTORY</a></li>
+								<li><a href="#tb3">DRONE</a></li>
 							</ul>
 						</div>
 						<div class="tab_block">
 							<div class="square">
 								<i></i><i></i>
-								<div class="tab_content">
+								<div class="tab_content" id="tb1">
+									<div class="tab-txt">
+										<h2>DENEUM POWER STATION</h2>
+										<p>POWER <span>5 MW</span></p>
+										<p>CONNECTION TO GRID <span>NO NEED</span></p>
+									</div>
+									<div class="square">
+										<i></i><i></i>
+										<h1>95%</h1>
+										<p>CHEAPER MINING</p>
+									</div>
+								</div>
+
+								<div class="tab_content" id="tb2">
+									<div class="tab-txt">
+										<h2>DENEUM POWER STATION</h2>
+										<p>POWER <span>5 MW</span></p>
+										<p>CONNECTION TO GRID <span>NO NEED</span></p>
+									</div>
+									<div class="square">
+										<i></i><i></i>
+										<h1>95%</h1>
+										<p>CHEAPER MINING</p>
+									</div>
+								</div>
+
+								<div class="tab_content" id="tb3">
 									<div class="tab-txt">
 										<h2>DENEUM POWER STATION</h2>
 										<p>POWER <span>5 MW</span></p>
@@ -470,6 +496,56 @@
 			</div>
 		</div>
 	</section>
+	<section id="b10">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-xl-12">
+					<h1 class="standart-h1">PROJECT DETAILS</h1>
+					<div class="wrap-b10">
+						<div class="b10-icon">
+							<h1>29</h1>
+							<h6>YEARS OF EXPERIENCE</h6>
+						</div>
+						<div class="b10-icon bg-2">
+							<h1>2</h1>
+							<h6>PATENTS</h6>
+						</div>
+						<div class="b10-icon bg-3">
+							<h1>62</h1>
+							<h6>SUCCESSFUL TESTS</h6>
+						</div>
+					</div>
+					<div class="btn-popup text-center mg-t-5">
+						<a href="#">OUR TECHNOLOGY & EXPERIENCE</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section id="b11">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-xl-12">
+					<div class="wrap-b11">
+						<div class="team_item">
+							<div class="img-circle">
+								<img src="/img/team/" alt="">
+							</div>
+							<div>
+								<h2>Jeff McMahon. Forbes</h2>
+								<div class="square">
+									<i></i><i></i>
+									<p>“…It really is the beginning of an enormous change in how the electric system is organized, and it’s a problem for the utilities that don’t get on board”</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
 	<footer></footer>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>

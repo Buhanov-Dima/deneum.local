@@ -82,7 +82,7 @@ button {outline: none; cursor: pointer;}
 	margin-top: 60px;
 	padding: 0 172px;
 }
-#b3, #b4, #b5, #b6, #b7, #b8, #b9 {
+#b3, #b4, #b5, #b6, #b7, #b8, #b9, #b10 {
 	margin-top: 160px;
 	padding: 0 172px;
 	margin-bottom: 40px;
@@ -2045,13 +2045,18 @@ button {outline: none; cursor: pointer;}
 	width: 100%;
 	max-width: none;
 }
-.tab_box ul {
+.tab_box ul{
 	list-style: none;
 	padding-left: 0;
 	display: flex;
   font-family: 'gridnik';
   font-size: 48px;
   text-align: left;
+  color: #52a3df;
+}
+.tab_box ul a{
+  font-family: 'gridnik';
+  font-size: 48px;
   color: #52a3df;
 }
 .tab_box li {
@@ -2147,4 +2152,43 @@ button {outline: none; cursor: pointer;}
 	position: absolute;
 	right: 238px;
 	top: 118px;
+}
+.tab_content {
+display: none;
+}
+#tb1 {
+	display: block;
+}
+.b10-icon h6 {
+  font-family: 'dinPro-Medium';
+  font-size: 40px;
+  color: #199ae0;
+  max-width: 260px;
+}
+.b10-icon h1 {
+  font-family: 'gridnik';
+  font-size: 116px;
+  line-height: 1;
+  color: #24d0b5;
+}
+.b10-icon {
+	background: url(/img/icons/b10-1.svg) no-repeat right 50px top 10px;
+    max-width: 260px;
+    background-size: 60px 80px;
+}
+.b10-icon.bg-2 {
+	background: url(/img/icons/b10-2.svg) no-repeat right 35px top 10px;
+    max-width: 260px;
+    background-size: 60px 80px;
+}
+.b10-icon.bg-3 {
+	background: url(/img/icons/b10-3.svg) no-repeat right 50px top 10px;
+    max-width: 260px;
+    background-size: 60px 80px;
+}
+.wrap-b10 {
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-start;
+	margin-top: 110px;
 }

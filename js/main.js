@@ -16,6 +16,15 @@ $(document).ready(function(){
         $(tab).fadeIn(400);
     });
 
+    $('.tab_box a').click(function(e) {
+        e.preventDefault();
+        $('.tab_box .active').removeClass('active');
+        $(this).addClass('active');
+        var tab = $(this).attr('href');
+        $('.tab_content').not(tab).css({'display':'none'});
+        $(tab).fadeIn(400);
+    });
+
 	$(".slaider").owlCarousel({
 		loop:true,
     	margin: 10,
