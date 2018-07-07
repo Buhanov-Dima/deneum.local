@@ -78,3 +78,4 @@ header {padding: 0 15px;}
 .team_txt .square p {font-size: 22px;}
 .road .square {max-width: 510px;}
 .rmap-left-cr::before {width: 84px; left: -71px;}
+.road {max-width: 1171px;}

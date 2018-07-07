@@ -767,7 +767,32 @@
 	</section>
 
 	<footer>
-		
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-xl-12">
+					<div class="wrap-footer">
+						<div class="d-flex justify-content-between">
+							<img class="foot-logo" src="/img/icons/logo.svg" alt="">
+							<div class="network">
+								<a href="#"><img src="/img/icons/soc-1.svg" alt=""></a>
+								<a href="#"><img src="/img/icons/soc-2.svg" alt=""></a>
+								<a href="#"><img src="/img/icons/soc-3.svg" alt=""></a>
+								<a href="#"><img src="/img/icons/soc-4.svg" alt=""></a>
+								<a href="#"><img src="/img/icons/soc-5.svg" alt=""></a>
+							</div>
+						</div>
+						<div class="foot-menu">
+							<a href="#">WHAT IS DENEUN</a>
+							<a href="#">TERMS AND CONDITIONS</a>
+							<a href="#">TECHNOLOGY</a>
+							<a href="#">CONTACT US</a>
+							<a href="#">F.A.Q.</a>
+						</div>
+						<p>DENEUM (c) 2018. All rights reserved.</p>
+					</div>
+				</div>
+			</div>
+		</div>
 	</footer>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
