@@ -6,6 +6,6 @@
 #t-1::before {bottom: 52px;}#t-2::before{bottom: 53px;} #t-1 {left: 159px; top: 15px;} #t-2 {left: 123px; top: 19px;} #t-3 {left: 64px; top: 49px;} #t-4 {top: 99px;} #t-5 {top: 195px;} #t-6 {top: 262px; left: 142px;} #t-7 {top: 74px;}
 .wrap-b11, .wrap-b12 {justify-content: center;} .road .square {width: 407px;} .road .square h2 {font-size: 34px; font-size: 21px;} .gr-txt span {font-size: 32px;}
 .gr-txt p {font-size: 76px;} .gr-txt p:nth-child(2) {margin-top: 42px;} .energy-txt {margin: 0 0 0 132px;} .square-txt-2 {text-align: center;} .square-txt-3 {margin-top: 15px;} 
-.road {max-width: 995px;} .b3-1-txt3 p {margin: 0 10px 15px 35px;} .b3-1-txt3 p::after {right: 6px;} .b3-1-txt p:nth-child(1) {font-size: 24px; width: auto; max-width: none;}
+.road {max-width: 965px;} .b3-1-txt3 p {margin: 0 10px 15px 35px;} .b3-1-txt3 p::after {right: 6px;} .b3-1-txt p:nth-child(1) {font-size: 24px; width: auto; max-width: none;}
 .b3-1-txt p:nth-child(2) {width: auto; max-width: none;} .b3-1-txt2 {width: auto; max-width: none;} .b3-1-txt p::before {right: -11px;} .wrap-txt-f1 p:first-child { font-size: 18px; padding: 1px 15px;}
 .wrap-txt-f1 p {padding: 1px 10px;} .wrap-txt-f1 p:nth-child(2) {padding: 1px 15px;}

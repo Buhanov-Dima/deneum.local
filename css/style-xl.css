@@ -10,4 +10,4 @@
 .standart-h1 {font-size: 42px;} .standart-h1::before {top: 8px; height: 29px;} .pro-img img {max-width: 70px; max-height: 70px;} .b4-f1 {font-size: 20px;}
 .line::before {width: 100%;} .wrap-graphic {flex-direction: column; align-items: center;} .box-b2 p:nth-child(1)::after {bottom: -105px;} .b7-txt p {font-size: 22px;}
 .b7-txt p:nth-child(1)::after {bottom: -92px;} .wrap-b8 .box-b2 p:nth-child(1)::after {bottom: -68px;} .road .square:nth-child(2n+1) {padding-left: 20px;}
-.road .square {width: 294px;} .cheaper {font-size: 46px;} .cheaper span {font-size: 20px; margin-bottom: 5px;} .pro-img {margin: 0 10px;}
+.road .square {width: 294px;} .cheaper {font-size: 46px;} .cheaper span {font-size: 20px; margin-bottom: 5px;} .pro-img {margin: 0 10px;} .road {max-width: 739px;}
