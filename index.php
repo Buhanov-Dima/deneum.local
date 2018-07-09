@@ -9,7 +9,6 @@
 	<link rel="stylesheet" href="/css/owl-carousel/owl.carousel.min.css">
 	<link rel="stylesheet" href="/css/owl-carousel/owl.theme.default.min.css">
 	<link rel="stylesheet" type="text/css" href="/css/slick/slick.css"/>
-	// Add the new slick-theme.css if you want the default styling
 	<link rel="stylesheet" type="text/css" href="/css/slick/slick-theme.css"/>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900" rel="stylesheet">
