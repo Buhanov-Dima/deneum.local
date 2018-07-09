@@ -1,7 +1,7 @@
 #b1 {
 	max-width: 1556px;
 	width: 100%;
-	padding: 0;
+	padding: 0 100px;
 	margin: 60px auto 0;
 }
 .wrap-slaider {
@@ -61,8 +61,8 @@ header {padding: 0 15px;}
 .b3-1-txt p:nth-child(2) {font-size: 24px;}
 .b3-1-txt2 p:nth-child(1) {font-size: 24px;}
 .wrap-txt-f1 p:nth-child(1), .wrap-txt-f1 p:nth-child(2), .wrap-txt-f1 p:nth-child(3){font-size: 19px;}
-.b3-1-txt3 p {font-size: 20px;}
-.b3-1-txt3 p::after {height: 73px;}
+.b3-1-txt3 p {font-size: 20px; width: 33%; padding: 10px 15px 10px 45px; margin: 0;}
+.b3-1-txt3 p::after {height: 100%; right: 15px;}
 .wrap-progress {padding: 15px;}
 .b4-f1 {width: 18%; font-size: 27px;}
 .gr-txt-2 {padding-right: 0;}
@@ -79,3 +79,15 @@ header {padding: 0 15px;}
 .road .square {max-width: 510px;}
 .rmap-left-cr::before {width: 84px; left: -71px;}
 .road {max-width: 1171px;}
+#b3, #b4, #b7, #b8, #b9, #b10, #b11, #b12, #b13 {padding: 0 100px;}
+.email {max-width: 342px; width: 100%;}
+.wb3-txt p:nth-child(1) {font-size: 28px;}
+.wb3-txt p:nth-child(2) {font-size: 24px;}
+.b3-1-txt p {margin-right: 15px;}
+.b3-1-txt p::before {right: 0;}
+.b3-1-txt3 {justify-content: center;}
+.b3-1-txt3 p::before {left: -5px; top: 15px;}
+.b3-table {padding-bottom: 0;}
+.pro-img {margin-left: 20px; margin-right: 20px;}
+.wrap-graphic {flex-wrap: wrap; justify-content: center;}
+.wrap-b6-1 img {width: 50px; height: 365px;}

@@ -157,7 +157,7 @@
 							<span></span>
 							<div class="b3-1-txt">
 								<p>DENEUM CAPSULE</p>
-								<p>Generates over 100kWh per 1kg<br> of material in the Capsule</p>
+								<p>Generates over 100kWh per 1kg of material in the Capsule</p>
 								<div class="b3-1-txt2">
 									<p>Power Stations configurations</p>
 									<div class="wrap-txt-f1">
@@ -171,6 +171,7 @@
 								<h3>HEAT EXCHANGER</h3>
 								<p>Accumulates heat that can be used for<br> heating homes, and cooling down the capsule</p>
 							</div>
+							<div class="exc-img"><img src="/img/main/power-station.svg" alt=""></div>
 							<div class="b3-1-txt3">
 								<p>Can be installed at home, in production, in vehicles, etc.</p>
 								<p>Absolutely safe, eco-friendly, renewable source</p>
@@ -201,7 +202,7 @@
 								<p>100</p>
 							</div>
 							<div class="pro-img">
-								<img src="/img/icons/85.svg" alt="">
+								<img src="/img/icons/85.png" alt="">
 							</div>
 						</div>
 						<div class="wrap-progress">
@@ -215,7 +216,7 @@
 								<p>100</p>
 							</div>
 							<div class="pro-img">
-								<img src="/img/icons/85.svg" alt="">
+								<img src="/img/icons/62.png" alt="">
 							</div>
 						</div>
 						<div class="wrap-progress">
@@ -229,7 +230,7 @@
 								<p>100</p>
 							</div>
 							<div class="pro-img">
-								<img src="/img/icons/85.svg" alt="">
+								<img src="/img/icons/57.png" alt="">
 							</div>
 						</div>
 						<div class="wrap-progress">
@@ -243,13 +244,13 @@
 								<p>100</p>
 							</div>
 							<div class="pro-img">
-								<img src="/img/icons/85.svg" alt="">
+								<img src="/img/icons/49.png" alt="">
 							</div>
 						</div>
 						<div class="wrap-progress">
 							<p class="b4-f1 den">DENEUM</p>
 							<div class="pro-img">
-								<img src="/img/icons/deneum.svg" alt="">
+								<img src="/img/icons/deneum.png" alt="">
 							</div>
 							<div class="line line-5">
 								<div class="cheaper">95% <span>CHEAPER THAN GAS</span></div>
@@ -258,7 +259,7 @@
 								<p>100</p>
 							</div>
 							<div class="pro-img">
-								<img src="/img/icons/85.svg" alt="">
+								<img src="/img/icons/17.png" alt="">
 							</div>
 						</div>
 					</div>
@@ -354,11 +355,11 @@
 							<p>A Token Holder with 3,000+ DNM will have the option to exchange<br> them for an electricity supply</p>
 						</div>
 						<div class="energy">
-							<div class="energy-txt">
+							<div class="energy-txt bg-1">
 								<h2>ENERGY PURCHASING</h2>
 								<p>Corporate customers will be using DNM to purchase low-cost electricity</p>
 							</div>
-							<div class="energy-txt">
+							<div class="energy-txt bg-2">
 								<h2>PRICE JUSTIFYING</h2>
 								<p>Once launched, DNM cannot cost much lower than average market price due to arbitrage opportunities</p>
 							</div>

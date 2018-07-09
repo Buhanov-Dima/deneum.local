@@ -216,7 +216,12 @@ button {outline: none; cursor: pointer;}
 	transform: rotate(315deg);
 }
 
-.b1-ul li{
+.b1-ul li:first-child{
+	background: url('/img/icons/lamp.svg') no-repeat left center;
+	background-size: 59px 59px;
+}
+
+.b1-ul li:nth-child(2){
 	background: url('/img/icons/lighting.svg') no-repeat left center;
 	background-size: 59px 59px;
 }
@@ -587,6 +592,7 @@ button {outline: none; cursor: pointer;}
   color: #199ae0;
   max-width: 470px;
   width: 100%;
+  padding-right: 25px;
 }
 
 
@@ -735,6 +741,7 @@ button {outline: none; cursor: pointer;}
 	margin-left: 15px;
 	padding: 15px;
 	position: relative;
+	z-index: 5;
 }
 
 
@@ -879,7 +886,7 @@ button {outline: none; cursor: pointer;}
 }
 .line::before {
 	content:'';
-	width: 613px;
+	width: 100%;
 	height: 1px;
 	position: absolute;
 	background-color: #52a3df;
@@ -1735,16 +1742,26 @@ button {outline: none; cursor: pointer;}
 	position: relative;
 	margin: 0 86px;
 }
-.energy-txt::before {
+.energy-txt.bg-1::before {
 	content: '';
 	position: absolute;
-	left: -79px;
-    top: 24px;
-	width: 31px;
-	height: 53px;
-	background: url('/img/main/lighting.svg') no-repeat left top;
+	left: -115px;
+	top: 0;
+	width: 99px;
+	height: 99px;
+	background: url('/img/icons/lamp-2.svg') no-repeat left top;
+	background-size: 99px;
 }
-.energy-txt::after {
+.energy-txt.bg-2::before {
+    content: '';
+    position: absolute;
+    left: -86px;
+    top: 36px;
+    width: 40px;
+    height: 26px;
+    background: url(/img/icons/lighting-1.svg) no-repeat left top;
+}
+.energy-txt.bg-2::after {
 	content: '';
 	position: absolute;
 	left: -115px;
@@ -2469,3 +2486,13 @@ display: none;
 	margin-bottom: 100px;
 }
 
+.exc-img img{
+	width: 100%; 
+    max-width: 956px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+}
