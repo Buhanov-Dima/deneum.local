@@ -79,7 +79,7 @@ header {padding: 0 15px;}
 .road .square {max-width: 510px;}
 .rmap-left-cr::before {width: 84px; left: -71px;}
 .road {max-width: 1171px;}
-#b3, #b4, #b7, #b8, #b9, #b10, #b11, #b12, #b13 {padding: 0 100px;}
+#b3, #b4, #b7, #b9, #b10, #b11, #b12, #b13 {padding: 0 100px;}
 .email {max-width: 342px; width: 100%;}
 .wb3-txt p:nth-child(1) {font-size: 28px;}
 .wb3-txt p:nth-child(2) {font-size: 24px;}
