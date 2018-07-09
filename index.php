@@ -35,16 +35,16 @@
 		      	<a class="nav-link g-token" href="#">Get tokens</a>
 		      </li>
 		      <li class="nav-item">
-		        <a class="nav-link" href="#">WHITEPAPER</a>
+		        <a class="nav-link" href="#link-1">WHITEPAPER</a>
 		      </li>
 		      <li class="nav-item">
-		        <a class="nav-link" href="#">ABOUT</a>
+		        <a class="nav-link" href="#b3">ABOUT</a>
 		      </li>
 		      <li class="nav-item">
-		        <a class="nav-link" href="#">TEAM</a>
+		        <a class="nav-link" href="#b11">TEAM</a>
 		      </li>
 		      <li class="nav-item">
-		        <a class="nav-link" href="#">F.A.Q.</a>
+		        <a class="nav-link" href="#b13">F.A.Q.</a>
 		      </li>
 		      <li class="nav-item dropdown">
 		        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
