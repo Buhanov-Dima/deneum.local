@@ -8,6 +8,9 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	<link rel="stylesheet" href="/css/owl-carousel/owl.carousel.min.css">
 	<link rel="stylesheet" href="/css/owl-carousel/owl.theme.default.min.css">
+	<link rel="stylesheet" type="text/css" href="/css/slick/slick.css"/>
+	// Add the new slick-theme.css if you want the default styling
+	<link rel="stylesheet" type="text/css" href="/css/slick/slick-theme.css"/>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Mono:300,400,500,700" rel="stylesheet">
@@ -171,7 +174,13 @@
 								<h3>HEAT EXCHANGER</h3>
 								<p>Accumulates heat that can be used for<br> heating homes, and cooling down the capsule</p>
 							</div>
-							<div class="exc-img"><img src="/img/main/power-station.svg" alt=""></div>
+							<div class="wrap-vertical-slaider">
+								<div class="vertical_slide">
+								  <div><img src="/img/main/power-station.svg" alt=""></div>
+								  <div><img src="/img/main/power-station.svg" alt=""></div>
+								  <div><img src="/img/main/power-station.svg" alt=""></div>
+								</div>
+							</div>
 							<div class="b3-1-txt3">
 								<p>Can be installed at home, in production, in vehicles, etc.</p>
 								<p>Absolutely safe, eco-friendly, renewable source</p>
@@ -802,6 +811,7 @@
 	<script src="/js/owl.carousel.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>
+	<script type="text/javascript" src="/js/slick.min.js"></script>
 	<script src="/js/main.js"></script>
 </body>
 </html>

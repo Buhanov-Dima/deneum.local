@@ -44,6 +44,17 @@ $(document).ready(function(){
         }  
 	});
 
+
+    $('.vertical_slide').slick({
+        vertical:true,
+        infinite: true,
+        speed: 700,
+        autoplay: true,
+        autoplaySpeed: 2500,
+        arrows: false,
+        pauseOnHover: false
+    });
+
 	$(window).scroll(function(){
     if ($(window).scrollTop() > 1800) {
         $('.line').addClass('active');

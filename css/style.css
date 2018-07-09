@@ -2496,3 +2496,18 @@ display: none;
     left: 0;
     margin: auto;
 }
+
+.wrap-vertical-slaider {
+	position: absolute;
+    max-width: 956px;
+    width: 100%;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+.vertical_slide {
+	margin-top: 80px;
+	max-height: 432px;
+}
