@@ -170,14 +170,27 @@
 								</div>
 							</div>
 							<div class="exchanger">
-								<h3>HEAT EXCHANGER</h3>
-								<p>Accumulates heat that can be used for<br> heating homes, and cooling down the capsule</p>
+								<p>Titanium hydride is heated inside the capsule to a certain temperature.  Deuterium injects into titanium leading to further heating of titanium.</p>
 							</div>
-							<div class="wrap-vertical-slaider">
+							<div class="exchanger">
+								<p>The extra heat is taken and transformed into electricity.  A part of it that cant’t be transformed can be used as useful heat.</p>
+							</div>
+							<!--<div class="wrap-vertical-slaider">
 								<div class="vertical_slide">
 								  <div><img src="/img/main/power-station.svg" alt=""></div>
 								  <div><img src="/img/main/power-station.svg" alt=""></div>
 								  <div><img src="/img/main/power-station.svg" alt=""></div>
+								</div>
+							</div>-->
+							<div class="wrap-n-img">
+								<div class="capsule-img"><img src="/img/main/generator.svg" alt=""></div>
+								<div class="capsule-txt">
+									<p>Deuterium</p>
+									<p>Electricity output</p>
+									<p>Titanium</p>
+									<p>Heat output</p>
+									<p>Heat exchanger</p>
+									<p>Replacable Deneum Capsule</p>
 								</div>
 							</div>
 							<div class="b3-1-txt3">
