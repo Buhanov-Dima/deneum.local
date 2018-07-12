@@ -148,7 +148,7 @@ button {outline: none; cursor: pointer;}
 	bottom: -6px;
 }
 .email {
-	width: 382px;
+	width: 50%;
 	height: 36px;
 	background-color: transparent;
 	border: 1px solid #3a96cc;
@@ -157,7 +157,7 @@ button {outline: none; cursor: pointer;}
 	padding: 0 20px;
 }
 .sign_up {
-	width: 128px;
+	width: 50%;
 	height: 36px;
 	background-color: #24d0b5;
 	border: 1px solid #24d0b5;

@@ -68,8 +68,8 @@
 							<p>It is safe, distributed and radically cheap</p>
 							<form action="" class="first-form">
 								<input type="text" name="email" class="email" placeholder="Email address">
-								<button class="sign_up">SIGN UP</button>
-								<label for="email" class="lab_sign">Subscribe to get lastest news about project</label>
+								<button class="sign_up">RESERVE THE LOWEST PRICE</button>
+								<label for="email" class="lab_sign">You will be offered the lowest price once we open the next round</label>
 							</form>
 						</div>
 						<div class="main-b1-ul">
@@ -94,7 +94,7 @@
 				</div>
 				<div class="col-xl-6">
 					<div class="wrap-b1-2">
-						<h2>DENEUM POWER STATION</h2>
+						<!--<h2>DENEUM POWER STATION</h2>-->
 						<div class="tab_box">
 							<div class="power-station active" id="tab-1">
 								<img src="/img/main/gena.svg" alt="">
@@ -275,7 +275,7 @@
 						<div class="wrap-progress">
 							<p class="b4-f1 den">DENEUM</p>
 							<div class="pro-img">
-								<img src="/img/icons/deneum.png" alt="">
+								<img src="/img/icons/deneum.svg" alt="">
 							</div>
 							<div class="line line-5">
 								<div class="cheaper">95% <span>CHEAPER THAN GAS</span></div>
