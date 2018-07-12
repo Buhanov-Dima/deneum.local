@@ -97,7 +97,7 @@
 						<h2>DENEUM POWER STATION</h2>
 						<div class="tab_box">
 							<div class="power-station active" id="tab-1">
-								<img src="/img/main/turbine.svg" alt="">
+								<img src="/img/main/gena.svg" alt="">
 							</div>
 							<div class="power-station" id="tab-2">
 								<img src="/img/main/turbine.svg" alt="">
@@ -161,7 +161,7 @@
 								<p class="b3-1-f1">DENEUM CAPSULE</p>
 								<p class="b3-1-f2">Generates over 100kWh per 1kg of material in the Capsule</p>
 								<div class="b3-1-txt2">
-									<p>Power Stations configurations</p>
+									<p class="b3-1-f3">Power Stations configurations</p>
 									<div class="wrap-txt-f1">
 										<p>5 KW</p>
 										<p>10 KW</p>
@@ -171,10 +171,13 @@
 							</div>
 							<div class="wrap-exchanger">
 								<div class="w-ex">
-									<div class="exchanger">
-										<p>Titanium hydride is heated inside the capsule to a certain temperature.  Deuterium injects into titanium leading to further heating of titanium.</p>
+									<div class="square">
+										<i></i><i></i>
+										<p>Titanium hydride is heated inside the capsule to a certain temperature.</p>
+										<p>Deuterium injects into titanium leading to further heating of titanium.</p>
 									</div>
-									<div class="exchanger">
+									<div class="square">
+										<i></i><i></i>
 										<p>The extra heat is taken and transformed into electricity.  A part of it that cant’t be transformed can be used as useful heat.</p>
 									</div>
 								</div>
@@ -191,18 +194,14 @@
 									</div>
 								</div>
 							</div>
-							<!--<div class="wrap-vertical-slaider">
-								<div class="vertical_slide">
-								  <div><img src="/img/main/power-station.svg" alt=""></div>
-								  <div><img src="/img/main/power-station.svg" alt=""></div>
-								  <div><img src="/img/main/power-station.svg" alt=""></div>
-								</div>
-							</div>-->
 							<div class="b3-1-txt3">
 								<p>Can be installed at home, in production, in vehicles, etc.</p>
 								<p>Absolutely safe, eco-friendly, renewable source</p>
 								<p>One Capsule generates energyfor up to 1 year without maintenance</p>
 							</div>
+						</div>
+						<div class="btn-popup text-center mg-t-5">
+							<a href="#">OUR TECHNOLOGY & EXPERIENCE</a>
 						</div>
 					</div>
 				</div>
@@ -378,7 +377,8 @@
 					<div class="wrap-b7">
 						<div class="b7-txt">
 							<p>One Deneum Token (DNM) represents 1 MWh of electricity</p>
-							<p>A Token Holder with 3,000+ DNM will have the option to exchange<br> them for an electricity supply</p>
+							<p>A Token Holder with 3,000+ DNM will have the option to exchange</p>
+							<span>them for an electricity supply</span>
 						</div>
 						<div class="energy">
 							<div class="energy-txt bg-1">
@@ -668,6 +668,34 @@
 								</div>
 							</div>
 						</div>
+
+						<div class="team_item">
+							<div class="img-circle">
+								<img src="/img/team/godin.svg" alt="">
+							</div>
+							<div class="team_txt">
+								<div class="b12-team-txt"><h4>Sergey Godin</h4><h4>Research</h4></div>
+								<div class="square">
+									<i></i><i></i>
+									<p>Expert in digital and analogue electronics, electrotechnics, measuring devices, signals analysing and experimental setups.</p>
+									<p>Main fields of expertise: experimental plasma physics, electrodynamics, and vortex plasmatic stations. Author of numerous scientific works and patents. Moscow Institute of Electrotechnics</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="team_item">
+							<div class="img-circle">
+								<img src="/img/team/lapuk.svg" alt="">
+							</div>
+							<div class="team_txt">
+								<div class="b12-team-txt"><h4>Maria Lapuk</h4><h4>Public Relations</h4></div>
+								<div class="square">
+									<i></i><i></i>
+									<p>Over 10 years of experience in digital PR. One of the most recognized PR leaders in the region.</p>
+									<p>Maria’s awards include «PR Profile of the Year 2015», «Most Influential Networker 2013», «PR Professional of the Year 2012”</p>
+								</div>
+							</div>
+						</div>
 					</div>
 					<div class="btn-popup text-center mg-t-5">
 						<a href="#">SEE FULL TEAM</a>
@@ -717,73 +745,73 @@
 							<div class="square">
 								<i></i><i></i>
 								<span class="rmap-left-cr"></span>
-								<h2>AUGUST 2018</h2>
+								<h2 class="blue-txt">AUGUST 2018</h2>
 								<p>G3 Prototype Constructed</p>
 							</div>
 							<div class="square">
 								<i></i><i></i>
 								<span class="rmap-right-cr"></span>
-								<h2>SEPTEMBER 2018</h2>
+								<h2 class="blue-txt">SEPTEMBER 2018</h2>
 								<p>Online Streaming begins</p>
 							</div>
 							<div class="square">
 								<i></i><i></i>
 								<span class="rmap-left-cr"></span>
-								<h2>OCTOBER 2018</h2>
+								<h2 class="blue-txt">OCTOBER 2018</h2>
 								<p>Pre-ICO completed</p>
 							</div>
 							<div class="square max-150">
 								<i></i><i></i>
 								<span class="rmap-right-cr"></span>
-								<h2>NOVEMBER 2018</h2>
+								<h2 class="blue-txt">NOVEMBER 2018</h2>
 								<p>Retail-ready Power Station construction begins</p>
 							</div>
 							<div class="square">
 								<i></i><i></i>
 								<span class="rmap-left-cr"></span>
-								<h2>JANUARY 2019</h2>
+								<h2 class="blue-txt">JANUARY 2019</h2>
 								<p>ICO completed</p>
 							</div>
 							<div class="square">
 								<i></i><i></i>
 								<span class="rmap-right-cr"></span>
-								<h2>APRIL 2019</h2>
+								<h2 class="blue-txt">APRIL 2019</h2>
 								<p>All patents application submitted</p>
 							</div>
 							<div class="square max-150">
 								<i></i><i></i>
 								<span class="rmap-left-cr"></span>
-								<h2>JUNE 2019</h2>
+								<h2 class="blue-txt">JUNE 2019</h2>
 								<p>Retail-ready Power Station construction completed</p>
 							</div>
 							<div class="square">
 								<i></i><i></i>
 								<span class="rmap-right-cr"></span>
-								<h2>OCTOBER 2019</h2>
+								<h2 class="blue-txt">OCTOBER 2019</h2>
 								<p>Retail-ready Power Station tests completed</p>
 							</div>
 							<div class="square">
 								<i></i><i></i>
 								<span class="rmap-left-cr"></span>
-								<h2>NOVEMBER 2019</h2>
+								<h2 class="blue-txt">NOVEMBER 2019</h2>
 								<p>Certification process completed</p>
 							</div>
 							<div class="square">
 								<i></i><i></i>
 								<span class="rmap-right-cr"></span>
-								<h2>DECEMBER 2019</h2>
+								<h2 class="blue-txt">DECEMBER 2019</h2>
 								<p>First deliveries to Token Holders</p>
 							</div>
 							<div class="square">
 								<i></i><i></i>
 								<span class="rmap-left-cr"></span>
-								<h2>JUNE 2020</h2>
+								<h2 class="blue-txt">JUNE 2020</h2>
 								<p>Sales to the grid begin</p>
 							</div>
 							<div class="square">
 								<i></i><i></i>
-								<span class="rmap-right-cr"></span>
-								<h2>DECEMBER 2020</h2>
+								<span class="rmap-right-cr-last"></span>
+								<h2 class="blue-txt">DECEMBER 2020</h2>
 								<p>Retail sales begin</p>
 							</div>
 						</div>
