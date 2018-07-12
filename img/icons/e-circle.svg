@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 95.125 95.125">
+    <defs>
+        <style>
+            .cls-1,.cls-2,.cls-4{fill:none}.cls-1{stroke:#f27e30;stroke-miterlimit:10;stroke-width:2px}.cls-2{stroke:#199ae0;stroke-width:4px}.cls-3{stroke:none}.cls-5{filter:url(#Ellipse_85)}.cls-6{filter:url(#Path_264)}.cls-7{filter:url(#Path_263)}.cls-8{filter:url(#Path_262)}.cls-9{filter:url(#Path_261)}
+        </style>
+        <filter id="Path_261" width="50.249" height="50.249" x="44.875" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="2"/>
+            <feGaussianBlur result="blur" stdDeviation="2"/>
+            <feFlood flood-color="#1d374c"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Path_262" width="50.249" height="50.249" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="2"/>
+            <feGaussianBlur result="blur-2" stdDeviation="2"/>
+            <feFlood flood-color="#1d374c"/>
+            <feComposite in2="blur-2" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Path_263" width="50.249" height="50.249" x="44.875" y="44.876" filterUnits="userSpaceOnUse">
+            <feOffset dy="2"/>
+            <feGaussianBlur result="blur-3" stdDeviation="2"/>
+            <feFlood flood-color="#1d374c"/>
+            <feComposite in2="blur-3" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Path_264" width="50.249" height="50.249" x="0" y="44.876" filterUnits="userSpaceOnUse">
+            <feOffset dy="2"/>
+            <feGaussianBlur result="blur-4" stdDeviation="2"/>
+            <feFlood flood-color="#1d374c"/>
+            <feComposite in2="blur-4" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Ellipse_85" width="35.18" height="35.184" x="29.972" y="29.972" filterUnits="userSpaceOnUse">
+            <feOffset dy="2"/>
+            <feGaussianBlur result="blur-5" stdDeviation="2"/>
+            <feFlood flood-color="#1d374c" flood-opacity=".655"/>
+            <feComposite in2="blur-5" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="Group_1254" data-name="Group 1254" transform="translate(6.996 4.997)">
+        <g id="Group_1212" data-name="Group 1212">
+            <g class="cls-9" transform="translate(-7 -5)">
+                <path id="Path_261-2" d="M90.471 38.671A40.68 40.68 0 0 0 53.3 1.5" class="cls-1" data-name="Path 261" transform="translate(-2.34 3.5)"/>
+            </g>
+            <g class="cls-8" transform="translate(-7 -5)">
+                <path id="Path_262-2" d="M38.671 1.5A40.68 40.68 0 0 0 1.5 38.671" class="cls-1" data-name="Path 262" transform="translate(5.5 3.5)"/>
+            </g>
+            <g class="cls-7" transform="translate(-7 -5)">
+                <path id="Path_263-2" d="M53.3 90.471A40.68 40.68 0 0 0 90.471 53.3" class="cls-1" data-name="Path 263" transform="translate(-2.34 -4.34)"/>
+            </g>
+            <g class="cls-6" transform="translate(-7 -5)">
+                <path id="Path_264-2" d="M1.5 53.3a40.68 40.68 0 0 0 37.171 37.171" class="cls-1" data-name="Path 264" transform="translate(5.5 -4.34)"/>
+            </g>
+        </g>
+        <g class="cls-5" transform="translate(-7 -5)">
+            <g id="Ellipse_85-2" class="cls-2" data-name="Ellipse 85" transform="translate(35.97 33.97)">
+                <ellipse cx="11.59" cy="11.592" class="cls-3" rx="11.59" ry="11.592"/>
+                <ellipse cx="11.59" cy="11.592" class="cls-4" rx="9.59" ry="9.592"/>
+            </g>
+        </g>
+    </g>
+</svg>

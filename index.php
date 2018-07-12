@@ -158,8 +158,8 @@
 							<span></span>
 							<span></span>
 							<div class="b3-1-txt">
-								<p>DENEUM CAPSULE</p>
-								<p>Generates over 100kWh per 1kg of material in the Capsule</p>
+								<p class="b3-1-f1">DENEUM CAPSULE</p>
+								<p class="b3-1-f2">Generates over 100kWh per 1kg of material in the Capsule</p>
 								<div class="b3-1-txt2">
 									<p>Power Stations configurations</p>
 									<div class="wrap-txt-f1">
@@ -169,11 +169,27 @@
 									</div>
 								</div>
 							</div>
-							<div class="exchanger">
-								<p>Titanium hydride is heated inside the capsule to a certain temperature.  Deuterium injects into titanium leading to further heating of titanium.</p>
-							</div>
-							<div class="exchanger">
-								<p>The extra heat is taken and transformed into electricity.  A part of it that cant’t be transformed can be used as useful heat.</p>
+							<div class="wrap-exchanger">
+								<div class="w-ex">
+									<div class="exchanger">
+										<p>Titanium hydride is heated inside the capsule to a certain temperature.  Deuterium injects into titanium leading to further heating of titanium.</p>
+									</div>
+									<div class="exchanger">
+										<p>The extra heat is taken and transformed into electricity.  A part of it that cant’t be transformed can be used as useful heat.</p>
+									</div>
+								</div>
+								<div class="wrap-n-img">
+									<div class="capsule-img"><img src="/img/main/generator.svg" alt=""></div>
+									<div class="capsule-txt">
+										<p>Deuterium</p>
+										<p>Electricity output</p>
+										<p>Titanium</p>
+										<p>Heat output</p>
+										<p>Heat exchanger</p>
+										<p>Replacable<br> Deneum Capsule</p>
+										<i></i><i></i><i></i><i></i><i></i><i></i>
+									</div>
+								</div>
 							</div>
 							<!--<div class="wrap-vertical-slaider">
 								<div class="vertical_slide">
@@ -182,17 +198,6 @@
 								  <div><img src="/img/main/power-station.svg" alt=""></div>
 								</div>
 							</div>-->
-							<div class="wrap-n-img">
-								<div class="capsule-img"><img src="/img/main/generator.svg" alt=""></div>
-								<div class="capsule-txt">
-									<p>Deuterium</p>
-									<p>Electricity output</p>
-									<p>Titanium</p>
-									<p>Heat output</p>
-									<p>Heat exchanger</p>
-									<p>Replacable Deneum Capsule</p>
-								</div>
-							</div>
 							<div class="b3-1-txt3">
 								<p>Can be installed at home, in production, in vehicles, etc.</p>
 								<p>Absolutely safe, eco-friendly, renewable source</p>
