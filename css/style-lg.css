@@ -1,5 +1,5 @@
-.wrap-square {flex-wrap: wrap; margin-top: 100px; align-items: baseline; justify-content: center;} .square.height-210, .square.height-290, .square.height-340, .square.height-630 {height: 285px; justify-content: space-around;}
-.wrap-b8 .box-b2 {position: relative;} .wrap-b6-1 {display: none;} .wrap-b6 {margin: auto;} .box-b1 p:nth-child(2)::before {top: -65px;} .tab-box {margin: auto;}
+.wrap-square {flex-wrap: wrap; margin-top: 100px; align-items: baseline; justify-content: center;}
+.wrap-b8 .box-b2 {position: relative;} .wrap-b6 {margin: auto;} .box-b1 p:nth-child(2)::before {top: -65px;} .tab-box {margin: auto;}
 .wrap-b1-2 p {text-align: center;} .main-b1-ul ul {justify-content: center;} .wb3-img {width: 33%;} .wb3-txt {width: 67%;}
 .wrap-slaider .slaider {padding: 10px 50px;} .slaider.owl-carousel .owl-nav button.owl-prev::before, .slaider.owl-carousel .owl-nav button.owl-next::before {top: -55px;}
 .b4-f1 {width: 150px;}  .line {width: 100%; margin-top: 25px;} .graphic {height: 328px; width: 328px;} .graph-2::before {width: 188px;} .graph-1 {width: 215px; height: 215px;}

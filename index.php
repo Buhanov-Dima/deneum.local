@@ -60,7 +60,7 @@
 	<section id="b1">
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-xl-6">
+				<div class="col-xl-6 xl-open">
 					<div class="block-xl-m1 d-open-xl">
 						<h1>Ultra low-cost renewable electricity that saves billions of dollars</h1>
 						<div class="box-b1">
@@ -273,7 +273,7 @@
 						<div class="wrap-progress xl-open">
 							<div class="fx-cnt-between">
 								<p class="b4-f1">WIND</p>
-								<div class="pro-img">
+								<div class="pro-img cent">
 									<img src="/img/icons/85.png" alt="">
 								</div>
 								<div class="pro-img">
@@ -292,7 +292,7 @@
 						<div class="wrap-progress xl-open">
 							<div class="fx-cnt-between">
 								<p class="b4-f1">COAL</p>
-								<div class="pro-img">
+								<div class="pro-img cent">
 									<img src="/img/icons/62.png" alt="">
 								</div>
 								<div class="pro-img">
@@ -300,7 +300,7 @@
 								</div>
 							</div>
 							<div class="w-100">
-								<div class="line">
+								<div class="line line-2">
 									<p>0</p>
 									<p>50</p>
 									<p>100</p>
@@ -311,7 +311,7 @@
 						<div class="wrap-progress xl-open">
 							<div class="fx-cnt-between">
 								<p class="b4-f1">NATURAL GAS</p>
-								<div class="pro-img">
+								<div class="pro-img cent">
 									<img src="/img/icons/57.png" alt="">
 								</div>
 								<div class="pro-img">
@@ -319,7 +319,7 @@
 								</div>
 							</div>
 							<div class="w-100">
-								<div class="line">
+								<div class="line line-3">
 									<p>0</p>
 									<p>50</p>
 									<p>100</p>
@@ -330,7 +330,7 @@
 						<div class="wrap-progress xl-open">
 							<div class="fx-cnt-between">
 								<p class="b4-f1">NUCLEAR</p>
-								<div class="pro-img">
+								<div class="pro-img cent">
 									<img src="/img/icons/49.png" alt="">
 								</div>
 								<div class="pro-img">
@@ -338,7 +338,7 @@
 								</div>
 							</div>
 							<div class="w-100">
-								<div class="line">
+								<div class="line line-4">
 									<p>0</p>
 									<p>50</p>
 									<p>100</p>
@@ -349,7 +349,7 @@
 						<div class="wrap-progress xl-open">
 							<div class="fx-cnt-between">
 								<p class="b4-f1">DENEUM</p>
-								<div class="pro-img">
+								<div class="pro-img cent">
 									<img src="/img/icons/17.png" alt="">
 								</div>
 								<div class="pro-img">
@@ -358,7 +358,7 @@
 							</div>
 							<div class="w-100">
 								<div class="cheaper">95% <span>CHEAPER THAN GAS</span></div>
-								<div class="line">
+								<div class="line line-5">
 									<p>0</p>
 									<p>50</p>
 									<p>100</p>
@@ -369,7 +369,7 @@
 
 						<div class="wrap-progress">
 							<p class="b4-f1">WIND</p>
-							<div class="pro-img">
+							<div class="pro-img ">
 								<img src="/img/icons/wind.svg" alt="">
 							</div>
 							<div class="line">
@@ -553,8 +553,8 @@
 					<h1 class="standart-h1">TOKEN SALES</h1>
 					<div class="wrap-b8">
 						<div class="box-b2">
-							<p>A box with a capsule, generating a large amount of energy</p>
-							<p>It is safe, distributed and radically cheap</p>
+							<p>One Deneum Token (DNM) represents 1 MWh of electricity</p>
+							<p>The average price in Europe is ~$73/MWh</p>
 						</div>
 						<div class="wrap-square">
 							<div class="square height-210">
