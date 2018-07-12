@@ -83,7 +83,8 @@ button {outline: none; cursor: pointer;}
 	margin-top: 60px;
 	padding: 0 172px;
 }
-#b3, #b4, #b5, #b6, #b7, #b8, #b9, #b10, #b11, #b12,#b13 {
+#b9 {display: none;}
+#b3, #b4, #b5, #b6, #b7, #b8, #b10, #b11, #b12,#b13 {
 	max-width: 1556px;
 	width: 100%;
 	margin: 160px auto 40px;
@@ -2676,3 +2677,4 @@ display: none;
     bottom: 0;
     background: url(/img/icons/e-circle.svg) no-repeat center;
 }
+.d-open-xl {display: none;}

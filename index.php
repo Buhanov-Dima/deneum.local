@@ -61,12 +61,65 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-xl-6">
-					<div class="wrap-b1-1">
+					<div class="block-xl-m1 d-open-xl">
+						<h1>Ultra low-cost renewable electricity that saves billions of dollars</h1>
+						<div class="box-b1">
+							<p>A box with a capsule, generating a large amount of energy</p>
+							<p>It is safe, distributed and radically cheap</p>
+						</div>
+						<div class="tab_box">
+							<div class="power-station active" id="tab-1">
+								<img src="/img/main/gena.svg" alt="">
+							</div>
+							<div class="power-station" id="tab-2">
+								<img src="/img/main/turbine.svg" alt="">
+							</div>
+							<div class="power-station" id="tab-3">
+								<img src="/img/main/turbine.svg" alt="">
+							</div>
+						</div>
+						<p class="block-xl-p">Power Stations configurations</p>
+						<div class="tab-box">
+							<ul>
+								<li><a class="active" href="#tab-1">5 KW</a></li>
+								<li><a href="#tab-2">10 KW</a></li>
+								<li><a href="#tab-3">100 KW</a></li>
+							</ul>
+						</div>
+						<form action="" class="first-form">
+							<i></i>
+							<input type="text" name="email" class="email" placeholder="Email address">
+							<button class="sign_up">RESERVE THE LOWEST PRICE</button>
+							<label for="email" class="lab_sign">You will be offered the lowest price once we open the next round</label>
+						</form>
+						<div class="main-b1-ul">
+							<ul class="b1-ul">
+								<li>3 WAYS<br>TO USE TOKEN
+									<ul class="b1-ul-hide">
+										<li>first block</li>
+										<li>second block</li>
+										<li>third block</li>
+									</ul>
+								</li>
+								<li>3 WAYS<br>TO USE ENERGY
+									<ul class="b1-ul-hide">
+										<li>first block</li>
+										<li>second block</li>
+										<li>third block</li>
+									</ul>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-6">
+					<div class="wrap-b1-1 d-none-xl">
 						<h1>Ultra low-cost renewable electricity that saves billions of dollars</h1>
 						<div class="box-b1">
 							<p>A box with a capsule, generating a large amount of energy</p>
 							<p>It is safe, distributed and radically cheap</p>
 							<form action="" class="first-form">
+								<i></i>
 								<input type="text" name="email" class="email" placeholder="Email address">
 								<button class="sign_up">RESERVE THE LOWEST PRICE</button>
 								<label for="email" class="lab_sign">You will be offered the lowest price once we open the next round</label>
@@ -93,7 +146,7 @@
 					</div>
 				</div>
 				<div class="col-xl-6">
-					<div class="wrap-b1-2">
+					<div class="wrap-b1-2 d-none-xl">
 						<!--<h2>DENEUM POWER STATION</h2>-->
 						<div class="tab_box">
 							<div class="power-station active" id="tab-1">
@@ -216,6 +269,104 @@
 				<div class="col-md-12">
 					<div class="wrap-b4">
 						<h1 class="standart-h1">ULTRA-LOW-COST ELECTRICITY</h1>
+
+						<div class="wrap-progress xl-open">
+							<div class="fx-cnt-between">
+								<p class="b4-f1">WIND</p>
+								<div class="pro-img">
+									<img src="/img/icons/85.png" alt="">
+								</div>
+								<div class="pro-img">
+									<img src="/img/icons/wind.svg" alt="">
+								</div>
+							</div>
+							<div class="w-100">
+								<div class="line">
+									<p>0</p>
+									<p>50</p>
+									<p>100</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="wrap-progress xl-open">
+							<div class="fx-cnt-between">
+								<p class="b4-f1">COAL</p>
+								<div class="pro-img">
+									<img src="/img/icons/62.png" alt="">
+								</div>
+								<div class="pro-img">
+									<img src="/img/icons/coal.svg" alt="">
+								</div>
+							</div>
+							<div class="w-100">
+								<div class="line">
+									<p>0</p>
+									<p>50</p>
+									<p>100</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="wrap-progress xl-open">
+							<div class="fx-cnt-between">
+								<p class="b4-f1">NATURAL GAS</p>
+								<div class="pro-img">
+									<img src="/img/icons/57.png" alt="">
+								</div>
+								<div class="pro-img">
+									<img src="/img/icons/gas.svg" alt="">
+								</div>
+							</div>
+							<div class="w-100">
+								<div class="line">
+									<p>0</p>
+									<p>50</p>
+									<p>100</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="wrap-progress xl-open">
+							<div class="fx-cnt-between">
+								<p class="b4-f1">NUCLEAR</p>
+								<div class="pro-img">
+									<img src="/img/icons/49.png" alt="">
+								</div>
+								<div class="pro-img">
+									<img src="/img/icons/nuclear.svg" alt="">
+								</div>
+							</div>
+							<div class="w-100">
+								<div class="line">
+									<p>0</p>
+									<p>50</p>
+									<p>100</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="wrap-progress xl-open">
+							<div class="fx-cnt-between">
+								<p class="b4-f1">DENEUM</p>
+								<div class="pro-img">
+									<img src="/img/icons/17.png" alt="">
+								</div>
+								<div class="pro-img">
+									<img src="/img/icons/deneum.svg" alt="">
+								</div>
+							</div>
+							<div class="w-100">
+								<div class="cheaper">95% <span>CHEAPER THAN GAS</span></div>
+								<div class="line">
+									<p>0</p>
+									<p>50</p>
+									<p>100</p>
+								</div>
+							</div>
+						</div>
+
+
 						<div class="wrap-progress">
 							<p class="b4-f1">WIND</p>
 							<div class="pro-img">
@@ -319,7 +470,7 @@
 								<i id="t-7">35%</i>
 							</div>
 							<div class="gr-txt-2">
-								<p>ATOMIC</p>
+								<p>NUCLEAR</p>
 								<p>10%</p>
 							</div>
 						</div>

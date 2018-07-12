@@ -58,28 +58,31 @@ header {padding: 0 15px;}
 .slaider {height: 120px;}
 .slaider.owl-carousel .owl-nav button.owl-prev::before, .slaider.owl-carousel .owl-nav button.owl-next::before {top: -39px;}
 
-.b3-1-txt p:nth-child(2) {font-size: 24px;}
-.b3-1-txt2 p:nth-child(1) {font-size: 24px;}
+
+
 .wrap-txt-f1 p:nth-child(1), .wrap-txt-f1 p:nth-child(2), .wrap-txt-f1 p:nth-child(3){font-size: 19px; width: 80px; line-height: 1.2;}
 .wrap-txt-f1 p {margin-top: 5px;}
-.b3-1-txt3 p {font-size: 20px; width: 33%;}
+.b3-1-txt3 p {font-size: 20px; width: 33%; margin: 10px 0;}
 .b3-1-txt3 p::after {height: 100%; right: 15px;}
 .wrap-progress {padding: 15px;}
 .b4-f1 {width: 25%; font-size: 30px;}
 .gr-txt-2 {padding-right: 0;}
-.gr-txt p {font-size: 94px;}
+.gr-txt-2 p{ font-size: 32px; }
+.gr-txt p {font-size: 80px;}
 .wrap-b6-1 h1 {font-size: 48px;}
-.wrap-b6::after {right: 40px; top: 96px;}
+.gr-txt span {font-size: 32px;}
+.wrap-b6::after {right: 40px; top: 150px;}
 .wrap-b6 {max-width: 910px;}
 .b6-down-line {max-width: 827px;}
 .energy-txt {max-width: 342px;}
-.energy-txt h2::before {width: 330px;}
-.team_txt {max-width: 420px;}
-.b12-team-txt h4 {font-size: 22px;}
-.team_txt .square p {font-size: 22px;}
-.road .square {max-width: 510px;}
+.energy-txt h2::before {width: 300px; right: 0;}
+.team_txt {max-width: 420px; margin-right: 20px;}
+.gr-txt-2 p:nth-child(2) {font-size: 80px;}
+.b12-team-txt h4 {font-size: 18px;}
+.team_txt .square p {font-size: 20px;}
+.road .square {max-width: 410px;}
 .rmap-left-cr::before {width: 84px; left: -71px;}
-.road {max-width: 1171px;}
+.road {max-width: 971px;}
 #b3, #b4, #b5, #b7, #b9, #b10, #b11, #b12, #b13 {padding: 0 100px;}
 .wb3-txt p:nth-child(1) {font-size: 24px;}
 .wb3-txt p:nth-child(2) {font-size: 24px;}
@@ -89,7 +92,7 @@ header {padding: 0 15px;}
 .b3-1-txt3 p::before {left: -5px; top: 15px;}
 .b3-table {padding-bottom: 0;}
 .pro-img {margin-left: 20px; margin-right: 20px;}
-.wrap-graphic {flex-wrap: wrap; justify-content: center;}
+.wrap-graphic {justify-content: space-between;}
 .wrap-b6-1 img {width: 50px; height: 365px;}
 .wrap-n-img {width: 573px;}
 .capsule-img img {max-width: 300px;}
@@ -134,9 +137,8 @@ header {padding: 0 15px;}
 .capsule-txt i:nth-child(12)::after {top: 506px; right: 315px; width: 56px; height: 56px;}
 .exchanger p {font-size: 20px;}
 .exchanger {margin-top: 0;}
-.b3-1-txt p:nth-child(2) {font-size: 20px;}
 .b3-1-txt {align-items: center;}
-.b3-1-txt2 p:nth-child(1) {font-size: 20px;}
+
 .standart-h1 {font-size: 40px;}
 .standart-h1::before {top: 5px;}
 
@@ -145,3 +147,35 @@ header {padding: 0 15px;}
 .lab_sign {font-size: 17px;}
 .main-b1-ul ul li {margin: 55px 20px 80px 0;}
 .btn-popup a {font-size: 16px; padding: 7px 90px;}
+.graphic {width: 400px; height: 400px;}
+.gr-txt {padding: 20px 0;}
+.gr-txt {width: 392px;}
+.gr-txt::before,.gr-txt-2::before {top: 99px;}
+#t-1, #t-2, #t-3, #t-4, #t-5, #t-6, #t-7 {font-size: 24px;}
+#t-1 {top: 10px; left: 186px;} #t-1::before {bottom: 44px;}
+#t-2 {top: 17px; left: 152px;} #t-2::before {bottom: 47px;}
+#t-3 {top: 43px; left: 80px;} #t-3::before {bottom: 44px;}
+#t-4 {top: 134px;} #t-4::before {bottom: 38px;}
+#t-5 {top: 256px;} #t-5::before {top: 24px; left: -12px;}
+#t-6 {top: 345px; left: 180px;} #t-6::before {bottom: -20px;}
+#t-7 {top: 107px; right: 18px;} #t-7::before {right: 0;}
+.wrap-b6 img {margin-top: 104px;}
+.wrap-b6-1 span {font-size: 31px;}
+.b7-txt p,.box-b2 p {font-size: 22px;}
+.energy-txt h2 {font-size: 30px; padding-right: 105px; margin-top: 25px; max-width: none;}
+.energy-txt h2::before {width: 100%;}
+.b10-icon h6 {font-size: 30px;}
+.b10-icon h1 {font-size: 100px;}
+.b10-icon {background: url(/img/icons/b10-1.svg) no-repeat right 72px top 10px; max-width: 260px; background-size: 60px 65px;}
+.b10-icon.bg-2 {background: url(/img/icons/b10-2.svg) no-repeat right 11px top 10px; max-width: 260px; background-size: 60px 67px;}
+.b10-icon.bg-3 {background: url(/img/icons/b10-3.svg) no-repeat right 75px top 10px; max-width: 260px; background-size: 60px 68px;}
+.team_item {width: 50%;}
+.team_txt h2 {font-size: 18px;}
+.road .square h2 {font-size: 30px;}
+.road .square p {font-size: 20px;}
+.road::before {height: 1819px;}
+.wrap-footer {padding: 0 80px;}
+.w-ex .square p {font-size: 20px;}
+.b3-1-txt p:nth-child(2)::before { height: 50px; top: 0;}
+.b3-1-txt p::before {height: 50px; top: -10px;}
+.b3-1-txt3 p::after {height: 40px;}
