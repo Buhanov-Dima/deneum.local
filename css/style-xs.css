@@ -1,0 +1,27 @@
+#b1, #b3, #b4, #b5, #b6, #b7, #b8, #b9, #b10, #b11, #b12, #b13 {padding: 0 5px; margin: 40px 0 15px;} .square.height-630, .square.height-340, .square.height-290, .square.height-210 {width: 100%;}
+.energy,.main-b1-ul ul {flex-wrap: wrap;}  .wb3-img, .wb3-txt {width: 100%;} .wrap-b10 {flex-direction: column; align-items: center; justify-content: center;}
+.team_item {width: 100%;} .d-flex {flex-wrap: wrap;} .wrap-footer {padding: 0 5px;} .network {flex-wrap: wrap;}
+.block-xl-m1 h1 {font-size: 25px;} .box-b1 p {font-size: 18px;} .power-station img {width: 100%; max-width: none;} .block-xl-p, .tab-box, .first-form, .navbar-brand {display: none;}
+.main-b1-ul ul li {margin: 0 0 20px; } .b3-1-txt {flex-direction: column;} .b3-1-txt2, .b3-1-txt p {width: 100%; margin: 0;} .b3-1-txt3 {flex-direction: column;}
+.b3-1-txt3 p {width: 100%;} .btn-popup a {padding: 7px 5px;} .cheaper {font-size: 30px;left: 153px; top: 50px;} .standart-h1 {font-size: 20px;} .wrap-b4 h1 {font-size: 20px;}
+.pro-img img {width: 42px; height: 42px;} .cheaper span {font-size: 12px;} .gr-txt span {font-size: 22px;} .gr-txt p, .gr-txt-2 p:nth-child(2) {font-size: 58px;} .gr-txt-2 p {font-size: 22px;}
+.b7-txt p, .b7-txt span {font-size: 14px;} .b7-txt p, .box-b2 p {font-size: 14px;} .box-b1 p:nth-child(1)::before, .box-b1 p:nth-child(1)::after, .box-b1 p:nth-child(2)::before, .box-b1 p:nth-child(2)::after {display: none;}
+.gr-txt, .gr-txt-2 {width: 100%;} .graphic {position: relative;} .wrap-graphic {flex-direction: column;} #b6-p-1 {display: none;} .wrap-b6 h3 {font-size: 22px; top: -70px; width: 100%; left: 0; right: 0;}
+.wrap-b6 {height: auto; padding: 25px 5px;} .b6-down-line p {font-size: 12px;} .graphic {width: 293px; height: 293px;} .b6-down-line {width: calc(100% - 10px); left: 5px; bottom: 0;}
+.b6-down-line::before {bottom: 13px;height: 1px;} .b6-down-line p:nth-child(2)::before, .b6-down-line p:nth-child(3)::before, .b6-down-line p:nth-child(4)::before, .b6-down-line p:nth-child(5)::before, .b6-down-line p:nth-child(6)::before {bottom: 14px;}
+.wrap-b6::before {height: calc(100% - 19px); top: 5px; left: 4px;} .wrap-b6 i:first-child::before {left: 5px; top: 10vh;} .wrap-b6 i:first-child::after {top: 20vh; left: 5px;}
+#b6-p-2 {top: 15px; right: 15px; font-size: 14px;} .wrap-b6::after { right: 0.5vh; top: 9vh; width: 6px; height: 6px; } .energy-txt {margin-left: 65px;} .energy-txt.bg-1::before {width: 43px; height: 43px; left: -66px; top: 46px; background-size: 100%;}
+.wb3-img, .wb3-txt {position: static;} .wb3-img::before {left: 10px; top: -5px;} .wb3-img::after {left: 10px; bottom: -5px;} .wb3-txt::before {right: 10px; bottom: -5px;}
+.wb3-txt::after {top: -5px; right: 10px;} .wrap-slaider .slaider {padding: 38px 50px;} .slaider.owl-carousel .owl-nav button.owl-prev::before, .slaider.owl-carousel .owl-nav button.owl-next::before {top: -30px;}
+.standart-h1::before {display: none;} .standart-h1 {border-left: 4px solid #24d0b5;} .gr-txt-2 {max-width: 150px; margin: auto;} #t-1, #t-2, #t-3, #t-4, #t-5, #t-6, #t-7 {font-size: 16px;}
+#t-1 {left: 134px; top: 10px;} #t-1::before {bottom: 31px;} #t-2 {left: 110px; top: 16px;} #t-2::before {bottom: 34px;} #t-3 {top: 36px; left: 62px;} #t-3::before {left: 0; bottom: 34px;}
+#t-4 {top: 103px;} #t-5 {top: 189px;} #t-6 {top: 250px; left: 127px;} #t-7 {top: 70px;} .gr-txt-2::before {top: 91px;} .gr-txt::before {top: 80px;} .wrap-graphic {padding-bottom: 0;}
+.box-b2 p:nth-child(1)::before, .box-b2 p:nth-child(1)::after, .box-b2 p:nth-child(2)::before, .box-b2 p:nth-child(2)::after, .b7-txt p:nth-child(1)::before, .b7-txt p:nth-child(1)::after, .b7-txt p:nth-child(2)::before, .b7-txt p:nth-child(2)::after {display: none;} .box-b2 {margin-bottom: 50px;}
+.btn-popup {margin-top: 20px; } .b7-txt span::before {height: 21px;} .energy {margin-top: 0;} .energy-txt h2 {padding-right: 140px;} .energy-txt.bg-2::after {width: 43px; height: 43px; background-size: 43px; left: -66px; top: 46px;}
+.energy-txt.bg-2::before {left: -56px; top: 58px; width: 24px;} .wrap-square {margin-top: 0;} .wrap-b8 .box-b2 {margin-bottom: 20px;} .b10-icon.bg-2, .b10-icon.bg-3 {margin-top: 25px;}
+.img-circle {position: absolute; width: 75px; top: -40px;} .team_txt {margin: 0;} .team_item {position: relative; margin-top: 80px;} .team_txt h2 {margin-left: 95px;}
+.b12-team-txt {flex-direction: row;} .b12-team-txt h4 {padding: 5px 2px;} .b12-team-txt {margin-left: 90px;} .road::before {height: 2000px; left: 0; margin: 0;} 
+.road::after {left: 0; margin: 0;} .road .square:nth-child(2n+1), .road .square:nth-child(2n) {margin-left: auto; margin-top: 30px;} .road .square {width: 230px;}
+.road #r-map-line::before {left: -48px; height: 4px; top: 40px; width: 55px;} .road #r-map-line::after {width: 10px; height: 10px; left: 5px; top: 37px; border: 3px solid #24d0b5;}
+.road::after {top: 70px; width: 4px;} .road::before {top: 70px; width: 4px;} .rmap-right::before, .rmap-right-cr::before, .rmap-right-cr-last::before {left: -46px; width: 58px;} .rmap-right::after, .rmap-right-cr::after, .rmap-right-cr-last::after {left: 13px; top: 34px;}
+.road .square:nth-child(2n+1), .road .square:nth-child(2n) {padding: 15px 5px 15px 35px;} .road {max-width: 280px;}
