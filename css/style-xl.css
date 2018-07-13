@@ -61,7 +61,7 @@
 .wrap-progress {display: none;}
 .wrap-progress.xl-open {display: flex; flex-direction: column;}
 .fx-cnt-between {display: flex; justify-content: space-between;}
-.cheaper {font-size: 50px; margin: 0; left: 316px; top: 50px;}
+.cheaper {font-size: 50px; margin: 0; left: 332px; bottom: 5px;}
 .pro-img.cent img{position: absolute; left: 0; right: 0; margin: auto;}
 .cheaper span {font-size: 20px;}
 .graphic {position: absolute; left: 0; right: 0; bottom: 0; margin: auto;} .wrap-graphic {padding-bottom: 320px; }
@@ -81,4 +81,5 @@
 .rmap-right-cr-last::before {width: 60px; right: -45px;} .road::before {height: 1699px; } .network img {width: 27px; height: 27px;}
 .foot-logo {width: 169px;} .d-flex {align-items: center;}
 .power-station img {width: 100%; max-width: none;} .wrap-b6-1 h1 {font-size: 48px;} .b6-down-line p {font-size: 18px;}
-.network a {margin-left: 20px;}
+.network a {margin-left: 20px;} .mwh {width: 70px; height: 70px; padding: 18px 13px; margin-left: -68px;}
+.navbar {height: auto;} header {position: fixed; top: 0; width: 100%; z-index: 999;} #b1 {margin-top: 120px;}

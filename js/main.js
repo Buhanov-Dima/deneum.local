@@ -1,11 +1,13 @@
 $(document).ready(function(){
 
-	$(function() {
+	/*
+    $(function() {
 		$('.b1-ul li').click(function() {
 	    $(this).siblings(".b1-ul ul").toggle();
 	    $(this).toggleClass('active');
 	  });
 	});
+    */
 
 
 	$(".slaider").owlCarousel({

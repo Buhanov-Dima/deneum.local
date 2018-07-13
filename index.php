@@ -17,6 +17,7 @@
 	<link rel="stylesheet" href="css/custom.css" media="only screen and (max-width:1550px)">
 	<link rel="stylesheet" href="/css/style-lg.css" media="only screen and (max-width:1200px)">
 	<link rel="stylesheet" href="/css/style-xl.css" media="only screen and (max-width:992px)">
+	<link rel="stylesheet" href="/css/style-md.css" media="only screen and (max-width:768px)">
 	<link rel="stylesheet" href="/css/style-xs.css" media="only screen and (max-width:576px)">
 </head>
 <body>
@@ -30,7 +31,7 @@
 		  <div class="collapse navbar-collapse" id="navbarSupportedContent">
 		    <ul class="navbar-nav ml-auto">
 		      <li>
-		      	<a class="nav-link g-token">Get tokens</a>
+		      	<a data-fancybox data-src="#popup" href="javascript:;" class="nav-link g-token">Get tokens</a>
 		      </li>
 		      <li class="nav-item">
 		        <a class="nav-link" href="/White_Paper.pdf" target="_blank">WHITEPAPER</a>
@@ -366,7 +367,7 @@
 								</div>
 							</div>
 							<div class="w-100">
-								<div class="cheaper">95% <span>CHEAPER THAN GAS</span></div>
+								<div class="cheaper">95% <span>CHEAPER<br> THAN GAS</span></div>
 								<div class="line line-5">
 									<p>0</p>
 									<p>50</p>
@@ -446,7 +447,7 @@
 								<img src="/img/icons/deneum.svg" alt="">
 							</div>
 							<div class="line line-5">
-								<div class="cheaper">95% <span>CHEAPER THAN GAS</span></div>
+								<div class="cheaper">95% <span>CHEAPER<br> THAN GAS</span></div>
 								<p>0</p>
 								<p>50</p>
 								<p>100</p>
@@ -1007,11 +1008,11 @@
 						<div class="d-flex justify-content-between">
 							<img class="foot-logo" src="/img/icons/logo.svg" alt="">
 							<div class="network">
-								<a href="#"><img src="/img/icons/soc-1.svg" alt=""></a>
-								<a href="#"><img src="/img/icons/soc-2.svg" alt=""></a>
-								<a href="#"><img src="/img/icons/soc-3.svg" alt=""></a>
-								<a href="#"><img src="/img/icons/soc-4.svg" alt=""></a>
-								<a href="#"><img src="/img/icons/soc-5.svg" alt=""></a>
+								<a href="https://twitter.com/DeneumPower" target="_blank"><img src="/img/icons/soc-1.svg" alt=""></a>
+								<a href="https://bitcointalk.org/index.php?topic=4582187" target="_blank"><img src="/img/icons/soc-2.svg" alt=""></a>
+								<a href="https://medium.com/@deneum.power" target="_blank"><img src="/img/icons/soc-3.svg" alt=""></a>
+								<a href="https://www.facebook.com/Deneum-183782802427014/" target="_blank"><img src="/img/icons/soc-4.svg" alt=""></a>
+								<a href="https://t.me/deneum_chat" target="_blank"><img src="/img/icons/soc-5.svg" alt=""></a>
 							</div>
 						</div>
 						<div class="foot-menu">
@@ -1027,7 +1028,11 @@
 			</div>
 		</div>
 	</footer>
-
+<div class="card" id="popup">
+	<div class="wrap-popup">
+		<p>You've been subscribed, thank you!</p>
+	</div>
+</div>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
