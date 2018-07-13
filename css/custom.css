@@ -198,3 +198,37 @@ header {padding: 0 15px;}
 #b6-p-1 {left: 23px;}
 .wrapper-b6 {justify-content: center;}
 .road #r-map-line::before {right: -79px;}
+.square-img-txt .mwh {
+	width: 70px; height: 70px; padding: 22px 10px; 
+}
+.mwh p::before {
+	top: 16px;
+	height: 1px;
+}
+.mwh p {font-size: 18px;}
+@media not all and (min-resolution:.001dpcm) { @media {
+
+    .gr-txt p { 
+		line-height: 1.1;
+    }
+    .gr-txt-2 p {
+    	line-height: 1.2;
+    }
+    .cheaper {
+    	line-height: 1.7;
+    }
+    .team_txt h2 {
+    	line-height: 1.5;
+    	padding: 5px 0 0 0;
+    }
+   	
+	.wrap-txt-f1 p:nth-child(1), .wrap-txt-f1 p:nth-child(2), .wrap-txt-f1 p:nth-child(3){font-size: 19px; width: 80px; line-height: 1.7;}
+	.line p {font-size: 16px;}
+	.cheaper span{position: relative; bottom: 10px;}
+	.b3-1-txt3 p::after {right: 0;}
+	/*.square-txt p:nth-child(2) {
+		font-size: 18px;
+		line-height: 1.3;
+	}*/
+
+}}
