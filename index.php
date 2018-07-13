@@ -88,8 +88,8 @@
 						</div>
 						<form action="" class="first-form">
 							<i></i>
-							<input type="text" name="email" class="email" placeholder="Email address">
-							<button class="sign_up">RESERVE THE LOWEST PRICE</button>
+							<input type="text" name="mail" class="email" placeholder="Email address">
+							<button class="sign_up" type="submit">RESERVE THE LOWEST PRICE</button>
 							<label for="email" class="lab_sign">You will be offered the lowest price once we open the next round</label>
 						</form>
 						<div class="main-b1-ul">
@@ -112,8 +112,8 @@
 							<p>It is safe, distributed and radically cheap</p>
 							<form action="" class="first-form">
 								<i></i>
-								<input type="text" name="email" class="email" placeholder="Email address">
-								<button class="sign_up">RESERVE THE LOWEST PRICE</button>
+								<input type="text" name="email" class="mail" placeholder="Email address">
+								<button class="sign_up" type="submit">RESERVE THE LOWEST PRICE</button>
 								<label for="email" class="lab_sign">You will be offered the lowest price once we open the next round</label>
 							</form>
 						</div>
