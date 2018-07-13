@@ -94,18 +94,10 @@
 						<div class="main-b1-ul">
 							<ul class="b1-ul">
 								<li>3 WAYS<br>TO USE TOKEN
-									<ul class="b1-ul-hide">
-										<li>first block</li>
-										<li>second block</li>
-										<li>third block</li>
-									</ul>
+
 								</li>
 								<li>3 WAYS<br>TO USE ENERGY
-									<ul class="b1-ul-hide">
-										<li>first block</li>
-										<li>second block</li>
-										<li>third block</li>
-									</ul>
+
 								</li>
 							</ul>
 						</div>
@@ -128,16 +120,12 @@
 							<ul class="b1-ul">
 								<li>3 WAYS<br>TO USE TOKEN
 									<ul class="b1-ul-hide">
-										<li>first block</li>
-										<li>second block</li>
-										<li>third block</li>
+
 									</ul>
 								</li>
 								<li>3 WAYS<br>TO USE ENERGY
 									<ul class="b1-ul-hide">
-										<li>first block</li>
-										<li>second block</li>
-										<li>third block</li>
+
 									</ul>
 								</li>
 							</ul>
