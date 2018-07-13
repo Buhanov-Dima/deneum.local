@@ -15,10 +15,9 @@
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Mono:300,400,500,700" rel="stylesheet">
 	<link rel="stylesheet" href="/css/style.css">
 	<link rel="stylesheet" href="css/custom.css" media="only screen and (max-width:1550px)">
-	<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
-	<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
-	<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
-	<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+	<link rel="stylesheet" href="/css/style-lg.css" media="only screen and (max-width:1200px)">
+	<link rel="stylesheet" href="/css/style-xl.css" media="only screen and (max-width:992px)">
+	<link rel="stylesheet" href="/css/style-xs.css" media="only screen and (max-width:576px)">
 </head>
 <body>
 	<header>
@@ -31,10 +30,10 @@
 		  <div class="collapse navbar-collapse" id="navbarSupportedContent">
 		    <ul class="navbar-nav ml-auto">
 		      <li>
-		      	<a class="nav-link g-token" href="#">Get tokens</a>
+		      	<a class="nav-link g-token">Get tokens</a>
 		      </li>
 		      <li class="nav-item">
-		        <a class="nav-link" href="#link-1">WHITEPAPER</a>
+		        <a class="nav-link" href="/White_Paper.pdf" target="_blank">WHITEPAPER</a>
 		      </li>
 		      <li class="nav-item">
 		        <a class="nav-link" href="#b3">ABOUT</a>
@@ -50,7 +49,7 @@
 		          ENG
 		        </a>
 		        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-		          <a class="dropdown-item" href="#">RUS</a>
+		          <a class="dropdown-item">RUS</a>
 		        </div>
 		      </li>
 		    </ul>
@@ -81,9 +80,9 @@
 						<p class="block-xl-p">Power Stations configurations</p>
 						<div class="tab-box">
 							<ul>
-								<li><a class="active" href="#tab-1">5 KW</a></li>
-								<li><a href="#tab-2">10 KW</a></li>
-								<li><a href="#tab-3">100 KW</a></li>
+								<li><a>5 KW</a></li>
+								<li><a>10 KW</a></li>
+								<li><a>100 KW</a></li>
 							</ul>
 						</div>
 						<form action="" class="first-form">
@@ -162,9 +161,9 @@
 						<p>Power Stations configurations</p>
 						<div class="tab-box">
 							<ul>
-								<li><a class="active" href="#tab-1">5 KW</a></li>
-								<li><a href="#tab-2">10 KW</a></li>
-								<li><a href="#tab-3">100 KW</a></li>
+								<li><a>5 KW</a></li>
+								<li><a>10 KW</a></li>
+								<li><a>100 KW</a></li>
 							</ul>
 						</div>
 					</div>
