@@ -274,7 +274,9 @@
 							<div class="fx-cnt-between">
 								<p class="b4-f1">WIND</p>
 								<div class="pro-img cent">
-									<img src="/img/icons/85.png" alt="">
+									<div class="mwh">
+										<p>$85<br><span>MWh</span></p>
+									</div>
 								</div>
 								<div class="pro-img">
 									<img src="/img/icons/wind.svg" alt="">
@@ -293,7 +295,9 @@
 							<div class="fx-cnt-between">
 								<p class="b4-f1">COAL</p>
 								<div class="pro-img cent">
-									<img src="/img/icons/62.png" alt="">
+									<div class="mwh">
+										<p>$62<br><span>MWh</span></p>
+									</div>
 								</div>
 								<div class="pro-img">
 									<img src="/img/icons/coal.svg" alt="">
@@ -312,7 +316,9 @@
 							<div class="fx-cnt-between">
 								<p class="b4-f1">NATURAL GAS</p>
 								<div class="pro-img cent">
-									<img src="/img/icons/57.png" alt="">
+									<div class="mwh">
+										<p>$57<br><span>MWh</span></p>
+									</div>
 								</div>
 								<div class="pro-img">
 									<img src="/img/icons/gas.svg" alt="">
@@ -331,7 +337,9 @@
 							<div class="fx-cnt-between">
 								<p class="b4-f1">NUCLEAR</p>
 								<div class="pro-img cent">
-									<img src="/img/icons/49.png" alt="">
+									<div class="mwh">
+										<p>$49<br><span>MWh</span></p>
+									</div>
 								</div>
 								<div class="pro-img">
 									<img src="/img/icons/nuclear.svg" alt="">
@@ -350,7 +358,9 @@
 							<div class="fx-cnt-between">
 								<p class="b4-f1">DENEUM</p>
 								<div class="pro-img cent">
-									<img src="/img/icons/17.png" alt="">
+									<div class="mwh">
+										<p>$1.7<br><span>MWh</span></p>
+									</div>
 								</div>
 								<div class="pro-img">
 									<img src="/img/icons/deneum.svg" alt="">
@@ -378,7 +388,9 @@
 								<p>100</p>
 							</div>
 							<div class="pro-img">
-								<img src="/img/icons/85.png" alt="">
+								<div class="mwh">
+									<p>$85<br><span>MWh</span></p>
+								</div>
 							</div>
 						</div>
 						<div class="wrap-progress">
@@ -392,7 +404,9 @@
 								<p>100</p>
 							</div>
 							<div class="pro-img">
-								<img src="/img/icons/62.png" alt="">
+								<div class="mwh">
+									<p>$62<br><span>MWh</span></p>
+								</div>
 							</div>
 						</div>
 						<div class="wrap-progress">
@@ -406,7 +420,9 @@
 								<p>100</p>
 							</div>
 							<div class="pro-img">
-								<img src="/img/icons/57.png" alt="">
+								<div class="mwh">
+									<p>$57<br><span>MWh</span></p>
+								</div>
 							</div>
 						</div>
 						<div class="wrap-progress">
@@ -420,7 +436,9 @@
 								<p>100</p>
 							</div>
 							<div class="pro-img">
-								<img src="/img/icons/49.png" alt="">
+								<div class="mwh">
+									<p>$49<br><span>MWh</span></p>
+								</div>
 							</div>
 						</div>
 						<div class="wrap-progress">
@@ -435,7 +453,9 @@
 								<p>100</p>
 							</div>
 							<div class="pro-img">
-								<img src="/img/icons/17.png" alt="">
+								<div class="mwh">
+									<p>$1.7<br><span>MWh</span></p>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -560,7 +580,9 @@
 							<div class="square height-210">
 								<i></i><i></i>
 								<div class="square-img-txt">
-									<img src="/img/icons/2-95.png" alt="">
+									<div class="mwh">
+										<p>$2.95<br><span>MWh</span></p>
+									</div>
 									<div class="square-txt">
 										<p>PRIVATE<br> SALE</p>
 										<p>23 APR 2018<br>29 APR 2018</p>
@@ -572,7 +594,9 @@
 							<div class="square height-290">
 								<i></i><i></i>
 								<div class="square-img-txt">
-									<img src="/img/icons/5-65.png" alt="">
+									<div class="mwh">
+										<p>$5.65<br><span>MWh</span></p>
+									</div>
 									<div class="square-txt">
 										<p>PRE<br> ICO</p>
 										<p>01 OCT 2018<br>31 OCT 2018</p>
@@ -587,7 +611,9 @@
 							<div class="square height-340">
 								<i></i><i></i>
 								<div class="square-img-txt">
-									<img src="/img/icons/8-90.png" alt="">
+									<div class="mwh">
+										<p>$8.90<br><span>MWh</span></p>
+									</div>
 									<div class="square-txt">
 										<p>ICO</p>
 										<p>15 NOV 2018<br>31 JAN 2019</p>
@@ -599,7 +625,9 @@
 							<div class="square height-630">
 								<i></i><i></i>
 								<div class="square-img-txt">
-									<img src="/img/icons/2-95.svg" alt="">
+									<div class="mwh">
+										<p>$73<br><span>MWh</span></p>
+									</div>
 									<div class="square-txt">
 										<p>PRIVATE<br> SALE</p>
 										<p>23 APR 2018<br>29 APR 2018</p>
