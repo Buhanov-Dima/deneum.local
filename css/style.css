@@ -1312,7 +1312,7 @@ button {outline: none; cursor: pointer;}
     border-bottom: 2px solid #199ae0;
     border-left: 2px solid #199ae0;
     left: -15px;
-    bottom: -65px;
+    bottom: -60px;
 }
 .wrap-b6 {
 	background-image: linear-gradient(to top, rgba(82, 163, 223, 0.44), rgba(82, 163, 223, 0.04));
@@ -1497,7 +1497,7 @@ button {outline: none; cursor: pointer;}
 .wrap-b6 i:nth-child(4)::before {
     content: '';
     position: absolute;
-    width: 99%;
+    width: calc(100% - 14px);
     height: 2px;
     background-color: #52a3df;
     left: 0;
@@ -1509,7 +1509,7 @@ button {outline: none; cursor: pointer;}
 .wrap-b6 i:nth-child(4)::after {
     content: '';
     position: absolute;
-    width: 99%;
+    width: calc(100% - 14px);
     height: 2px;
     background-color: #52a3df;
     left: 0;
@@ -1818,7 +1818,7 @@ button {outline: none; cursor: pointer;}
 .square i:nth-child(2)::before {
 	content: '';
     position: absolute;
-    width: 98%;
+    width: calc(100% - 14px);
     height: 2px;
     background-color: #52a3df;
     left: 0;
@@ -1830,7 +1830,7 @@ button {outline: none; cursor: pointer;}
 .square i:nth-child(2)::after {
     content: '';
     position: absolute;
-    width: 98%;
+    width: calc(100% - 14px);
     height: 2px;
     background-color: #52a3df;
     left: 0;
