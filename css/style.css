@@ -2710,7 +2710,17 @@ display: none;
 }
 .square-img-txt .mwh {width: 120px; height: 120px; padding: 36px 22px;}
 
-
+.card {padding: 0; border: none;}
+.wrap-popup {
+	padding: 35px 20px;
+	border-radius: 3px;
+	background-color: #070f27;
+	text-align: center;
+}
+.wrap-popup p{
+	font-size: 30px;
+	color: #ffffff;
+}
 /* Safari 10.1+ (which is the latest version of Safari at this time) */
 @media not all and (min-resolution:.001dpcm) { @media {
 

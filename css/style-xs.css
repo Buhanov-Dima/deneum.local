@@ -3,7 +3,7 @@
 .team_item {width: 100%;} .d-flex {flex-wrap: wrap;} .wrap-footer {padding: 0 5px; position: relative;} .network {flex-wrap: wrap; position: absolute; bottom: 50px; left: 0; right: 0; margin: auto; justify-content: center;}
 .block-xl-m1 h1 {font-size: 25px;} .box-b1 p {font-size: 18px;} .power-station img {width: 100%; max-width: none;} .block-xl-p, .tab-box, .first-form, .navbar-brand {display: none;}
 .main-b1-ul ul li {margin: 0 0 20px; } .b3-1-txt {flex-direction: column;} .b3-1-txt2, .b3-1-txt p {width: 100%; margin: 0;} .b3-1-txt3 {flex-direction: column;}
-.b3-1-txt3 p {width: 100%;} .btn-popup a {padding: 7px 5px;} .cheaper {font-size: 30px;left: 153px; top: 50px;} .standart-h1 {font-size: 20px;} .wrap-b4 h1 {font-size: 20px;}
+.b3-1-txt3 p {width: 100%;} .btn-popup a {padding: 7px 5px;} .cheaper {font-size: 30px;left: 153px; bottom: 5px;} .standart-h1 {font-size: 20px;} .wrap-b4 h1 {font-size: 20px;}
 .pro-img img {width: 42px; height: 42px;} .cheaper span {font-size: 12px;} .gr-txt span {font-size: 22px;} .gr-txt p, .gr-txt-2 p:nth-child(2) {font-size: 58px;} .gr-txt-2 p {font-size: 22px;}
 .b7-txt p, .b7-txt span {font-size: 14px;} .b7-txt p, .box-b2 p {font-size: 14px;} .box-b1 p:nth-child(1)::before, .box-b1 p:nth-child(1)::after, .box-b1 p:nth-child(2)::before, .box-b1 p:nth-child(2)::after {display: none;}
 .gr-txt, .gr-txt-2 {width: 100%;} .graphic {position: relative;} .wrap-graphic {flex-direction: column;} #b6-p-1 {display: none;} .wrap-b6 h3 {font-size: 22px; top: -70px; width: 100%; left: 0; right: 0;}
@@ -28,4 +28,6 @@
 .wrap-n-img {width: 300px;} .capsule-txt p:first-child {position: relative; margin-top: 0;} .capsule-txt {display: none;} .capsule-img {width: 100%;} .energy-txt h2 {padding-right: 20px;}
 .energy-txt h2::after {left: -20px; top: 33px; width: 24px; } .energy-txt {max-width: none;} .energy-txt h2::before {width: calc(100% - 25px);left: 0;} .energy-txt p::before {right: 20px;}
 .foot-menu {flex-direction: column; align-items: flex-start; margin-top: 20px;} .foot-logo {max-width: 120px;} .wrap-footer p {margin-top: 65px; font-size: 12px; opacity: 0.6; margin-bottom: 30px;}
-.energy-txt p {width: 250px;} .energy-txt {margin-left: 0; max-width: 225px;}
+.energy-txt p {width: 250px;} .energy-txt {margin-left: 0; max-width: 225px;} .mwh {margin-left: -84px;} .pro-img.cent {text-align: center;}
+.b4-f1 {width: 30%;} .pro-img.cent {width: 40%;} .pro-img {width: 30%; text-align: right;}
+.mwh {margin: auto;} .gr-txt p:nth-child(2) {margin-top: 10px;} .standart-h1 {position: relative; line-height: 0.8;} .standart-h1::before {content: ''; position: absolute; left: 0; top: 0; height: 15px; width: 4px; background-color: #24d0b5;}
