@@ -995,11 +995,11 @@
 						<div class="d-flex justify-content-between">
 							<img class="foot-logo" src="/img/icons/logo.svg" alt="">
 							<div class="network">
-								<a href="#"><img src="/img/icons/soc-1.svg" alt=""></a>
-								<a href="#"><img src="/img/icons/soc-2.svg" alt=""></a>
-								<a href="#"><img src="/img/icons/soc-3.svg" alt=""></a>
-								<a href="#"><img src="/img/icons/soc-4.svg" alt=""></a>
-								<a href="#"><img src="/img/icons/soc-5.svg" alt=""></a>
+								<a href="https://twitter.com/DeneumPower" target="_blank"><img src="/img/icons/soc-1.svg" alt=""></a>
+								<a href="https://bitcointalk.org/index.php?topic=4582187" target="_blank"><img src="/img/icons/soc-2.svg" alt=""></a>
+								<a href="https://medium.com/@deneum.power" target="_blank"><img src="/img/icons/soc-3.svg" alt=""></a>
+								<a href="https://www.facebook.com/Deneum-183782802427014/" target="_blank"><img src="/img/icons/soc-4.svg" alt=""></a>
+								<a href="https://t.me/deneum_chat" target="_blank"><img src="/img/icons/soc-5.svg" alt=""></a>
 							</div>
 						</div>
 						<div class="foot-menu">
