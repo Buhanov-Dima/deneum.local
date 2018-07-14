@@ -331,12 +331,14 @@ button {outline: none; cursor: pointer;}
 	margin: 0 40px;
 	position: relative;
 }
+.disabled {display: none;}
 .tab-box a {
 	background-color: #199ae0;
 	font-family: 'gridnik';
 	font-weight: 500;
 	width: 80px;
 	height: 24px;
+	line-height: 24px;
 	padding: 1px; 
 	display: block;
 	border-radius: 2px;
@@ -2185,6 +2187,7 @@ display: none;
   background-color: #24d0b5;
 }
 .b12-team-txt h4:nth-child(2) {
+	color: #24d0b5;
 	background-color: transparent;
 }
 
@@ -2685,13 +2688,13 @@ display: none;
 	background: url(/img/icons/dnm_icon_02.png) no-repeat center;
 	background-size: 100%;
 	position: relative;
-	padding: 28px 22px;
+	padding: 30px 22px 0;
 }
 .mwh p {
 	font-size: 24px;
     color: #52a3df;
     font-family: 'gridnik';
-    line-height: 0.9;
+    line-height: 1.2;
     text-align: center;
     position: relative;
     opacity: .7;

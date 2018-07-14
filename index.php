@@ -95,10 +95,18 @@
 						<div class="main-b1-ul">
 							<ul class="b1-ul">
 								<li>3 WAYS<br>TO USE TOKEN
-
+									<ul class="b1-ul-hide">
+										<li>Energy Purchase</li>
+										<li>Price Arbitrage </li>
+										<li>Electricity costs hedge</li>
+									</ul>
 								</li>
 								<li>3 WAYS<br>TO USE ENERGY
-
+									<ul class="b1-ul-hide">
+										<li>Industrial heat & electricity</li>
+										<li>Residential heat & electricity</li>
+										<li>Energy source in transportation</li>
+									</ul>
 								</li>
 							</ul>
 						</div>
@@ -121,12 +129,16 @@
 							<ul class="b1-ul">
 								<li>3 WAYS<br>TO USE TOKEN
 									<ul class="b1-ul-hide">
-
+										<li>Energy Purchase</li>
+										<li>Price Arbitrage </li>
+										<li>Electricity costs hedge</li>
 									</ul>
 								</li>
 								<li>3 WAYS<br>TO USE ENERGY
 									<ul class="b1-ul-hide">
-
+										<li>Industrial heat & electricity</li>
+										<li>Residential heat & electricity</li>
+										<li>Energy source in transportation</li>
 									</ul>
 								</li>
 							</ul>
@@ -1016,11 +1028,13 @@
 			</div>
 		</div>
 	</footer>
-<div class="card" id="popup">
-	<div class="wrap-popup">
-		<p>You've been subscribed, thank you!</p>
+	<div class="disabled">
+		<div class="card" id="popup">
+			<div class="wrap-popup">
+				<p>You've been subscribed, thank you!</p>
+			</div>
+		</div>
 	</div>
-</div>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
