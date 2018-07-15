@@ -69,7 +69,7 @@
 						</div>
 						<div class="tab_box">
 							<div class="power-station active" id="tab-1">
-								<img src="/img/main/turbine.svg" alt="">
+								<img src="/img/main/generator.png" alt="">
 							</div>
 							<?php /*
 							<div class="power-station" id="tab-2">
@@ -152,7 +152,7 @@
 						<!--<h2>DENEUM POWER STATION</h2>-->
 						<div class="tab_box">
 							<div class="power-station active" id="tab-1">
-								<img src="/img/main/turbine.svg" alt="">
+								<img src="/img/main/generator.png" alt="">
 							</div>
 							<?php /*
 							<div class="power-station" id="tab-2">
