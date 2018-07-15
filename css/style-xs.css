@@ -31,3 +31,4 @@
 .energy-txt p {width: 250px;} .energy-txt {margin-left: 0; max-width: 225px;} .mwh {margin-left: -84px;} .pro-img.cent {text-align: center;}
 .b4-f1 {width: 30%;} .pro-img.cent {width: 40%;} .pro-img {width: 30%; text-align: right;}
 .mwh {margin: auto;} .gr-txt p:nth-child(2) {margin-top: 10px;} .standart-h1 {position: relative; line-height: 0.8;} .standart-h1::before {content: ''; position: absolute; left: 0; top: 0; height: 15px; width: 4px; background-color: #24d0b5;}
+#b1 {margin-top: 80px;}

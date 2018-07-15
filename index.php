@@ -69,14 +69,16 @@
 						</div>
 						<div class="tab_box">
 							<div class="power-station active" id="tab-1">
-								<img src="/img/main/gena.svg" alt="">
+								<img src="/img/main/turbine.svg" alt="">
 							</div>
+							<?php /*
 							<div class="power-station" id="tab-2">
 								<img src="/img/main/turbine.svg" alt="">
 							</div>
 							<div class="power-station" id="tab-3">
 								<img src="/img/main/turbine.svg" alt="">
 							</div>
+							*/ ?>
 						</div>
 						<p class="block-xl-p">Power Stations configurations</p>
 						<div class="tab-box">
@@ -150,14 +152,16 @@
 						<!--<h2>DENEUM POWER STATION</h2>-->
 						<div class="tab_box">
 							<div class="power-station active" id="tab-1">
-								<img src="/img/main/gena.svg" alt="">
+								<img src="/img/main/turbine.svg" alt="">
 							</div>
+							<?php /*
 							<div class="power-station" id="tab-2">
 								<img src="/img/main/turbine.svg" alt="">
 							</div>
 							<div class="power-station" id="tab-3">
 								<img src="/img/main/turbine.svg" alt="">
 							</div>
+							*/ ?>
 						</div>
 						<p>Power Stations configurations</p>
 						<div class="tab-box">

@@ -690,6 +690,7 @@ button {outline: none; cursor: pointer;}
     text-align: center;
     margin-right: 15px;
     line-height: 1.5;
+    line-height: 24px;
 }
 .b3-1-txt3 {
 	border-top: 1px solid rgba(82, 163, 223, .3);
@@ -1879,6 +1880,7 @@ button {outline: none; cursor: pointer;}
   background-color: #199ae0;
   padding: 0 20px;
   margin-left: 15px;
+  display: inline-block;
 }
 .square-txt p:nth-child(1)::before {
 	content: '';
