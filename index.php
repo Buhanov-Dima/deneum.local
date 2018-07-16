@@ -634,10 +634,9 @@
 									</div>
 									<div class="square-txt">
 										<p>PRIVATE<br> SALE</p>
-										<p>23 APR 2018<br>29 APR 2018</p>
+										<p>DEC 2020</p>
 									</div>
 								</div>
-								<p class="square-txt-2">Raised <span>$1,372,500</span></p>
 								<div class="square-txt-3">
 									<p>15 TIMES</p>
 									<p>HIGHER THAN 1 DNM NOW!</p>
