@@ -51,7 +51,7 @@
 .wb3-txt p:nth-child(1) {font-size: 16px;}
 .wb3-txt p:nth-child(2) {font-size: 18px;}
 .wb3-img {width: 32%;}
-.tab-box ul {justify-content: flex-end;}
+.tab-box ul {justify-content: center;}
 .block-xl-p {height: 15px; font-size: 12px;  text-align: center; color: #199ae0; margin-bottom: 10px; }
 .b3-1-f1 {font-size: 16px;} .b3-1-f2, .b3-1-f3 {font-size: 14px;} .b3-1-txt p {margin-right: 0; }
 .wrap-txt-f1 p:nth-child(1), .wrap-txt-f1 p:nth-child(2), .wrap-txt-f1 p:nth-child(3) {padding: 0; margin: 0 3px; font-size: 16px; width: 60px; line-height: 1.6;}
@@ -83,3 +83,7 @@
 .power-station img {width: 100%; max-width: none;} .wrap-b6-1 h1 {font-size: 48px;} .b6-down-line p {font-size: 18px;}
 .network a {margin-left: 20px;} .mwh {width: 70px; height: 70px; padding: 18px 13px; margin-left: -68px;}
 .navbar {height: auto;} header {position: fixed; top: 0; width: 100%; z-index: 999;} #b1 {margin-top: 120px;}
+.square-img-txt .mwh {margin-left: 0; padding: 18px 10px;} .mwh p::before {top: 21px;}
+.mac.safari .gr-txt {padding-top: 38px;} .mac.safari .wrap-txt-f1 p {line-height: 2;}
+
+.first-form {margin: 25px auto 0;}

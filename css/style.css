@@ -342,6 +342,7 @@ button {outline: none; cursor: pointer;}
 	padding: 1px; 
 	display: block;
 	border-radius: 2px;
+	text-align: center;
 	color: #1d374c;
 }
 .tab-box a::before {
@@ -2752,3 +2753,22 @@ display: none;
 	.b10-icon h1 {line-height: 1.5;}
 	.cheaper span {position: relative; bottom: 9px;}
 }}
+
+.mac.safari .tab-box a {line-height: 2;}
+.mac.safari .standart-h1::before {top: -4px; height: 29px;}
+.mac.safari .wrap-txt-f1 p{ line-height: 1.7; }
+.mac.safari .mwh p{line-height: 1.2; margin-top: 3px;}
+.mac.safari .line p {font-size: 18px; margin-bottom: -24px;}
+.mac.safari .cheaper span {margin-bottom: 28px;}
+.mac.safari .cheaper {line-height: 1;}
+.mac.safari .gr-txt::before, .mac.safari .gr-txt-2::before {top: 80px;}
+.mac.safari .gr-txt-2 p {line-height: 1.3;}
+.mac.safari .gr-txt-2 {padding: 0;}
+.mac.safari #txt-red {position: relative; bottom: 8px;}
+.mac.safari .gr-txt p:nth-child(2) {margin-top: 10px;}
+.mac.safari .b6-down-line p {line-height: 0.5;}
+.mac.safari .square-txt-2 span {line-height: 1.8; height: 24px;}
+.mac.safari .b10-icon h1 {line-height: 1.6;}
+.mac.safari .b10-icon h6 {position: relative; top: -60px;}
+.mac.safari .team_txt h2 {line-height: 1.5; height: 26px;}
+.mac.safari .b12-team-txt h4{max-height: 26px; line-height: 1.2;}

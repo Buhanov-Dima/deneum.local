@@ -6,11 +6,11 @@
 .b3-1-txt3 p {width: 100%;} .btn-popup a {padding: 7px 5px;} .cheaper {font-size: 30px;left: 153px; bottom: 5px;} .standart-h1 {font-size: 20px;} .wrap-b4 h1 {font-size: 20px;}
 .pro-img img {width: 42px; height: 42px;} .cheaper span {font-size: 12px;} .gr-txt span {font-size: 22px;} .gr-txt p, .gr-txt-2 p:nth-child(2) {font-size: 58px;} .gr-txt-2 p {font-size: 22px;}
 .b7-txt p, .b7-txt span {font-size: 14px;} .b7-txt p, .box-b2 p {font-size: 14px;} .box-b1 p:nth-child(1)::before, .box-b1 p:nth-child(1)::after, .box-b1 p:nth-child(2)::before, .box-b1 p:nth-child(2)::after {display: none;}
-.gr-txt, .gr-txt-2 {width: 100%;} .graphic {position: relative;} .wrap-graphic {flex-direction: column;} #b6-p-1 {display: none;} .wrap-b6 h3 {font-size: 22px; top: -70px; width: 100%; left: 0; right: 0;}
+.gr-txt, .gr-txt-2 {width: 100%;} .graphic {position: relative;} .wrap-graphic {flex-direction: column;} #b6-p-1 {display: none;} .wrap-b6 h3 {font-size: 20px; top: -70px; width: 100%; left: 0; right: 0;}
 .wrap-b6 {height: auto; padding: 25px 5px;} .b6-down-line p {font-size: 12px;} .graphic {width: 293px; height: 293px;} .b6-down-line {width: calc(100% - 10px); left: 5px; bottom: 0;}
 .b6-down-line::before {bottom: 13px;height: 1px;} .b6-down-line p:nth-child(2)::before, .b6-down-line p:nth-child(3)::before, .b6-down-line p:nth-child(4)::before, .b6-down-line p:nth-child(5)::before, .b6-down-line p:nth-child(6)::before {bottom: 14px;}
 .wrap-b6::before {height: calc(100% - 19px); top: 5px; left: 4px;} .wrap-b6 i:first-child::before {left: 5px; top: 10vh;} .wrap-b6 i:first-child::after {top: 20vh; left: 5px;}
-#b6-p-2 {top: 15px; right: 15px; font-size: 14px;} .wrap-b6::after { right: 0.5vh; top: 9vh; width: 6px; height: 6px; } .energy-txt {margin-left: 65px;} .energy-txt.bg-1::before {width: 43px; height: 43px; left: -53px; top: 35px; background-size: 100%;}
+#b6-p-2 {top: 15px; right: 15px; font-size: 14px;} .wrap-b6::after { right: 0.5vh; top: 47px; width: 6px; height: 6px; } .energy-txt {margin-left: 65px;} .energy-txt.bg-1::before {width: 43px; height: 43px; left: -53px; top: 35px; background-size: 100%;}
 .wb3-img, .wb3-txt {position: static;} .wb3-img::before {left: 10px; top: -5px;} .wb3-img::after {left: 10px; bottom: -5px;} .wb3-txt::before {right: 10px; bottom: -5px;}
 .wb3-txt::after {top: -5px; right: 10px;} .wrap-slaider .slaider {padding: 38px 50px;} .slaider.owl-carousel .owl-nav button.owl-prev::before, .slaider.owl-carousel .owl-nav button.owl-next::before {top: -30px;}
 .standart-h1::before {display: none;} .standart-h1 {border-left: 4px solid #24d0b5;} .gr-txt-2 {max-width: 150px; margin: auto;} #t-1, #t-2, #t-3, #t-4, #t-5, #t-6, #t-7 {font-size: 16px;}
@@ -31,4 +31,5 @@
 .energy-txt p {width: 250px;} .energy-txt {margin-left: 0; max-width: 225px;} .mwh {margin-left: -84px;} .pro-img.cent {text-align: center;}
 .b4-f1 {width: 30%;} .pro-img.cent {width: 40%;} .pro-img {width: 30%; text-align: right;}
 .mwh {margin: auto;} .gr-txt p:nth-child(2) {margin-top: 10px;} .standart-h1 {position: relative; line-height: 0.8;} .standart-h1::before {content: ''; position: absolute; left: 0; top: 0; height: 15px; width: 4px; background-color: #24d0b5;}
-#b1 {margin-top: 80px;}
+#b1 {margin-top: 80px;} .mac.safari .b12-team-txt h4 {line-height: 1.5;} .mac.safari .gr-txt-2::before {top: 69px;}
+

@@ -102,7 +102,7 @@ header {padding: 0 15px;}
 .b3-table {padding-bottom: 0;}
 .pro-img {margin-left: 20px; margin-right: 20px;}
 .wrap-graphic {justify-content: space-between;}
-.wrap-b6-1 img {width: 52px; height: 365px;}
+.wrap-b6-1 img {width: 52px; height: 256px;}
 .wrap-n-img {width: 573px;}
 .capsule-img img {max-width: 300px;}
 .capsule-img {width: 58%; display: flex; justify-content: center; align-items: center;}
@@ -170,7 +170,7 @@ header {padding: 0 15px;}
 #t-7 {top: 107px; right: 18px;} #t-7::before {right: 0;}
 .wrap-b6 img {margin-top: 46px; margin-bottom: 8px;}
 .wrap-b6-1 span {font-size: 31px;}
-.wrap-b6-1 {width: 20%;}
+.wrap-b6-1 {width: 20%; margin-top: 48px;}
 .b7-txt p,.box-b2 p {font-size: 22px;}
 .energy-txt h2 {font-size: 30px; padding-right: 105px; margin-top: 25px; max-width: none;}
 .energy-txt h2::before {width: 100%;}
@@ -199,10 +199,10 @@ header {padding: 0 15px;}
 .wrapper-b6 {justify-content: center;}
 .road #r-map-line::before {right: -79px;}
 .square-img-txt .mwh {
-	width: 70px; height: 70px; padding: 22px 10px; 
+	width: 70px; height: 70px; padding: 18px 10px; 
 }
 .mwh p::before {
-	top: 16px;
+	top: 21px;
 	height: 1px;
 }
 .mwh p {font-size: 18px;}
@@ -232,3 +232,17 @@ header {padding: 0 15px;}
 	}*/
 
 }}
+
+.mac.safari .tab-box a {line-height: 2; text-align: center;}
+.mac.safari .standart-h1::before {top: -4px; height: 29px;}
+.mac.safari .wrap-txt-f1 p{ line-height: 1.7; }
+.mac.safari .mwh p{line-height: 1.2; margin-top: 3px;}
+.mac.safari .line p {font-size: 18px; margin-bottom: -24px;}
+.mac.safari .cheaper span {margin-bottom: 28px;}
+.mac.safari .cheaper {line-height: 1;}
+.mac.safari .gr-txt-2::before {top: 80px;}
+.mac.safari .gr-txt-2 p {line-height: 1.5;}
+.mac.safari .gr-txt-2 {padding: 0;}
+.mac.safari #txt-red {position: relative; bottom: 8px;}
+.mac.safari .square-txt-2 span {line-height: 1.8; height: 24px;}
+.mac.safari .mwh p::before {top: 16px;}
