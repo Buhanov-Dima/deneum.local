@@ -250,8 +250,8 @@ header {padding: 0 15px;}
 .mac.safari .square-txt-2 span {line-height: 1.8; height: 24px;}
 .mac.safari .mwh p::before {top: 16px;}
 
-.mac.safari .wrap-b1-1 h1 {font-size: 34px;}
-.mac.safari .box-b1 p {font-size: 20px;}
+.mac.safari .wrap-b1-1 h1 {font-size: 32px;}
+.mac.safari .box-b1 p {font-size: 18px;}
 .mac.safari .box-b1 p:nth-child(2)::before {top: -51px;}
 .win.safari .box-b1 p:nth-child(2)::before {top: -51px;}
 
