@@ -56,7 +56,7 @@ $(document).ready(function(){
     }
     });
 
-     $('.d-form').on('submit', sendEmail);
+     $('form').on('submit', sendEmail);
 
     function sendEmail (e) {
         e.preventDefault();
