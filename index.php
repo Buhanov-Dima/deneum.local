@@ -90,9 +90,9 @@
 						</div>
 						<form action="" class="first-form">
 							<i></i>
-							<input type="text" name="mail" class="email" placeholder="Email address">
+							<input type="text" name="mail" class="mail" placeholder="Email address">
 							<button class="sign_up" type="submit">RESERVE THE LOWEST PRICE</button>
-							<label for="email" class="lab_sign">You will be offered the lowest price once we open the next round</label>
+							<label for="mail" class="lab_sign">You will be offered the lowest price once we open the next round</label>
 						</form>
 						<div class="main-b1-ul">
 							<ul class="b1-ul">
@@ -122,9 +122,9 @@
 							<p>It is safe, distributed and radically cheap</p>
 							<form action="" class="first-form">
 								<i></i>
-								<input type="text" name="email" class="mail" placeholder="Email address">
+								<input type="text" name="mail" class="mail" placeholder="Email address">
 								<button class="sign_up" type="submit">RESERVE THE LOWEST PRICE</button>
-								<label for="email" class="lab_sign">You will be offered the lowest price once we open the next round</label>
+								<label for="mail" class="lab_sign">You will be offered the lowest price once we open the next round</label>
 							</form>
 						</div>
 						<div class="main-b1-ul">
@@ -606,7 +606,7 @@
 										<p>01 OCT 2018<br>31 OCT 2018</p>
 									</div>
 								</div>
-								<p class="square-txt-2">Hard Cup <span>$5,080,000</span></p>
+								<p class="square-txt-2">Hard Cap <span>$5,080,000</span></p>
 								<div class="reserve">
 									<p>RESERVE THE LOWEST PRICE</p>
 								</div>
@@ -623,7 +623,7 @@
 										<p>15 NOV 2018<br>31 JAN 2019</p>
 									</div>
 								</div>
-								<p class="square-txt-2">Hard Cup <span>$89,000,000</span></p>
+								<p class="square-txt-2">Hard Cap <span>$89,000,000</span></p>
 							</div>
 
 							<div class="square height-630">

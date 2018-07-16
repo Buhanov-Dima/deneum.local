@@ -148,7 +148,7 @@ button {outline: none; cursor: pointer;}
 	left: -15px;
 	bottom: -6px;
 }
-.email {
+.mail {
 	width: 50%;
 	height: 36px;
 	background-color: transparent;
@@ -170,6 +170,7 @@ button {outline: none; cursor: pointer;}
 	display: flex;
 	flex-wrap: wrap;
 	margin-top: 57px;
+	max-width: 580px;
 }
 .lab_sign {
 	color: #f0f0f0;
