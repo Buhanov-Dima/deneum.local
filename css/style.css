@@ -9,28 +9,33 @@ body {
 header {padding: 0 172px; background-color: #070f27;}
 @font-face{
 	font-family: 'dinPro-Regular';
-	src: url('/fonts/DINPro-Regular.ttf');
+	src: url('DINPro-Regular.ttf');
 }
 @font-face{
 	font-family: 'dinPro-Medium';
-	src: url('/fonts/DINPro-Medium.ttf');
+	src: url('DINPro-Medium.ttf');
 }
 @font-face{
 	font-family: 'dinPro-Light';
-	src: url('/fonts/DINPro-Light.ttf');
+	src: url('DINPro-Light.ttf');
 }
 @font-face{
 	font-family: 'dinPro-Bold';
-	src: url('/fonts/DINPro-Bold.ttf');
+	src: url('DINPro-Bold.ttf');
 }
 @font-face{
 	font-family: 'dinPro-Black';
-	src: url('/fonts/DINPro-Black.ttf');
+	src: url('DINPro-Black.ttf');
 }
 @font-face{
+<<<<<<< HEAD
 	font-family: 'gridnik';
 	src: url('/fonts/gridnik.ttf')
 	font-weight: 500;
+=======
+	font-family: 'Gridnik-G';
+	src: url('gridnik.ttf');
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
 }
 
 a:link {text-decoration: none;}
@@ -297,8 +302,12 @@ button {outline: none; cursor: pointer;}
 .wrap-b1-2 h2{
 	color: #52a3df;
 	font-size: 30px;
+<<<<<<< HEAD
 	font-family: 'gridnik';
 	font-weight: 500;
+=======
+	font-family: 'Gridnik-G';
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
 	border-left: 4px solid #24d0b5;
 	padding-left: 15px;
 	max-width: 410px;
@@ -337,7 +346,7 @@ button {outline: none; cursor: pointer;}
 .disabled {display: none;}
 .tab-box a {
 	background-color: #199ae0;
-	font-family: 'gridnik';
+	font-family: 'Gridnik-G';
 	font-weight: 500;
 	width: 80px;
 	height: 24px;
@@ -382,8 +391,12 @@ button {outline: none; cursor: pointer;}
   width: 100%;
 }
 .wb3-txt p:nth-child(2) {
+<<<<<<< HEAD
   font-family: 'gridnik';
   font-weight: 500;
+=======
+  font-family: 'Gridnik-G';
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   font-size: 30px;
   color: #24d0b5;
 }
@@ -492,8 +505,12 @@ button {outline: none; cursor: pointer;}
 	transform: rotate(45deg);
 }
 .standart-h1 {
+<<<<<<< HEAD
   font-family: 'gridnik';
   font-weight: 500;
+=======
+  font-family: 'Gridnik-G';
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   font-size: 49px;
   color: #52a3df;
   padding-left: 15px;
@@ -684,7 +701,7 @@ button {outline: none; cursor: pointer;}
 }
 .wrap-txt-f1 p {
 	background-color: #199ae0;
-    font-family: 'gridnik';
+    font-family: 'Gridnik-G';
     font-weight: 500;
     height: 24px;
     padding: 1px;
@@ -745,8 +762,12 @@ button {outline: none; cursor: pointer;}
 	
 }
 .cheaper {
+<<<<<<< HEAD
 	font-family: 'gridnik';
 	font-weight: 500;
+=======
+	font-family: 'Gridnik-G';
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
     font-size: 70px;
     color: #24d0b5;
     display: flex;
@@ -890,8 +911,12 @@ button {outline: none; cursor: pointer;}
 .line p {
 	margin-bottom: -20px;
   	opacity: 0.3;
+<<<<<<< HEAD
   	font-family: 'gridnik';
   	font-weight: 500;
+=======
+  	font-family: 'Gridnik-G';
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   	font-size: 20px;
   	color: #52a3df;
 }
@@ -974,8 +999,12 @@ button {outline: none; cursor: pointer;}
 }
 .wrap-b4 h1 {margin-bottom: 40px;}
 .gr-txt p{
+<<<<<<< HEAD
   font-family: 'gridnik';
   font-weight: 500;
+=======
+  font-family: 'Gridnik-G';
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   font-size: 98px;
   color: #24d0b5;
   line-height: 1;
@@ -1021,8 +1050,12 @@ button {outline: none; cursor: pointer;}
 .gr-txt-2 p:nth-child(2) {
 	font-size: 98px;
 	color: #199ae0;
+<<<<<<< HEAD
 	font-family: 'gridnik';
 	font-weight: 500;
+=======
+	font-family: 'Gridnik-G';
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
 	margin-top: 15px;
 }
 .gr-txt-2::before {
@@ -1130,8 +1163,12 @@ button {outline: none; cursor: pointer;}
     left: 212px;
     margin: auto;
     color: #24d0b5;
+<<<<<<< HEAD
     font-family: 'gridnik';
     font-weight: 500;
+=======
+    font-family: 'Gridnik-G';
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
     font-size: 27px;
 }
 #t-1::before {
@@ -1149,8 +1186,12 @@ button {outline: none; cursor: pointer;}
     left: 173px;
     margin: auto;
     color: #24d0b5;
+<<<<<<< HEAD
     font-family: 'gridnik';
     font-weight: 500;
+=======
+    font-family: 'Gridnik-G';
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
     font-size: 27px;
 }
 #t-2::before {
@@ -1169,8 +1210,12 @@ button {outline: none; cursor: pointer;}
     left: 90px;
     margin: auto;
     color: #24d0b5;
+<<<<<<< HEAD
     font-family: 'gridnik';
     font-weight: 500;
+=======
+    font-family: 'Gridnik-G';
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
     font-size: 27px;
 }
 #t-3::before {
@@ -1189,8 +1234,12 @@ button {outline: none; cursor: pointer;}
     left: 18px;
     margin: auto;
     color: #c1272d;
+<<<<<<< HEAD
     font-family: 'gridnik';
     font-weight: 500;
+=======
+    font-family: 'Gridnik-G';
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
     font-size: 27px;
 }
 #t-4::before {
@@ -1209,8 +1258,12 @@ button {outline: none; cursor: pointer;}
     left: 27px;
     margin: auto;
     color: #c1272d;
+<<<<<<< HEAD
     font-family: 'gridnik';
     font-weight: 500;
+=======
+    font-family: 'Gridnik-G';
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
     font-size: 27px;
 }
 #t-5::before {
@@ -1229,8 +1282,12 @@ button {outline: none; cursor: pointer;}
     left: 208px;
     margin: auto;
     color: #c1272d;
+<<<<<<< HEAD
     font-family: 'gridnik';
     font-weight: 500;
+=======
+    font-family: 'Gridnik-G';
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
     font-size: 27px;
 }
 #t-6::before {
@@ -1251,8 +1308,12 @@ button {outline: none; cursor: pointer;}
     right: 31px;
     margin: auto;
     color: #c1272d;
+<<<<<<< HEAD
     font-family: 'gridnik';
     font-weight: 500;
+=======
+    font-family: 'Gridnik-G';
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
     font-size: 27px;
 }
 #t-7::before {
@@ -1396,8 +1457,12 @@ button {outline: none; cursor: pointer;}
 #b6-p-2 {
   right: 68px;
   top: 50px;
+<<<<<<< HEAD
   font-family: 'gridnik';
   font-weight: 500;
+=======
+  font-family: 'Gridnik-G';
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   font-size: 24px;
   color: #24d0b5;
 }
@@ -1876,8 +1941,12 @@ button {outline: none; cursor: pointer;}
   position: relative;
 }
 .square-txt p:nth-child(2) {
+<<<<<<< HEAD
   font-family: 'gridnik';
   font-weight: 500;
+=======
+  font-family: 'Gridnik-G';
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   font-size: 24px;
   line-height: 1;
   color: #24d0b5;
@@ -1895,8 +1964,12 @@ button {outline: none; cursor: pointer;}
   text-align: right;
 }
 .square-txt-2 span {
+<<<<<<< HEAD
   font-family: 'gridnik';
   font-weight: 500;
+=======
+  font-family: 'Gridnik-G';
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   color: #1d374c;
   background-color: #199ae0;
   padding: 0 20px;
@@ -1981,8 +2054,12 @@ button {outline: none; cursor: pointer;}
 
 .square-txt-3 p:first-child{
 	color: #24d0b5;
+<<<<<<< HEAD
 	font-family: 'gridnik';
 	font-weight: 500;
+=======
+	font-family: 'Gridnik-G';
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
 	font-size: 72px;
 	line-height: 1;
 }
@@ -1994,8 +2071,13 @@ button {outline: none; cursor: pointer;}
 	line-height: 1.7;
 	font-size: 25px;
 	color: 	#24d0b5;
+<<<<<<< HEAD
 	font-family: 'gridnik';
 	font-weight: 500;
+=======
+	font-family: 'Gridnik-G';
+	font-weight: 600;
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
 }
 .tab_block .square {
 	width: 100%;
@@ -2005,15 +2087,23 @@ button {outline: none; cursor: pointer;}
 	list-style: none;
 	padding-left: 0;
 	display: flex;
+<<<<<<< HEAD
   font-family: 'gridnik';
   font-weight: 500;
+=======
+  font-family: 'Gridnik-G';
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   font-size: 48px;
   text-align: left;
   color: #52a3df;
 }
 .tab_box ul a{
+<<<<<<< HEAD
   font-family: 'gridnik';
   font-weight: 500;
+=======
+  font-family: 'Gridnik-G';
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   font-size: 48px;
   color: #52a3df;
 }
@@ -2068,15 +2158,19 @@ button {outline: none; cursor: pointer;}
     transform: rotate(-38deg);
 }
 .tab-txt p:nth-child(2), .tab-txt p:nth-child(3) {
+<<<<<<< HEAD
   font-family: 'gridnik';
   font-weight: 500;
+=======
+  font-family: 'Gridnik-G';
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   font-size: 24px;
   color: #199ae0;
   line-height: 1.9;
 }
 .tab-txt span {
 	background-color: #199ae0;
-    font-family: 'gridnik';
+    font-family: 'Gridnik-G';
     font-weight: 500;
     height: 24px;
     padding: 0 15px;
@@ -2086,8 +2180,12 @@ button {outline: none; cursor: pointer;}
     text-align: center;
 }
 .tab_content h1 {
+<<<<<<< HEAD
   font-family: 'gridnik';
   font-weight: 500;
+=======
+  font-family: 'Gridnik-G';
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   font-size: 106px;
   line-height: 1;
   color: #24d0b5;
@@ -2126,8 +2224,12 @@ display: none;
   max-width: 260px;
 }
 .b10-icon h1 {
+<<<<<<< HEAD
   font-family: 'gridnik';
   font-weight: 500;
+=======
+  font-family: 'Gridnik-G';
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   font-size: 116px;
   line-height: 1;
   color: #24d0b5;
@@ -2160,8 +2262,12 @@ display: none;
     border-radius: 50%;
 }
 .team_txt h2{
+<<<<<<< HEAD
   font-family: 'gridnik';
   font-weight: 500;
+=======
+  font-family: 'Gridnik-G';
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   font-size: 24px;
   text-align: center;
   color: #1d374c;
@@ -2210,8 +2316,12 @@ display: none;
 	padding: 8px 15px;
 	margin: 0;
 	line-height: 1;
+<<<<<<< HEAD
    font-family: 'gridnik';
    font-weight: 500;
+=======
+   font-family: 'Gridnik-G';
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   font-size: 24px;
   text-align: left;
   color: #1d374c;
@@ -2724,9 +2834,14 @@ display: none;
 .mwh p {
 	font-size: 24px;
     color: #52a3df;
+<<<<<<< HEAD
     font-family: 'gridnik';
     font-weight: 500;
     line-height: 1.2;
+=======
+    font-family: 'Gridnik-G';
+    line-height: 1;
+>>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
     text-align: center;
     position: relative;
     opacity: .7;
