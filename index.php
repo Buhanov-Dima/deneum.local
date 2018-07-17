@@ -7,14 +7,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	<link rel="stylesheet" href="/css/owl-carousel/owl.carousel.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
 	<link rel="stylesheet" href="/css/owl-carousel/owl.theme.default.min.css">
 	<link rel="stylesheet" type="text/css" href="/css/slick/slick.css"/>
 	<link rel="stylesheet" type="text/css" href="/css/slick/slick-theme.css"/>
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Mono:300,400,500,700" rel="stylesheet">
 	<link rel="stylesheet" href="/css/style.css">
-	<link rel="stylesheet" href="css/custom.css" media="only screen and (max-width:1550px)">
+	<link rel="stylesheet" href="/css/custom.css" media="only screen and (max-width:1550px)">
 	<link rel="stylesheet" href="/css/style-lg.css" media="only screen and (max-width:1200px)">
 	<link rel="stylesheet" href="/css/style-xl.css" media="only screen and (max-width:992px)">
 	<link rel="stylesheet" href="/css/style-md.css" media="only screen and (max-width:768px)">
@@ -90,9 +90,9 @@
 						</div>
 						<form action="" class="first-form">
 							<i></i>
-							<input type="text" name="mail" class="email" placeholder="Email address">
+							<input type="text" name="mail" class="mail" placeholder="Email address">
 							<button class="sign_up" type="submit">RESERVE THE LOWEST PRICE</button>
-							<label for="email" class="lab_sign">You will be offered the lowest price once we open the next round</label>
+							<label for="mail" class="lab_sign">You will be offered the lowest price once we open the next round</label>
 						</form>
 						<div class="main-b1-ul">
 							<ul class="b1-ul">
@@ -122,9 +122,9 @@
 							<p>It is safe, distributed and radically cheap</p>
 							<form action="" class="first-form">
 								<i></i>
-								<input type="text" name="email" class="mail" placeholder="Email address">
+								<input type="text" name="mail" class="mail" placeholder="Email address">
 								<button class="sign_up" type="submit">RESERVE THE LOWEST PRICE</button>
-								<label for="email" class="lab_sign">You will be offered the lowest price once we open the next round</label>
+								<label for="mail" class="lab_sign">You will be offered the lowest price once we open the next round</label>
 							</form>
 						</div>
 						<div class="main-b1-ul">
@@ -606,7 +606,7 @@
 										<p>01 OCT 2018<br>31 OCT 2018</p>
 									</div>
 								</div>
-								<p class="square-txt-2">Hard Cup <span>$5,080,000</span></p>
+								<p class="square-txt-2">Hard Cap <span>$5,080,000</span></p>
 								<div class="reserve">
 									<p>RESERVE THE LOWEST PRICE</p>
 								</div>
@@ -623,7 +623,7 @@
 										<p>15 NOV 2018<br>31 JAN 2019</p>
 									</div>
 								</div>
-								<p class="square-txt-2">Hard Cup <span>$89,000,000</span></p>
+								<p class="square-txt-2">Hard Cap <span>$89,000,000</span></p>
 							</div>
 
 							<div class="square height-630">
@@ -633,11 +633,15 @@
 										<p>$73<br><span>MWh</span></p>
 									</div>
 									<div class="square-txt">
+<<<<<<< HEAD
 										<p>MARKET<br> PRICE</p>
 										<p>23 APR 2018<br>29 APR 2018</p>
+=======
+										<p>PRIVATE<br> SALE</p>
+										<p>DEC 2020</p>
+>>>>>>> 270ea8548985b56ef1d6ca338e4cc7f6cd4a1ceb
 									</div>
 								</div>
-								<p class="square-txt-2">Raised <span>$1,372,500</span></p>
 								<div class="square-txt-3">
 									<p>15 TIMES</p>
 									<p>HIGHER THAN 1 DNM NOW!</p>

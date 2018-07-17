@@ -1,5 +1,4 @@
-.energy {flex-direction: column; align-items: center;} .box-b1 p:nth-child(2)::before {top: -91px;}
-.tab-box ul li {margin: 0 30px;} .tab-box {text-align: center;} .tab-box a {width: 60px;} .sign_up {font-size: 12px;}
+.energy {flex-direction: column; align-items: center;} .tab-box ul li {margin: 0 30px;} .tab-box {text-align: center;} .tab-box a {width: 60px;} .sign_up {font-size: 12px;}
 .first-form {max-width: 388px;} .first-form i::after, .first-form::after {bottom: 57px;} .main-b1-ul ul li {padding: 0 0 0 45px; margin-right: 0}
 .b1-ul li:first-child, .b1-ul li:nth-child(2) {background-size: 43px;} .wb3-img, .wb3-txt {width: 100%; } .wb3-img, .wb3-txt {position: static;}
 .cheaper {font-size: 32px; margin: 0;left: 279px; top: 75px;} .cheaper span {font-size: 12px;} .gr-txt-2 {position: relative;} .wrap-graphic {flex-direction: column;}

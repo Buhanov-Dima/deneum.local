@@ -32,12 +32,12 @@
 .xl-open {display: block;}
 
 
-.wrap-b1-1 h1 {font-size: 38px;} .box-b1 p {padding: 0 0 0 10px;} .first-form {position: relative;}
+.wrap-b1-1 h1 {font-size: 38px;} .box-b1 p {padding: 0 0 0 10px;} .first-form {position: relative;}  .mail, .sign_up {width: 50%;}
 .first-form::before {content: ''; position: absolute; width: 8px; height: 8px; border-top: 2px solid #199ae0; border-right: 2px solid #199ae0; right: -5px; top: -6px;}
 .first-form::after {content: ''; position: absolute; width: 8px; height: 8px; border-bottom: 2px solid #199ae0; border-right: 2px solid #199ae0; right: -5px; bottom: 32px;}
 .first-form i::before {content: ''; position: absolute; width: 8px; height: 8px; border-top: 2px solid #199ae0; border-left: 2px solid #199ae0; left: -5px; top: -6px;}
 .first-form i::after {content: ''; position: absolute; width: 8px; height: 8px; border-bottom: 2px solid #199ae0; border-left: 2px solid #199ae0; left: -5px; bottom: 32px;}
-.box-b1 p:nth-child(1)::after {right: -5px;bottom: -5px;} .box-b1 p:nth-child(2)::before {top: -58px; left: -11px;} .box-b1 p:nth-child(2)::after {left: -11px; bottom: -5px;}
+.box-b1 p:nth-child(1)::after {right: -5px;bottom: -5px;} .box-b1 p:nth-child(2)::before {left: -11px;} .box-b1 p:nth-child(2)::after {left: -11px; bottom: -5px;}
 .lab_sign {margin-top: 5px;} .main-b1-ul ul {justify-content: space-between;} .box-b1 p:nth-child(1)::before {right: -5px;}
 .d-none-xl {display: none;}
 .d-open-xl {display: block;}

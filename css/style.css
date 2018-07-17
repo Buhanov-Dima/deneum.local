@@ -148,7 +148,7 @@ button {outline: none; cursor: pointer;}
 	left: -15px;
 	bottom: -6px;
 }
-.email {
+.mail {
 	width: 50%;
 	height: 36px;
 	background-color: transparent;
@@ -170,6 +170,7 @@ button {outline: none; cursor: pointer;}
 	display: flex;
 	flex-wrap: wrap;
 	margin-top: 57px;
+	max-width: 580px;
 }
 .lab_sign {
 	color: #f0f0f0;
@@ -2772,3 +2773,5 @@ display: none;
 .mac.safari .b10-icon h6 {position: relative; top: -60px;}
 .mac.safari .team_txt h2 {line-height: 1.5; height: 26px;}
 .mac.safari .b12-team-txt h4{max-height: 26px; line-height: 1.2;}
+
+.square.height-630 .square-txt p:nth-child(2)::after, .square.height-630 .square-txt p:nth-child(1)::after{display: none;}
