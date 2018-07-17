@@ -231,6 +231,15 @@ header {padding: 0 15px;}
 		line-height: 1.3;
 	}*/
 
+	.mwh p {
+		display: flex;
+		flex-direction: column;
+		line-height: 1.5;
+		margin-top: -3px;
+	}
+	.mac.safari .mwh p::before {top: 20px;}
+	
+	.mac.safari .mwh {padding-top: 23px;}
 }}
 .mail {width: 40%;}
 .sign_up {width: 45%; font-size: 14px;}
@@ -239,19 +248,22 @@ header {padding: 0 15px;}
 .mac.safari .tab-box a {line-height: 2; text-align: center;}
 .mac.safari .standart-h1::before {top: -4px; height: 29px;}
 .mac.safari .wrap-txt-f1 p{ line-height: 1.7; }
-.mac.safari .mwh p{line-height: 1.2; margin-top: 3px;}
+.mac.safari .mwh p{line-height: 1.5; margin-top: 3px;}
 .mac.safari .line p {font-size: 18px; margin-bottom: -24px;}
-.mac.safari .cheaper span {margin-bottom: 28px;}
-.mac.safari .cheaper {line-height: 1;}
+.mac.safari .cheaper span {margin-bottom: 0px;}
+.mac.safari .cheaper {line-height: 1.5; display: flex; margin-top: 8px;}
 .mac.safari .gr-txt-2::before {top: 80px;}
 .mac.safari .gr-txt-2 p {line-height: 1.5;}
 .mac.safari .gr-txt-2 {padding: 0;}
 .mac.safari #txt-red {position: relative; bottom: 8px;}
 .mac.safari .square-txt-2 span {line-height: 1.8; height: 24px;}
-.mac.safari .mwh p::before {top: 16px;}
+.mac.safari .mwh p::before {top: 19px;}
 
 .mac.safari .wrap-b1-1 h1 {font-size: 32px;}
 .mac.safari .box-b1 p {font-size: 18px;}
 .mac.safari .box-b1 p:nth-child(2)::before {top: -51px;}
 .win.safari .box-b1 p:nth-child(2)::before {top: -51px;}
 
+
+.mac.safari .square-img-txt .mwh{padding-top: 16px;}
+.mac.safari .wrap-b6-1 h1 {font-size: 34px;}
