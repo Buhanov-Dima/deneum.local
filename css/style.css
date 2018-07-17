@@ -28,14 +28,10 @@ header {padding: 0 172px; background-color: #070f27;}
 	src: url('DINPro-Black.ttf');
 }
 @font-face{
-<<<<<<< HEAD
-	font-family: 'gridnik';
-	src: url('/fonts/gridnik.ttf')
-	font-weight: 500;
-=======
 	font-family: 'Gridnik-G';
 	src: url('gridnik.ttf');
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
+	font-weight: 500;
+
 }
 
 a:link {text-decoration: none;}
@@ -300,14 +296,10 @@ button {outline: none; cursor: pointer;}
     text-align: center;
 }
 .wrap-b1-2 h2{
-	color: #52a3df;
+	color: #52a3df !important;
 	font-size: 30px;
-<<<<<<< HEAD
-	font-family: 'gridnik';
 	font-weight: 500;
-=======
-	font-family: 'Gridnik-G';
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
+	font-family: 'Gridnik-G' !important;
 	border-left: 4px solid #24d0b5;
 	padding-left: 15px;
 	max-width: 410px;
@@ -346,7 +338,7 @@ button {outline: none; cursor: pointer;}
 .disabled {display: none;}
 .tab-box a {
 	background-color: #199ae0;
-	font-family: 'Gridnik-G';
+	font-family: 'Gridnik-G' !important;
 	font-weight: 500;
 	width: 80px;
 	height: 24px;
@@ -355,7 +347,7 @@ button {outline: none; cursor: pointer;}
 	display: block;
 	border-radius: 2px;
 	text-align: center;
-	color: #1d374c;
+	color: #1d374c !important;
 }
 .tab-box a::before {
 	content: '';
@@ -391,14 +383,10 @@ button {outline: none; cursor: pointer;}
   width: 100%;
 }
 .wb3-txt p:nth-child(2) {
-<<<<<<< HEAD
-  font-family: 'gridnik';
+  font-family: 'Gridnik-G' !important;
   font-weight: 500;
-=======
-  font-family: 'Gridnik-G';
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   font-size: 30px;
-  color: #24d0b5;
+  color: #24d0b5 !important;
 }
 .wb3-txt {
 	width: 78%;
@@ -505,14 +493,10 @@ button {outline: none; cursor: pointer;}
 	transform: rotate(45deg);
 }
 .standart-h1 {
-<<<<<<< HEAD
-  font-family: 'gridnik';
+  font-family: 'Gridnik-G' !important;
   font-weight: 500;
-=======
-  font-family: 'Gridnik-G';
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   font-size: 49px;
-  color: #52a3df;
+  color: #52a3df !important;
   padding-left: 15px;
   position: relative;
 }
@@ -645,7 +629,7 @@ button {outline: none; cursor: pointer;}
   font-size: 30px;
   color: #24d0b5;
   width: 33%;
-  margin-top: 10px!important;
+  margin-top: 10px !important;
 }
 .b3-1-f2 {
   font-size: 30px;
@@ -701,13 +685,13 @@ button {outline: none; cursor: pointer;}
 }
 .wrap-txt-f1 p {
 	background-color: #199ae0;
-    font-family: 'Gridnik-G';
+    font-family: 'Gridnik-G' !important;
     font-weight: 500;
     height: 24px;
     padding: 1px;
     display: block;
     border-radius: 2px;
-    color: #1d374c;
+    color: #1d374c !important;
     width: 120px;
     font-size: 16px;
     text-align: center;
@@ -762,14 +746,10 @@ button {outline: none; cursor: pointer;}
 	
 }
 .cheaper {
-<<<<<<< HEAD
-	font-family: 'gridnik';
+	font-family: 'Gridnik-G' !important;
 	font-weight: 500;
-=======
-	font-family: 'Gridnik-G';
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
     font-size: 70px;
-    color: #24d0b5;
+    color: #24d0b5 !important;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -911,14 +891,10 @@ button {outline: none; cursor: pointer;}
 .line p {
 	margin-bottom: -20px;
   	opacity: 0.3;
-<<<<<<< HEAD
-  	font-family: 'gridnik';
+  	font-family: 'Gridnik-G' !important;
   	font-weight: 500;
-=======
-  	font-family: 'Gridnik-G';
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   	font-size: 20px;
-  	color: #52a3df;
+  	color: #52a3df !important;
 }
 .line p:nth-child(2) {
 	margin-left: 18px;
@@ -999,14 +975,10 @@ button {outline: none; cursor: pointer;}
 }
 .wrap-b4 h1 {margin-bottom: 40px;}
 .gr-txt p{
-<<<<<<< HEAD
-  font-family: 'gridnik';
+  font-family: 'Gridnik-G' !important;
   font-weight: 500;
-=======
-  font-family: 'Gridnik-G';
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   font-size: 98px;
-  color: #24d0b5;
+  color: #24d0b5 !important;
   line-height: 1;
 }
 .gr-txt span{
@@ -1049,13 +1021,9 @@ button {outline: none; cursor: pointer;}
 }
 .gr-txt-2 p:nth-child(2) {
 	font-size: 98px;
-	color: #199ae0;
-<<<<<<< HEAD
-	font-family: 'gridnik';
+	color: #199ae0 !important;
+	font-family: 'Gridnik-G' !important;
 	font-weight: 500;
-=======
-	font-family: 'Gridnik-G';
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
 	margin-top: 15px;
 }
 .gr-txt-2::before {
@@ -1162,13 +1130,9 @@ button {outline: none; cursor: pointer;}
     top: 35px;
     left: 212px;
     margin: auto;
-    color: #24d0b5;
-<<<<<<< HEAD
-    font-family: 'gridnik';
+    color: #24d0b5 !important;
+    font-family: 'Gridnik-G' !important;
     font-weight: 500;
-=======
-    font-family: 'Gridnik-G';
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
     font-size: 27px;
 }
 #t-1::before {
@@ -1185,13 +1149,9 @@ button {outline: none; cursor: pointer;}
     top: 38px;
     left: 173px;
     margin: auto;
-    color: #24d0b5;
-<<<<<<< HEAD
-    font-family: 'gridnik';
+    color: #24d0b5 !important;
+    font-family: 'Gridnik-G' !important;
     font-weight: 500;
-=======
-    font-family: 'Gridnik-G';
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
     font-size: 27px;
 }
 #t-2::before {
@@ -1209,13 +1169,9 @@ button {outline: none; cursor: pointer;}
     top: 59px;
     left: 90px;
     margin: auto;
-    color: #24d0b5;
-<<<<<<< HEAD
-    font-family: 'gridnik';
+    color: #24d0b5 !important;
+    font-family: 'Gridnik-G' !important;
     font-weight: 500;
-=======
-    font-family: 'Gridnik-G';
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
     font-size: 27px;
 }
 #t-3::before {
@@ -1233,13 +1189,9 @@ button {outline: none; cursor: pointer;}
     top: 150px;
     left: 18px;
     margin: auto;
-    color: #c1272d;
-<<<<<<< HEAD
-    font-family: 'gridnik';
+    color: #c1272d !important;
+    font-family: 'Gridnik-G' !important;
     font-weight: 500;
-=======
-    font-family: 'Gridnik-G';
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
     font-size: 27px;
 }
 #t-4::before {
@@ -1257,13 +1209,9 @@ button {outline: none; cursor: pointer;}
     top: 275px;
     left: 27px;
     margin: auto;
-    color: #c1272d;
-<<<<<<< HEAD
-    font-family: 'gridnik';
+    color: #c1272d !important;
+    font-family: 'Gridnik-G' !important;
     font-weight: 500;
-=======
-    font-family: 'Gridnik-G';
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
     font-size: 27px;
 }
 #t-5::before {
@@ -1281,13 +1229,9 @@ button {outline: none; cursor: pointer;}
     top: 389px;
     left: 208px;
     margin: auto;
-    color: #c1272d;
-<<<<<<< HEAD
-    font-family: 'gridnik';
+    color: #c1272d !important;
+    font-family: 'Gridnik-G' !important;
     font-weight: 500;
-=======
-    font-family: 'Gridnik-G';
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
     font-size: 27px;
 }
 #t-6::before {
@@ -1307,13 +1251,9 @@ button {outline: none; cursor: pointer;}
     top: 120px;
     right: 31px;
     margin: auto;
-    color: #c1272d;
-<<<<<<< HEAD
-    font-family: 'gridnik';
+    color: #c1272d !important;
+    font-family: 'Gridnik-G' !important;
     font-weight: 500;
-=======
-    font-family: 'Gridnik-G';
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
     font-size: 27px;
 }
 #t-7::before {
@@ -1457,12 +1397,8 @@ button {outline: none; cursor: pointer;}
 #b6-p-2 {
   right: 68px;
   top: 50px;
-<<<<<<< HEAD
-  font-family: 'gridnik';
+  font-family: 'Gridnik-G' !important;
   font-weight: 500;
-=======
-  font-family: 'Gridnik-G';
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   font-size: 24px;
   color: #24d0b5;
 }
@@ -1474,10 +1410,10 @@ button {outline: none; cursor: pointer;}
   color: #199ae0;
 }
 .b6-down-line p {
-  font-family: "gridnik";
+  font-family: "Gridnik-G";
   font-weight: 500;
   font-size: 24px;
-  color: #24d0b5;
+  color: #24d0b5 !important;
 }
 .wrap-b6::before {
 	content: '';
@@ -1941,15 +1877,11 @@ button {outline: none; cursor: pointer;}
   position: relative;
 }
 .square-txt p:nth-child(2) {
-<<<<<<< HEAD
-  font-family: 'gridnik';
+  font-family: 'Gridnik-G' !important;
   font-weight: 500;
-=======
-  font-family: 'Gridnik-G';
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   font-size: 24px;
   line-height: 1;
-  color: #24d0b5;
+  color: #24d0b5 !important;
   margin-top: 20px;
   margin-left: 30px;
   position: relative;
@@ -1964,13 +1896,9 @@ button {outline: none; cursor: pointer;}
   text-align: right;
 }
 .square-txt-2 span {
-<<<<<<< HEAD
-  font-family: 'gridnik';
   font-weight: 500;
-=======
-  font-family: 'Gridnik-G';
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
-  color: #1d374c;
+  font-family: 'Gridnik-G' !important;
+  color: #1d374c !important;
   background-color: #199ae0;
   padding: 0 20px;
   margin-left: 15px;
@@ -2053,13 +1981,9 @@ button {outline: none; cursor: pointer;}
 .square.height-340 .square-img-txt .square-txt p:nth-child(1)::after {top: 64px;}
 
 .square-txt-3 p:first-child{
-	color: #24d0b5;
-<<<<<<< HEAD
-	font-family: 'gridnik';
+	color: #24d0b5 !important;
+	font-family: 'Gridnik-G' !important;
 	font-weight: 500;
-=======
-	font-family: 'Gridnik-G';
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
 	font-size: 72px;
 	line-height: 1;
 }
@@ -2070,14 +1994,9 @@ button {outline: none; cursor: pointer;}
 .square-txt-3 p:last-child {
 	line-height: 1.7;
 	font-size: 25px;
-	color: 	#24d0b5;
-<<<<<<< HEAD
-	font-family: 'gridnik';
+	color: 	#24d0b5 !important;
+	font-family: 'Gridnik-G' !important;
 	font-weight: 500;
-=======
-	font-family: 'Gridnik-G';
-	font-weight: 600;
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
 }
 .tab_block .square {
 	width: 100%;
@@ -2087,25 +2006,17 @@ button {outline: none; cursor: pointer;}
 	list-style: none;
 	padding-left: 0;
 	display: flex;
-<<<<<<< HEAD
-  font-family: 'gridnik';
+  font-family: 'Gridnik-G' !important;
   font-weight: 500;
-=======
-  font-family: 'Gridnik-G';
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   font-size: 48px;
   text-align: left;
-  color: #52a3df;
+  color: #52a3df !important;
 }
 .tab_box ul a{
-<<<<<<< HEAD
-  font-family: 'gridnik';
+  font-family: 'Gridnik-G' !important;
   font-weight: 500;
-=======
-  font-family: 'Gridnik-G';
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   font-size: 48px;
-  color: #52a3df;
+  color: #52a3df !important;
 }
 .tab_box li {
 	position: relative;
@@ -2158,34 +2069,26 @@ button {outline: none; cursor: pointer;}
     transform: rotate(-38deg);
 }
 .tab-txt p:nth-child(2), .tab-txt p:nth-child(3) {
-<<<<<<< HEAD
-  font-family: 'gridnik';
+  font-family: 'Gridnik-G' !important;
   font-weight: 500;
-=======
-  font-family: 'Gridnik-G';
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   font-size: 24px;
-  color: #199ae0;
+  color: #199ae0 !important;
   line-height: 1.9;
 }
 .tab-txt span {
 	background-color: #199ae0;
-    font-family: 'Gridnik-G';
+    font-family: 'Gridnik-G' !important;
     font-weight: 500;
     height: 24px;
     padding: 0 15px;
     border-radius: 2px;
-    color: #1d374c;
+    color: #1d374c !important;
     width: 120px;
     text-align: center;
 }
 .tab_content h1 {
-<<<<<<< HEAD
-  font-family: 'gridnik';
+  font-family: 'Gridnik-G' !important;
   font-weight: 500;
-=======
-  font-family: 'Gridnik-G';
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   font-size: 106px;
   line-height: 1;
   color: #24d0b5;
@@ -2224,15 +2127,11 @@ display: none;
   max-width: 260px;
 }
 .b10-icon h1 {
-<<<<<<< HEAD
-  font-family: 'gridnik';
+  font-family: 'Gridnik-G' !important;
   font-weight: 500;
-=======
-  font-family: 'Gridnik-G';
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   font-size: 116px;
   line-height: 1;
-  color: #24d0b5;
+  color: #24d0b5 !important;
 }
 .b10-icon {
 	background: url(/img/icons/b10-1.svg) no-repeat right 50px top 10px;
@@ -2262,15 +2161,11 @@ display: none;
     border-radius: 50%;
 }
 .team_txt h2{
-<<<<<<< HEAD
-  font-family: 'gridnik';
+  font-family: 'Gridnik-G' !important;
   font-weight: 500;
-=======
-  font-family: 'Gridnik-G';
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   font-size: 24px;
   text-align: center;
-  color: #1d374c;
+  color: #1d374c !important;
   background-color: #199ae0;
   padding: 4px 15px;
   line-height: 1;
@@ -2316,15 +2211,11 @@ display: none;
 	padding: 8px 15px;
 	margin: 0;
 	line-height: 1;
-<<<<<<< HEAD
-   font-family: 'gridnik';
+   font-family: 'Gridnik-G' !important;
    font-weight: 500;
-=======
-   font-family: 'Gridnik-G';
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
   font-size: 24px;
   text-align: left;
-  color: #1d374c;
+  color: #1d374c !important;
   background-color: #24d0b5;
 }
 .b12-team-txt h4:nth-child(2) {
@@ -2833,15 +2724,10 @@ display: none;
 }
 .mwh p {
 	font-size: 24px;
-    color: #52a3df;
-<<<<<<< HEAD
-    font-family: 'gridnik';
+    color: #52a3df !important;
+    font-family: 'Gridnik-G' !important;
     font-weight: 500;
     line-height: 1.2;
-=======
-    font-family: 'Gridnik-G';
-    line-height: 1;
->>>>>>> 59389de2d08120f5761d9fc9e3e49c9f1c11397f
     text-align: center;
     position: relative;
     opacity: .7;
@@ -2906,7 +2792,7 @@ display: none;
 	.mac.safari .mwh p::before {top: 20px;}
 }}
 .mac.safari .mwh {padding-top: 23px;}
-.mac.safari .tab-box a {line-height: 2;}
+.mac.safari .tab-box a {line-height: 2; font-family: 'Gridnik-G' !important;}
 .mac.safari .standart-h1::before {top: -4px; height: 29px;}
 .mac.safari .wrap-txt-f1 p{ line-height: 1.7; }
 .mac.safari .mwh p{line-height: 1.4; margin-top: 3px;}
