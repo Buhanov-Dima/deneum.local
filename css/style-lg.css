@@ -2,7 +2,7 @@
 .wrap-b8 .box-b2 {position: relative;} .box-b1 p:nth-child(2)::before {top: -51px;} .tab-box {margin: auto;}
 .wrap-b1-2 p {text-align: center;} .main-b1-ul ul {justify-content: center;} .wb3-img {width: 33%;} .wb3-txt {width: 67%;}
 .wrap-slaider .slaider {padding: 10px 50px;} .slaider.owl-carousel .owl-nav button.owl-prev::before, .slaider.owl-carousel .owl-nav button.owl-next::before {top: -55px;}
-.b4-f1 {width: 150px;}  .line {width: 100%; margin-top: 25px;} .graphic {height: 328px; width: 328px; position: absolute; top: 220px; left: 0; right: 0; margin: auto;} .graph-2::before {width: 188px;} .graph-1 {width: 215px; height: 215px;}
+.b4-f1 {min-width: 150px;}  .line {width: 100%; margin-top: 25px;} .graphic {height: 328px; width: 328px; position: absolute; top: 220px; left: 0; right: 0; margin: auto;} .graph-2::before {width: 188px;} .graph-1 {width: 215px; height: 215px;}
 #t-1::before {bottom: 52px;}#t-2::before{bottom: 53px;} #t-1 {left: 159px; top: 19px;} #t-2 {left: 123px; top: 23px;} #t-3 {left: 64px; top: 38px;} #t-4 {top: 105px;} #t-5 {top: 195px; left: 20px;} #t-6 {top: 273px; left: 142px;} #t-7 {top: 82px;}
 .wrap-b11, .wrap-b12 {justify-content: center;} .road .square {width: 407px;} .road .square h2 {font-size: 34px; font-size: 21px;} .gr-txt span {font-size: 32px;}
 .gr-txt p {font-size: 76px;} .gr-txt p:nth-child(2) {margin-top: 42px;} .energy-txt {margin: 0 0 0 132px;} .square-txt-2 {text-align: center;} .square-txt-3 {margin-top: 15px;} 
@@ -29,8 +29,36 @@
 .road .square {width: 351px;} .road::before {height: 1731px;}
 .wrap-b6 {padding-top: 50px;} .wrap-b6-1 img {width: 33px; min-height: 182px;}
 .mac.safari .wrap-txt-f1 p{ line-height: 1.7; max-height: 26px;}
-.mac.safari .gr-txt {padding-top: 27px;}
+.mac.safari .gr-txt {padding-top: 0px; margin-top: 0;}
 .box-b1 { display: inline-grid; }
 
 .mac.safari .box-b1 p:nth-child(2)::before {top: -56px;} .mac.safari .wrap-txt-f1 p:nth-child(1), .mac.safari .wrap-txt-f1 p:nth-child(2), .mac.safari .wrap-txt-f1 p:nth-child(3) {font-size: 18px; line-height: 1.9;}
 .mac.safari .b3-1-f1 {font-size: 24px;}
+
+
+
+/* Safari 10.1+ (which is the latest version of Safari at this time) */
+@media not all and (min-resolution:.001dpcm) { @media {
+	
+
+	.gr-txt {margin-top: 35px;}
+	.mac.safari .gr-txt p{line-height: 1.5; top: 20px;}
+	.mac.safari .gr-txt p:nth-child(2) {margin-top: 0px; position: relative; top: 0px; line-height: 1;}
+	.mac.safari #txt-red {top: -8px;}
+	.mac.safari .gr-txt-2 p {line-height: 1; top: 40px;}
+	.mac.safari .gr-txt-2 p:nth-child(2) {line-height: 1; top: 70px;}
+	.mac.safari .b10-icon h1 {font-size: 72px; margin-bottom: 15px;}
+	.b10-icon {background: url(/img/icons/b10-1.svg) no-repeat right 125px top 5px; max-width: 260px; background-size: 40px 45px;}
+	.b10-icon.bg-2 {background: url(/img/icons/b10-2.svg) no-repeat right 25px top 5px; max-width: 260px; background-size: 40px 47px;}
+	.b10-icon.bg-3 {background: url(/img/icons/b10-3.svg) no-repeat right 125px top 5px; max-width: 260px; background-size: 40px 48px;}
+	
+}}
+
+/*chrome-----------------!*/
+.mac.safari .cheaper span {position: relative; top: -10px;}
+.mac.safari .gr-txt p {line-height: 1.2; margin-top: 25px;}
+.mac.safari .gr-txt p:nth-child(2) {margin-top: 0; line-height: 1.2;}
+.mac.safari
+.mac.safari
+.mac.safari
+

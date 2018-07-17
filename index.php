@@ -179,7 +179,7 @@
 					<div class="wrap-b1-3">
 						<div class="wb3-img"><img class="w-100" src="/img/main/mask.svg" alt=""></div>
 						<div class="wb3-txt">
-							<p>“I think that sustainable energy is obviously really important.<br> If it’s not sustainable it is unsustainable”</p>
+							<p>“I think that sustainable energy is obviously really important. If it’s not sustainable it is unsustainable”</p>
 							<p>ELON MUSK. TESLA. SPACE X.</p>
 						</div>
 					</div>
@@ -210,7 +210,7 @@
 			<div class="row">
 				<div class="col-md-12">
 					<div class="wrap-b3-1">
-						<h1 class="standart-h1">DENEUM POWER STATION</h1>
+						<div class="wrap-standart"><h1 class="standart-h1">DENEUM POWER STATION</h1></div>
 						<div class="b3-table">
 							<span></span>
 							<span></span>
@@ -272,7 +272,7 @@
 			<div class="row">
 				<div class="col-md-12">
 					<div class="wrap-b4">
-						<h1 class="standart-h1">ULTRA-LOW-COST ELECTRICITY</h1>
+						<div class="wrap-standart"><h1 class="standart-h1">ULTRA-LOW-COST ELECTRICITY</h1></div>
 
 						<div class="wrap-progress xl-open">
 							<div class="fx-cnt-between">
@@ -474,7 +474,7 @@
 			<div class="row">
 				<div class="col-xl-12">
 					<div class="wrap-b5">
-						<h1 class="standart-h1">TWO-TRILLION DOLLAR MARKET</h1>
+						<div class="wrap-standart"><h1 class="standart-h1">TWO-TRILLION DOLLAR MARKET</h1></div>
 						<div class="wrap-graphic">
 							<b></b>
 							<div class="gr-txt">
@@ -548,7 +548,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-xl-12">
-					<h1 class="standart-h1">USE OF TOKENS</h1>
+					<div class="wrap-standart"><h1 class="standart-h1">USE OF TOKENS</h1></div>
 					<div class="wrap-b7">
 						<div class="b7-txt">
 							<p>One Deneum Token (DNM) represents 1 MWh of electricity</p>
@@ -574,7 +574,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-xl-12">
-					<h1 class="standart-h1">TOKEN SALES</h1>
+					<div class="wrap-standart"><h1 class="standart-h1">TOKEN SALES</h1></div>
 					<div class="wrap-b8">
 						<div class="box-b2">
 							<p>One Deneum Token (DNM) represents 1 MWh of electricity</p>
@@ -712,7 +712,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-xl-12">
-					<h1 class="standart-h1">PROJECT DETAILS</h1>
+					<div class="wrap-standart"><h1 class="standart-h1">PROJECT DETAILS</h1></div>
 					<div class="wrap-b10">
 						<div class="b10-icon">
 							<h1>29</h1>
@@ -798,7 +798,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-xl-12">
-					<h1 class="standart-h1">TEAM AND ADVISORS</h1>
+					<div class="wrap-standart"><h1 class="standart-h1">TEAM AND ADVISORS</h1></div>
 					<div class="wrap-b12">
 						<div class="team_item">
 							<div class="img-circle">
@@ -891,7 +891,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-xl-12">
-					<h1 class="standart-h1">ROADMAP</h1>
+					<div class="wrap-standart"><h1 class="standart-h1">ROADMAP</h1></div>
 					<div class="wrap-b13">
 						<div class="road">
 							<div class="square">
