@@ -30,7 +30,13 @@
 .wrap-b6 {padding-top: 50px;} .wrap-b6-1 img {width: 33px; min-height: 182px;}
 .mac.safari .wrap-txt-f1 p{ line-height: 1.7; max-height: 26px;}
 .mac.safari .gr-txt {padding-top: 0px; margin-top: 0;}
-.box-b1 { display: inline-grid; }
+.box-b1 { display: inline-grid; } .win.safari .standart-h1 {line-height: .9;}
+
+
+
+
+
+
 
 .mac.safari .box-b1 p:nth-child(2)::before {top: -56px;} .mac.safari .wrap-txt-f1 p:nth-child(1), .mac.safari .wrap-txt-f1 p:nth-child(2), .mac.safari .wrap-txt-f1 p:nth-child(3) {font-size: 18px; line-height: 1.9;}
 .mac.safari .b3-1-f1 {font-size: 24px;}
