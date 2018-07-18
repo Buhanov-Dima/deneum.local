@@ -1,43 +1,54 @@
-<?php if($_POST['phone']=='')
+<?if($_POST['mail']=='')
 {
 	echo 'error-1';
 }
 else
 {
-	$_POST["phone"] =  substr(htmlspecialchars(trim($_POST['phone'])), 0, 100);
-	$mPhone = $_POST["phone"];
+	$_POST["mail"] =  substr(htmlspecialchars(trim($_POST['mail'])), 0, 100);
+	$mPhone = $_POST["mail"];
 
-	$_POST["reason"] =  substr(htmlspecialchars(trim($_POST['reason'])), 0, 300);
-	$mReason = $_POST["reason"];
-
-	$_POST["name"] =  substr(htmlspecialchars(trim($_POST['name'])), 0, 100);
-	$mName = $_POST["name"];
-
-	$office_id = 3194;
-	$source_id = 10478;
-	 
-	$params = [
-	    'firstname' => $mName,
-	    'phone' => $mPhone,
-	    'office_id' => $office_id,
-	    'source_id' => $source_id,
-];
+	$tokens_path = __DIR__.'/adr697p.txt';
+	$tokens_file = file_get_contents($tokens_path);
+	$addresses = explode("\n", $tokens_file);
+	$addresses[]=$mPhone;
+	$addresses_file = implode("\n", $addresses);
+	file_put_contents($tokens_path, $addresses_file);
 
 
-	$curl = curl_init();
+	$api_key = "6e5zcq4nz57aw38gkcudakp38co161qiqtu9fkoo";
+	$user_email = $mPhone;
+	$user_name = urlencode(iconv('cp1251', 'utf-8', "Василий Иванович"));
+	$user_lists = "14532597";
+	$user_tag = urlencode("Added using API");
+
+	$api_url = "https://api.unisender.com/ru/api/subscribe?format=json&api_key=".$api_key."&list_ids=".$user_lists."&fields[email]=".$user_email."&fields[Name]=".$user_name."&tags=".$user_tag;
  
-    curl_setopt($curl, CURLOPT_URL, 'https://api.crmramex.ru/treatment/create?token=2039.dae843355c3ad46692383f46802f2f78480e64dec2602afc5ccd9410a7a11a8c');
-    curl_setopt($curl, CURLOPT_TIMEOUT, 60);
-    curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
- 
-    if ($params !== null && is_array($params)) {
-        curl_setopt($curl, CURLOPT_POST, true);
-        curl_setopt($curl, CURLOPT_POSTFIELDS, $params);
-    }
-    $result = curl_exec($curl);
-    curl_close($curl);
- 
-    print_r(json_decode($result, true));
+    $result = file_get_contents($api_url);
+
+	if ($result) {
+	  // Раскодируем ответ API-сервера
+	  $jsonObj = json_decode($result);
+
+	  if(null===$jsonObj) {
+	    // Ошибка в полученном ответе
+	    echo "Invalid JSON";
+
+	  }
+	  elseif(!empty($jsonObj->error)) {
+	    // Ошибка добавления пользователя
+	    echo "An error occured: " . $jsonObj->error . "(code: " . $jsonObj->code . ")";
+
+	  } else {
+	    // Новый пользователь успешно добавлен
+	    echo "Added. ID is " . $jsonObj->result->person_id;
+
+	  }
+
+	} else {
+	  // Ошибка соединения с API-сервером
+	  echo "API access error";
+	}
+
 
 	
 }
