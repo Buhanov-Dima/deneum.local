@@ -8,3 +8,16 @@
 .wrap-b8 .box-b2 p:nth-child(1)::before, .wrap-b8 .box-b2 p:nth-child(1)::after, .wrap-b8 .box-b2 p:nth-child(2)::before, .wrap-b8 .box-b2 p:nth-child(2)::after, .box-b2 p:nth-child(2)::before, .box-b2 p:nth-child(2)::after, .box-b2 p:nth-child(1)::before, .box-b2 p:nth-child(1)::after {display: none;}
 #b3, #b4, #b5, #b6, #b7, #b8, #b9, #b10, #b11, #b12, #b13 {padding: 0 40px;} .square.height-210 {width: 50%} .road .square {width: 190px;} .road::before {height: 1881px;}
 .road {width: 468px;} .wrap-exchanger {flex-direction: column; align-items: center;} .w-ex {flex-direction: row; width: 100%;} .w-ex .square {margin: 25px 20px;}
+
+
+/* Safari 10.1+ (which is the latest version of Safari at this time) */
+@media not all and (min-resolution:.001dpcm) { @media {
+
+	.wrap-graphic {padding-bottom: 40px;}
+	.road::before {height: 1897px;}
+	.mac.safari .square-txt {background: url('/img/icons/tchka.svg') no-repeat left 5px top 70px;background-size: 9px 33px;}
+	.mac.safari .square.height-340 .square-txt {background: url(/img/icons/tchka.svg) no-repeat left 5px top 43px; background-size: 9px 33px;}
+	.mac.safari .square.height-630 .square-txt::before {top: 72px;}
+	.mac.safari .standart-h1 {border-left: none; top: 6px;}
+	
+}}
