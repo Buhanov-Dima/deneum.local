@@ -2176,7 +2176,7 @@ display: none;
    font-weight: 500;
   font-size: 24px;
   text-align: left;
-  color: #1d374c !important;
+  color: #1d374c;
   background-color: #24d0b5;
 }
 .b12-team-txt h4:nth-child(2) {
