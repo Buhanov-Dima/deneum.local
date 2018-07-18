@@ -19,6 +19,15 @@
 	<link rel="stylesheet" href="/css/style-xl.css" media="only screen and (max-width:992px)">
 	<link rel="stylesheet" href="/css/style-md.css" media="only screen and (max-width:768px)">
 	<link rel="stylesheet" href="/css/style-xs.css" media="only screen and (max-width:576px)">
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-122180773-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-122180773-1');
+	</script>
 </head>
 <body>
 	<header>
@@ -1011,11 +1020,11 @@
 						<div class="d-flex justify-content-between">
 							<img class="foot-logo" src="/img/icons/logo.svg" alt="">
 							<div class="network">
-								<a href="https://twitter.com/DeneumPower" target="_blank"><img src="/img/icons/soc-1.svg" alt=""></a>
-								<a href="https://bitcointalk.org/index.php?topic=4582187" target="_blank"><img src="/img/icons/soc-2.svg" alt=""></a>
-								<a href="https://medium.com/@deneum.power" target="_blank"><img src="/img/icons/soc-3.svg" alt=""></a>
+								<a href="https://twitter.com/DeneumPower" target="_blank" onclick="gtag('event', 'ev2', { 'event_category': 'form', 'event_action': 'soc', });yaCounter49643068.reachGoal('soc');return true;"><img src="/img/icons/soc-1.svg" alt=""></a>
+								<a href="https://bitcointalk.org/index.php?topic=4582187" target="_blank" onclick="gtag('event', 'ev2', { 'event_category': 'form', 'event_action': 'soc', });yaCounter49643068.reachGoal('soc');return true;"><img src="/img/icons/soc-2.svg" alt=""></a>
+								<a href="https://medium.com/@deneum.power" target="_blank" onclick="gtag('event', 'ev2', { 'event_category': 'form', 'event_action': 'soc', });yaCounter49643068.reachGoal('soc');return true;"><img src="/img/icons/soc-3.svg" alt=""></a>
 								<a href="https://www.facebook.com/Deneum-183782802427014/" target="_blank"><img src="/img/icons/soc-4.svg" alt=""></a>
-								<a href="https://t.me/deneum_chat" target="_blank"><img src="/img/icons/soc-5.svg" alt=""></a>
+								<a href="https://t.me/deneum_chat" target="_blank" onclick="gtag('event', 'ev2', { 'event_category': 'form', 'event_action': 'soc', });yaCounter49643068.reachGoal('soc');return true;"><img src="/img/icons/soc-5.svg" alt=""></a>
 							</div>
 						</div>
 						<div class="foot-menu">
@@ -1046,14 +1055,35 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>
 	<script type="text/javascript" src="/js/slick.min.js"></script>
 	<script src="/js/main.js"></script>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-122180773-1"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
+	
+	<!-- Yandex.Metrika counter -->
+	<script type="text/javascript" >
+	    (function (d, w, c) {
+	        (w[c] = w[c] || []).push(function() {
+	            try {
+	                w.yaCounter49643068 = new Ya.Metrika2({
+	                    id:49643068,
+	                    clickmap:true,
+	                    trackLinks:true,
+	                    accurateTrackBounce:true,
+	                    webvisor:true
+	                });
+	            } catch(e) { }
+	        });
 
-	  gtag('config', 'UA-122180773-1');
+	        var n = d.getElementsByTagName("script")[0],
+	            s = d.createElement("script"),
+	            f = function () { n.parentNode.insertBefore(s, n); };
+	        s.type = "text/javascript";
+	        s.async = true;
+	        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+	        if (w.opera == "[object Opera]") {
+	            d.addEventListener("DOMContentLoaded", f, false);
+	        } else { f(); }
+	    })(document, window, "yandex_metrika_callbacks2");
 	</script>
+	<noscript><div><img src="https://mc.yandex.ru/watch/49643068" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+	<!-- /Yandex.Metrika counter -->
 </body>
 </html>

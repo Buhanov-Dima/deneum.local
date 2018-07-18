@@ -88,6 +88,8 @@ $(document).ready(function(){
             beforeSend: function(){
             },
             success: function(html){
+                gtag('event', 'ev1', { 'event_category': 'form', 'event_action': 'mail', });
+                yaCounter49643068.reachGoal('mail');
                 $phoneInput.val("");
                 $.fancybox.open({src  : '#popup', type : 'inline',});
                 setTimeout(function(){
