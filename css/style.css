@@ -1,7 +1,7 @@
 body {
 	width: 100%;
     height: 100%;
-    background: url(/img/bg-main2.png);
+    background: url(/img/bg-main3.png);
 	background-size: contain;
 	background-repeat-y: repeat;
 }
@@ -986,8 +986,15 @@ button {outline: none; cursor: pointer;}
 	position: relative;
 	padding: 20px;
 }
-.gr-txt::before {
-
+.gr-txt::before, .gr-txt-2::before {
+	content: '';
+	position: absolute;
+	width: 100%;
+	height: 2px;
+	background-color: #52a3df;
+	opacity: .7;
+	left: 0;
+	top: 110px;
 }
 .gr-txt-2 {
 	position: relative;
@@ -1255,7 +1262,7 @@ button {outline: none; cursor: pointer;}
     margin: auto;
 }
 
-#b2 {overflow: hidden;}
+#b2 {overflow: hidden; display: none;}
 .wrap-box-b1 {max-width: 866px;}
 .box-b2 {margin-top: 22px;}
 .box-b2 p{
@@ -2718,6 +2725,43 @@ display: none;
 	font-size: 30px;
 	color: #ffffff;
 }
+
+.win.safari .standart-h1 {top: -9px;}
+.mac.safari .standart-h1 {position: relative; top: 4px;}
+.wrap-standart {border-left: 6px solid #24d0b5; max-height: 33px;}
+.mac.safari .square-img-txt .mwh {padding-top: 36px;}
+.mac.safari .tab-box a {line-height: 2; font-family: 'Gridnik-G' !important;}
+.mac.safari .standart-h1::before {top: -4px; height: 29px;}
+.mac.safari .wrap-txt-f1 p{ line-height: 2; }
+.mac.safari .mwh p{line-height: 1.5; margin-top: 3px;}
+.mac.safari .mwh p::before {top: 25px;}
+.mac.safari .line p {font-size: 18px; margin-bottom: -24px;}
+
+.mac.safari .gr-txt-2 p {line-height: 1.3;}
+.mac.safari .gr-txt-2 {padding: 0;}
+
+
+.mac.safari .b6-down-line p {line-height: 0.5;}
+.mac.safari .square-txt-2 span {line-height: 1.7; height: 24px; font-size: 22px;}
+.mac.safari .b10-icon h1 {line-height: 1.6; font-size: 98px;}
+.mac.safari .b10-icon h6 {position: relative; top: -60px;}
+.mac.safari .team_txt h2 {line-height: 1.5; height: 26px;}
+.mac.safari .b12-team-txt h4{max-height: 26px; line-height: 1.2;}
+
+.square.height-630 .square-txt p:nth-child(2)::after, .square.height-630 .square-txt p:nth-child(1)::after{display: none;}
+
+.mac.safari .square.height-630 .square-txt::before {top: 82px;}
+.mac.safari .square-txt {background: url('/img/icons/tchka.svg') no-repeat left 15px top 82px; background-size: 9px 33px;}
+.mac.safari .square.height-340 .square-txt {background: url(/img/icons/tchka.svg) no-repeat left 15px top 50px; background-size: 9px 33px;}
+.mac.safari .square.height-630 .square-txt {background: transparent;}
+
+
+
+.mac.safari #txt-red {margin-top: -10px;}
+
+.mac.safari .gr-txt::before, .mac.safari .gr-txt-2::before {display: none;}
+
+.mac.safari .cheaper span {margin-top: -25px;}
 /* Safari 10.1+ (which is the latest version of Safari at this time) */
 @media not all and (min-resolution:.001dpcm) { @media {
 
@@ -2761,62 +2805,34 @@ display: none;
 
 	.square.height-340 .square-txt {
 	background: url(/img/icons/tchka.svg) no-repeat left 15px top 52px;
-    background-size: 9px 33px;
-}
+    background-size: 9px 33px;}
 
 
 
-.square-txt {
-	background: url('/img/icons/tchka.svg') no-repeat left 15px top 82px;
-	background-size: 9px 33px;
-}
+	.square-txt {
+		background: url('/img/icons/tchka.svg') no-repeat left 15px top 82px;
+		background-size: 9px 33px;}
 
-.b6-down-line p:nth-child(2)::before, .b6-down-line p:nth-child(3)::before, .b6-down-line p:nth-child(4)::before, .b6-down-line p:nth-child(5)::before, .b6-down-line p:nth-child(6)::before, .b6-down-line p:nth-child(7)::before {display: none;}
-
-
-.wb3-txt p:nth-child(2) {display: flex; position: relative; top: 15px;}
-
-.mac.safari .cheaper {line-height: 1.5; position: relative; top: 15px;}
-.mac.safari .cheaper span {margin-bottom: 16px;}
+	.b6-down-line p:nth-child(2)::before, .b6-down-line p:nth-child(3)::before, .b6-down-line p:nth-child(4)::before, .b6-down-line p:nth-child(5)::before, .b6-down-line p:nth-child(6)::before, .b6-down-line p:nth-child(7)::before {display: none;}
 
 
-.gr-txt p{display: flex; position: relative;top: 35px;}
-.gr-txt span {position: relative; top: 30px;}
-.mac.safari .gr-txt p:nth-child(2) {margin-top: 10px; position: relative; top: 0px; line-height: 1.7;}
-.mac.safari .gr-txt-2 p:nth-child(2) {margin-top: 15px; position: relative; top: 38px; line-height: 2.36;}
-.mac.safari .gr-txt-2 p {position: relative; top: 59px; margin-top: 10px; line-height: 1;}
-.mac.safari #txt-red {position: relative; top: 12px;} 
+	.wb3-txt p:nth-child(2) {display: flex; position: relative; top: 15px;}
+
+	.mac.safari .cheaper {line-height: 2.3; position: absolute; top: 0px;}
+	.mac.safari .cheaper span {margin-bottom: 16px;}
+
+
+	.gr-txt p{display: flex; position: relative;top: 35px;}
+	.gr-txt span {position: relative; top: 30px;}
+	.mac.safari .gr-txt p:nth-child(2) {margin-top: 10px; position: relative; top: 0px; line-height: 1.7;}
+	.mac.safari .gr-txt-2 p:nth-child(2) {margin-top: 15px; position: relative; top: 38px; line-height: 2.36;}
+	.mac.safari .gr-txt-2 p {position: relative; top: 59px; margin-top: 10px; line-height: 1;}
+	.mac.safari #txt-red {position: relative; top: 12px;} 
+	.mac.safari .mwh p{line-height: 1.5;}
+
+
+	.gr-txt::before, .gr-txt-2::before {top: 130px;}
+
+	.mac.safari .cheaper span {position: relative; top: -10px;}
+	.mac.safari #txt-red {position: relative; top: 2px; line-height: 2;} 
 }}
-.win.safari .standart-h1 {top: -9px;}
-.mac.safari .standart-h1 {position: relative; top: 4px;}
-.wrap-standart {border-left: 6px solid #24d0b5; max-height: 33px;}
-.mac.safari .square-img-txt .mwh {padding-top: 36px;}
-.mac.safari .tab-box a {line-height: 2; font-family: 'Gridnik-G' !important;}
-.mac.safari .standart-h1::before {top: -4px; height: 29px;}
-.mac.safari .wrap-txt-f1 p{ line-height: 2; }
-.mac.safari .mwh p{line-height: 1.3; margin-top: 3px;}
-.mac.safari .mwh p::before {top: 25px;}
-.mac.safari .line p {font-size: 18px; margin-bottom: -24px;}
-
-.mac.safari .gr-txt-2 p {line-height: 1.3;}
-.mac.safari .gr-txt-2 {padding: 0;}
-
-
-.mac.safari .b6-down-line p {line-height: 0.5;}
-.mac.safari .square-txt-2 span {line-height: 1.7; height: 24px; font-size: 22px;}
-.mac.safari .b10-icon h1 {line-height: 1.6; font-size: 98px;}
-.mac.safari .b10-icon h6 {position: relative; top: -60px;}
-.mac.safari .team_txt h2 {line-height: 1.5; height: 26px;}
-.mac.safari .b12-team-txt h4{max-height: 26px; line-height: 1.2;}
-
-.square.height-630 .square-txt p:nth-child(2)::after, .square.height-630 .square-txt p:nth-child(1)::after{display: none;}
-
-
-
-.mac.safari .cheaper span {position: relative; top: -14px;}
-.mac.safari #txt-red {position: relative; top: -10px;} 
-.mac.safari .square.height-630 .square-txt::before {top: 82px;}
-.mac.safari .square-txt {background: url('/img/icons/tchka.svg') no-repeat left 15px top 82px; background-size: 9px 33px;}
-.mac.safari .square.height-340 .square-txt {background: url(/img/icons/tchka.svg) no-repeat left 15px top 50px; background-size: 9px 33px;}
-.mac.safari .square.height-630 .square-txt {background: transparent;}
-.mac.safari
