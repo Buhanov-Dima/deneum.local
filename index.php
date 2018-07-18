@@ -19,6 +19,15 @@
 	<link rel="stylesheet" href="/css/style-xl.css" media="only screen and (max-width:992px)">
 	<link rel="stylesheet" href="/css/style-md.css" media="only screen and (max-width:768px)">
 	<link rel="stylesheet" href="/css/style-xs.css" media="only screen and (max-width:576px)">
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-122180773-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-122180773-1');
+	</script>
 </head>
 <body>
 	<header>
@@ -1046,15 +1055,7 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>
 	<script type="text/javascript" src="/js/slick.min.js"></script>
 	<script src="/js/main.js"></script>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-122180773-1"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
-
-	  gtag('config', 'UA-122180773-1');
-	</script>
+	
 	<!-- Yandex.Metrika counter -->
 	<script type="text/javascript" >
 	    (function (d, w, c) {
