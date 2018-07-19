@@ -182,7 +182,7 @@ button {outline: none; cursor: pointer;}
 
 .main-b1-ul {
 	background: url('/img/main/linear-radial.svg') no-repeat left top;
-	background-size: contain;
+	background-size: 400px;
 }
 .main-b1-ul ul{
 	list-style: none;
@@ -211,7 +211,7 @@ button {outline: none; cursor: pointer;}
 }
 
 .b1-ul li.active .b1-ul-hide {
-	position: relative;
+	position: absolute;
 	opacity: 1;
 }
 .b1-ul li::before {
@@ -228,14 +228,15 @@ button {outline: none; cursor: pointer;}
 }
 
 .b1-ul li:first-child{
-	background: url('/img/icons/lamp.png') no-repeat left top 25px;
+	background: url('/img/icons/lamp.png') no-repeat left center;
 	background-size: 59px 59px;
 }
 
 .b1-ul li:nth-child(2){
-	background: url('/img/icons/lighting.svg') no-repeat left top 25px;
+	background: url('/img/icons/lighting.svg') no-repeat left center;
 	background-size: 59px 59px;
 }
+.b1-ul li::before {top: 38px;}
 .b1-ul-hide li::before{
 	display: none;
 }

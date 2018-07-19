@@ -81,7 +81,7 @@
 .rmap-right-cr-last::before {width: 60px; right: -45px;} .road::before {height: 1699px; } .network img {width: 27px; height: 27px;}
 .foot-logo {width: 169px;} .d-flex {align-items: center;}
 .power-station img {width: 100%; max-width: none;} .wrap-b6-1 h1 {font-size: 48px;} .b6-down-line p {font-size: 18px;}
-.network a {margin-left: 20px;} .mwh {width: 70px; height: 70px; padding: 18px 13px; margin-left: -68px;}
+.network a {margin-left: 20px;} .mwh {width: 70px; height: 70px; padding: 18px 13px; margin-left: -27px;}
 .navbar {height: auto;} header {position: fixed; top: 0; width: 100%; z-index: 999;} #b1 {margin-top: 120px;}
 .square-img-txt .mwh {margin-left: 0; padding: 18px 10px;} .mwh p::before {top: 21px;}
 .mac.safari .gr-txt {padding-top: 38px;} .mac.safari .wrap-txt-f1 p {line-height: 2;}
@@ -100,5 +100,9 @@
 	.mac.safari #txt-red {top: 3px;}
 	.mac.safari .square-img-txt .mwh p{margin-top: 0;}
 	.mac.safari .square-txt {background: url('/img/icons/tchka.svg') no-repeat left 5px top 70px;background-size: 9px 33px;}
-
+	.mac.safari .box-b1 p:nth-child(2)::before {top: -79px;}
 }}
+
+
+.b1-ul li.active .b1-ul-hide {position: relative; max-width: 146px;}
+.b1-ul li:first-child, .b1-ul li:nth-child(2) {background-position: left top 10px;}

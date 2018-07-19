@@ -242,6 +242,9 @@ header {padding: 0 15px;}
 
 .gr-txt::before, .gr-txt-2::before {top: 78px;}
 
+
+
+
 @media not all and (min-resolution:.001dpcm) { @media {
 
     .gr-txt p { 

@@ -57,7 +57,7 @@
 	.mac.safari .gr-txt p{line-height: 1.5; top: 20px;}
 	.mac.safari .gr-txt p:nth-child(2) {margin-top: 0px; position: relative; top: 0px; line-height: 1;}
 	.mac.safari #txt-red {top: 0px;}
-	.mac.safari .gr-txt-2 p {line-height: 1; top: 40px;}
+	.mac.safari .gr-txt-2 p {line-height: 1; top: 40px; margin-top: 35px;}
 	.mac.safari .gr-txt-2 p:nth-child(2) {line-height: 1; top: 70px;}
 	.mac.safari .b10-icon h1 {font-size: 72px; margin-bottom: 15px;}
 	.b10-icon {background: url(/img/icons/b10-1.svg) no-repeat right 125px top 5px; max-width: 260px; background-size: 40px 45px;}
