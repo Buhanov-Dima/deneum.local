@@ -199,21 +199,26 @@ button {outline: none; cursor: pointer;}
 .b1-ul {
 	display: flex;
 }
-.b1-ul-hide {
-	display: none;
-}
+
 .b1-ul li {
 	position: relative;
 }
-.b1-ul li.active .b1-ul-hide {
-	display: block;
+
+.b1-ul-hide {
 	position: absolute;
+	opacity: 0;
+	transition: .5s;
+}
+
+.b1-ul li.active .b1-ul-hide {
+	position: relative;
+	opacity: 1;
 }
 .b1-ul li::before {
 	content: '';
 	position: absolute;
 	right: -15px;
-    bottom: 19px;
+    top: 65px;
 	width: 10px;
 	height: 10px;
 	border: 2px solid #24d0b5;
@@ -223,12 +228,12 @@ button {outline: none; cursor: pointer;}
 }
 
 .b1-ul li:first-child{
-	background: url('/img/icons/lamp.png') no-repeat left center;
+	background: url('/img/icons/lamp.png') no-repeat left top 25px;
 	background-size: 59px 59px;
 }
 
 .b1-ul li:nth-child(2){
-	background: url('/img/icons/lighting.svg') no-repeat left center;
+	background: url('/img/icons/lighting.svg') no-repeat left top 25px;
 	background-size: 59px 59px;
 }
 .b1-ul-hide li::before{
