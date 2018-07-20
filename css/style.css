@@ -2822,7 +2822,7 @@ display: none;
 	.b6-down-line p:nth-child(2)::before, .b6-down-line p:nth-child(3)::before, .b6-down-line p:nth-child(4)::before, .b6-down-line p:nth-child(5)::before, .b6-down-line p:nth-child(6)::before, .b6-down-line p:nth-child(7)::before {display: none;}
 
 
-	.wb3-txt p:nth-child(2) {display: flex; position: relative; top: 15px;}
+	.wb3-txt p:nth-child(2) {display: flex; position: relative; top: 8px;}
 
 	.mac.safari .cheaper {line-height: 2.3; position: absolute; top: 0px;}
 	.mac.safari .cheaper span {margin-bottom: 16px;}

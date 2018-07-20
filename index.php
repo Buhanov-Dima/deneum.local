@@ -248,7 +248,7 @@
 									</div>
 								</div>
 								<div class="wrap-n-img">
-									<div class="capsule-img"><img src="/img/main/generator.svg" alt=""></div>
+									<div class="capsule-img"><img src="/img/main/generator-1.png" alt=""></div>
 									<div class="capsule-txt">
 										<p>Deuterium</p>
 										<p>Electricity output</p>
@@ -597,7 +597,7 @@
 										<p>$2.95<br><span>MWh</span></p>
 									</div>
 									<div class="square-txt">
-										<p>PRIVATE<br> SALE</p>
+										<p>MARKET<br> PRICE</p>
 										<p>23 APR 2018<br>29 APR 2018</p>
 									</div>
 								</div>
