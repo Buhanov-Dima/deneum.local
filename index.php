@@ -597,7 +597,7 @@
 										<p>$2.95<br><span>MWh</span></p>
 									</div>
 									<div class="square-txt">
-										<p>MARKET<br> PRICE</p>
+										<p>PRIVATE<br> SALE</p>
 										<p>23 APR 2018<br>29 APR 2018</p>
 									</div>
 								</div>
@@ -642,7 +642,7 @@
 										<p>$73<br><span>MWh</span></p>
 									</div>
 									<div class="square-txt">
-										<p>PRIVATE<br> SALE</p>
+										<p>MARKET<br> PRICE</p>
 										<p>DEC 2020</p>
 									</div>
 								</div>

@@ -1877,7 +1877,7 @@ button {outline: none; cursor: pointer;}
   position: relative;
 }
 .square-txt {
-	background: url('/img/icons/tchka.svg') no-repeat left 15px top 88px;
+	background: url('/img/icons/tchka.png') no-repeat left 15px top 88px;
 	background-size: 9px 33px;
 }
 
@@ -1918,7 +1918,7 @@ button {outline: none; cursor: pointer;}
 	height: 210px;
 }
 .square.height-340 .square-txt {
-	background: url(/img/icons/tchka.svg) no-repeat left 15px top 58px;
+	background: url(/img/icons/tchka.png) no-repeat left 15px top 58px;
     background-size: 9px 33px;
 }
 .square.height-630 .square-txt {
@@ -2758,8 +2758,8 @@ display: none;
 .square.height-630 .square-txt p:nth-child(2)::after, .square.height-630 .square-txt p:nth-child(1)::after{display: none;}
 
 .mac.safari .square.height-630 .square-txt::before {top: 82px;}
-.mac.safari .square-txt {background: url('/img/icons/tchka.svg') no-repeat left 15px top 82px; background-size: 9px 33px;}
-.mac.safari .square.height-340 .square-txt {background: url(/img/icons/tchka.svg) no-repeat left 15px top 50px; background-size: 9px 33px;}
+.mac.safari .square-txt {background: url('/img/icons/tchka.png') no-repeat left 15px top 82px; background-size: 9px 33px;}
+.mac.safari .square.height-340 .square-txt {background: url(/img/icons/tchka.png) no-repeat left 15px top 50px; background-size: 9px 33px;}
 .mac.safari .square.height-630 .square-txt {background: transparent;}
 
 
@@ -2813,13 +2813,13 @@ display: none;
 
 
 	.square.height-340 .square-txt {
-	background: url(/img/icons/tchka.svg) no-repeat left 15px top 52px;
+	background: url(/img/icons/tchka.png) no-repeat left 15px top 52px;
     background-size: 9px 33px;}
 
 
 
 	.square-txt {
-		background: url('/img/icons/tchka.svg') no-repeat left 15px top 82px;
+		background: url('/img/icons/tchka.png') no-repeat left 15px top 82px;
 		background-size: 9px 33px;}
 
 	.b6-down-line p:nth-child(2)::before, .b6-down-line p:nth-child(3)::before, .b6-down-line p:nth-child(4)::before, .b6-down-line p:nth-child(5)::before, .b6-down-line p:nth-child(6)::before, .b6-down-line p:nth-child(7)::before {display: none;}
