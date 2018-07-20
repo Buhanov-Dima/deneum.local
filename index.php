@@ -1028,10 +1028,9 @@
 							</div>
 						</div>
 						<div class="foot-menu">
-							<a href="#">WHAT IS DENEUN</a>
-							<a href="#">TERMS AND CONDITIONS</a>
-							<a href="#">TECHNOLOGY</a>
-							<a href="#">CONTACT US</a>
+							<a href="#">WHITEPAPER</a>
+							<a href="#">ABOUT</a>
+							<a href="#">TEAM</a>
 							<a href="#">F.A.Q.</a>
 						</div>
 						<p>DENEUM (c) 2018. All rights reserved.</p>

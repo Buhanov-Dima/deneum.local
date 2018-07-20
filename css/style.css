@@ -1558,6 +1558,7 @@ button {outline: none; cursor: pointer;}
 }
 .btn-popup {
 	margin-top: 66px;
+	display: none;
 }
 .btn-popup a{
   font-size: 24px;
@@ -2768,6 +2769,8 @@ display: none;
 .mac.safari .gr-txt::before, .mac.safari .gr-txt-2::before {display: none;}
 
 .mac.safari .cheaper span {margin-top: -25px;}
+
+.navbar-nav li:first-child {display: none;}
 /* Safari 10.1+ (which is the latest version of Safari at this time) */
 @media not all and (min-resolution:.001dpcm) { @media {
 
